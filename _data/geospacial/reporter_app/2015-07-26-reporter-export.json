@@ -1,0 +1,1185 @@
+{
+  "snapshots" : [
+    {
+      "battery" : 0.87,
+      "location" : {
+        "altitude" : 1184.673706054688,
+        "timestamp" : "2015-07-26T07:13:24-0600",
+        "verticalAccuracy" : 10,
+        "longitude" : -114.177830483784,
+        "latitude" : 46.02608355884638,
+        "course" : 0,
+        "uniqueIdentifier" : "99054C9C-09BE-413F-A512-71028522E6CD",
+        "placemark" : {
+          "thoroughfare" : "Cole Ave",
+          "postalCode" : "59829",
+          "subAdministrativeArea" : "Ravalli",
+          "subThoroughfare" : "101–215",
+          "region" : "<+46.02621099,-114.17783130> radius 141.66",
+          "uniqueIdentifier" : "7199EAEC-3BA5-486B-9DAA-BA0C9EC9AC35",
+          "locality" : "Darby",
+          "name" : "101–215 Cole Ave",
+          "country" : "United States",
+          "administrativeArea" : "MT"
+        },
+        "horizontalAccuracy" : 65,
+        "speed" : -1
+      },
+      "altitude" : {
+        "gpsRawAltitude" : 1184.673706054688,
+        "gpsAltitudeFromLocation" : 1185.305542,
+        "uniqueIdentifier" : "E1787345-5780-4105-9C97-A127FFC80AC8"
+      },
+      "reportImpetus" : 4,
+      "steps" : -1,
+      "audio" : {
+        "avg" : -55.10488,
+        "uniqueIdentifier" : "DA5B1DF9-5E5A-486F-A0D9-22A06232377F",
+        "peak" : -34.70971
+      },
+      "sectionIdentifier" : "1-2015-7-26",
+      "uniqueIdentifier" : "7D83C113-2C15-45A7-8682-5A8434174EF5",
+      "connection" : 0,
+      "background" : 0,
+      "draft" : 0,
+      "weather" : {
+        "windMPH" : 2.5,
+        "windDirection" : "NE",
+        "tempF" : 65.7,
+        "precipTodayIn" : 0,
+        "windGustKPH" : 4.3,
+        "feelslikeC" : 18.7,
+        "visibilityMi" : 10,
+        "feelslikeF" : 65.7,
+        "stationID" : "KMTHAMIL1",
+        "latitude" : 46.247341,
+        "windGustMPH" : 2.7,
+        "pressureIn" : 29.97,
+        "pressureMb" : 1015,
+        "relativeHumidity" : "59%",
+        "uniqueIdentifier" : "21B13CFF-936A-439E-8E01-A3CCB419EA0E",
+        "longitude" : -114.182404,
+        "precipTodayMetric" : 0,
+        "windKPH" : 4,
+        "windDegrees" : 45,
+        "tempC" : 18.7,
+        "weather" : "Partly Cloudy",
+        "uv" : 0,
+        "dewpointC" : 11,
+        "visibilityKM" : 16.1
+      },
+      "date" : "2015-07-26T07:13:23-0600",
+      "responses" : [
+        {
+          "questionPrompt" : "How did you sleep?",
+          "answeredOptions" : [
+            "Poorly"
+          ],
+          "uniqueIdentifier" : "E14CC095-ED02-44F0-98F3-6EF517FA4DEF"
+        }
+      ]
+    },
+    {
+      "battery" : 0.91,
+      "location" : {
+        "altitude" : 1058,
+        "timestamp" : "2015-07-26T10:56:17-0600",
+        "verticalAccuracy" : 24,
+        "longitude" : -114.1669653264006,
+        "latitude" : 46.19950838856976,
+        "course" : 0,
+        "uniqueIdentifier" : "E2317DEC-9F4D-49E9-A8A7-C36E978C0018",
+        "placemark" : {
+          "thoroughfare" : "US Highway 93 S",
+          "postalCode" : "59840",
+          "subAdministrativeArea" : "Ravalli",
+          "subThoroughfare" : "813–853",
+          "region" : "<+46.19929949,-114.16688860> radius 141.66",
+          "uniqueIdentifier" : "716F015F-AB33-480F-8B4E-EFDD8EDD58E8",
+          "locality" : "Hamilton",
+          "name" : "813–853 US Highway 93 S",
+          "country" : "United States",
+          "administrativeArea" : "MT"
+        },
+        "horizontalAccuracy" : 5,
+        "speed" : -1
+      },
+      "altitude" : {
+        "gpsRawAltitude" : 1058,
+        "gpsAltitudeFromLocation" : 1103.893555,
+        "uniqueIdentifier" : "84828419-2A93-484F-AB84-BC1FE4D97200"
+      },
+      "reportImpetus" : 0,
+      "steps" : -1,
+      "audio" : {
+        "avg" : -37.0813,
+        "uniqueIdentifier" : "A917660B-C510-456D-BF0B-DA298ACA4A65",
+        "peak" : -20.03926
+      },
+      "photoSet" : {
+        "photos" : [
+          {
+            "brightnessValue" : 9.63006,
+            "meteringMode" : 5,
+            "focalLengthIn35mm" : 35,
+            "sceneCaptureType" : 0,
+            "exposureMode" : 0,
+            "resolutionUnit" : 2,
+            "make" : "Apple",
+            "software" : "8.4",
+            "assetUrl" : "assets-library:\/\/asset\/asset.JPG?id=01D7E646-9090-4367-9F3C-6338B309C818&ext=JPG",
+            "isoSpeed" : 50,
+            "exposureTime" : 0.0004710316,
+            "shutterSpeed" : 11.05198,
+            "depth" : 8,
+            "latitude" : 0,
+            "fNumber" : 2.4,
+            "sensingMode" : 2,
+            "uniqueIdentifier" : "7FA6478C-E7B2-45FF-880A-2BBF55E3C84F",
+            "longitude" : 0,
+            "apertureValue" : 2.526069,
+            "focalLength" : 4.28,
+            "model" : "iPhone 4S",
+            "altitude" : 0,
+            "exposureProgram" : 2,
+            "pixelWidth" : 3264,
+            "dateTime" : "2015-07-26T10:54:07-0600",
+            "flash" : 16,
+            "orientation" : 1,
+            "pixelHeight" : 2448,
+            "whiteBalance" : 0
+          }
+        ],
+        "uniqueIdentifier" : "1595C592-F225-4F5C-92F2-9E0224022253"
+      },
+      "sectionIdentifier" : "1-2015-7-26",
+      "uniqueIdentifier" : "79601071-86AC-493A-A456-E2E65B69916F",
+      "connection" : 0,
+      "background" : 0,
+      "draft" : 0,
+      "weather" : {
+        "windMPH" : 3.4,
+        "windDirection" : "SSE",
+        "tempF" : 70,
+        "precipTodayIn" : 0,
+        "windGustKPH" : 5.5,
+        "feelslikeC" : 21.1,
+        "feelslikeF" : 70,
+        "windGustMPH" : 3.4,
+        "latitude" : 46.247341,
+        "stationID" : "KMTHAMIL1",
+        "pressureIn" : 29.93,
+        "pressureMb" : 1013,
+        "relativeHumidity" : "45%",
+        "uniqueIdentifier" : "022360BF-6313-429F-A215-185CDE7C9591",
+        "longitude" : -114.182404,
+        "precipTodayMetric" : 0,
+        "windKPH" : 5.5,
+        "windDegrees" : 158,
+        "tempC" : 21.1,
+        "weather" : "Mostly Cloudy",
+        "uv" : 0,
+        "dewpointC" : 9
+      },
+      "date" : "2015-07-26T10:56:10-0600",
+      "responses" : [
+        {
+          "questionPrompt" : "Who are you with?",
+          "tokens" : [
+            {
+              "text" : "DAD",
+              "uniqueIdentifier" : "6EF834B9-C0DA-4BD3-94C9-B44ED828B4D5"
+            },
+            {
+              "text" : "ANDERS",
+              "uniqueIdentifier" : "E22A8A8A-F495-42E9-B4AF-1D8776FBD6A9"
+            }
+          ],
+          "uniqueIdentifier" : "DE948A6B-8345-4EE9-B961-5584043F890A"
+        },
+        {
+          "questionPrompt" : "Have you seen an animal?",
+          "tokens" : [
+            {
+              "text" : "Birds",
+              "uniqueIdentifier" : "446EC8C1-BA05-4D04-818E-E188ED6711BA"
+            }
+          ],
+          "uniqueIdentifier" : "48886F77-655E-4185-87F5-F47AD117DD58"
+        },
+        {
+          "questionPrompt" : "Where are you?",
+          "locationResponse" : {
+            "uniqueIdentifier" : "6CEE5295-E3F9-4352-B454-0EC340619618",
+            "text" : "Angler's Roost - The Bitterroot",
+            "location" : {
+              "altitude" : 0,
+              "timestamp" : "2015-07-26T10:56:24-0600",
+              "verticalAccuracy" : -1,
+              "longitude" : -114.1678070461518,
+              "latitude" : 46.19992921123398,
+              "course" : 0,
+              "uniqueIdentifier" : "802C7FB7-626F-48B5-ABC7-C7C15729B70D",
+              "horizontalAccuracy" : 0,
+              "speed" : -1
+            },
+            "foursquareVenueId" : "4e1b4b431495517ce51a0aed"
+          },
+          "uniqueIdentifier" : "2333B3BD-14C4-4F4C-B76D-0201E71988EB"
+        },
+        {
+          "questionPrompt" : "What is the weather like?",
+          "tokens" : [
+            {
+              "text" : "Sunny",
+              "uniqueIdentifier" : "BE5C21E8-AA75-4D9D-BE9F-E0C590970D1B"
+            }
+          ],
+          "uniqueIdentifier" : "71C32EF2-2963-49A3-86A6-00A20E046DC6"
+        },
+        {
+          "questionPrompt" : "What are you doing?",
+          "uniqueIdentifier" : "3F6E947E-4F7C-465C-8345-B32550888284"
+        },
+        {
+          "questionPrompt" : "Are you working?",
+          "answeredOptions" : [
+            "No"
+          ],
+          "uniqueIdentifier" : "5F875A65-F62E-4A4B-91F2-A44CABD800DA"
+        }
+      ]
+    },
+    {
+      "battery" : 0.87,
+      "location" : {
+        "altitude" : 1042,
+        "timestamp" : "2015-07-26T12:27:29-0600",
+        "verticalAccuracy" : 32,
+        "longitude" : -114.0963895340581,
+        "latitude" : 46.41506985765547,
+        "course" : 0,
+        "uniqueIdentifier" : "57C170FA-4095-4CF3-8324-3121029F8B2E",
+        "placemark" : {
+          "thoroughfare" : "Eastside Hwy",
+          "postalCode" : "59870",
+          "subAdministrativeArea" : "Ravalli",
+          "subThoroughfare" : "2606",
+          "region" : "<+46.41522500,-114.09596800> radius 70.83",
+          "uniqueIdentifier" : "495E3157-8BD9-48D8-B1AA-97E78679F67A",
+          "locality" : "Stevensville",
+          "name" : "2606 Eastside Hwy",
+          "country" : "United States",
+          "administrativeArea" : "MT"
+        },
+        "horizontalAccuracy" : 30,
+        "speed" : -1
+      },
+      "altitude" : {
+        "gpsRawAltitude" : 1042,
+        "gpsAltitudeFromLocation" : 1025.842651,
+        "uniqueIdentifier" : "AF631EC7-C969-4147-AB80-39B6F2CA5F5E"
+      },
+      "reportImpetus" : 0,
+      "steps" : -1,
+      "audio" : {
+        "avg" : -38.61693,
+        "uniqueIdentifier" : "21624D80-7F2F-45D7-A2EE-5CC1F5FD1ECB",
+        "peak" : -35.38131
+      },
+      "photoSet" : {
+        "photos" : [
+          {
+            "brightnessValue" : 10.60282,
+            "meteringMode" : 5,
+            "focalLengthIn35mm" : 35,
+            "sceneCaptureType" : 0,
+            "exposureMode" : 0,
+            "resolutionUnit" : 2,
+            "make" : "Apple",
+            "software" : "8.4",
+            "assetUrl" : "assets-library:\/\/asset\/asset.JPG?id=19905899-279C-43E2-952E-2F1E78CF8DA6&ext=JPG",
+            "isoSpeed" : 50,
+            "exposureTime" : 0.0003439972,
+            "shutterSpeed" : 11.5053,
+            "depth" : 8,
+            "latitude" : 0,
+            "fNumber" : 2.4,
+            "sensingMode" : 2,
+            "uniqueIdentifier" : "0920E4C2-2131-4141-AD9C-B0B05F41C59A",
+            "longitude" : 0,
+            "apertureValue" : 2.526069,
+            "focalLength" : 4.28,
+            "model" : "iPhone 4S",
+            "altitude" : 0,
+            "exposureProgram" : 2,
+            "pixelWidth" : 3264,
+            "dateTime" : "2015-07-26T11:28:27-0600",
+            "flash" : 16,
+            "orientation" : 3,
+            "pixelHeight" : 2448,
+            "whiteBalance" : 0
+          },
+          {
+            "brightnessValue" : 11.02566,
+            "meteringMode" : 3,
+            "focalLengthIn35mm" : 35,
+            "sceneCaptureType" : 0,
+            "exposureMode" : 0,
+            "resolutionUnit" : 2,
+            "make" : "Apple",
+            "software" : "8.4",
+            "assetUrl" : "assets-library:\/\/asset\/asset.JPG?id=288EDEFC-6264-40DA-B5CE-1E10BFF4DBA6&ext=JPG",
+            "isoSpeed" : 50,
+            "exposureTime" : 0.0002710027,
+            "shutterSpeed" : 11.84942,
+            "depth" : 8,
+            "latitude" : 0,
+            "fNumber" : 2.4,
+            "sensingMode" : 2,
+            "uniqueIdentifier" : "1E91A62B-53B1-4AC4-8325-C69DD56CADA5",
+            "longitude" : 0,
+            "apertureValue" : 2.526069,
+            "focalLength" : 4.28,
+            "model" : "iPhone 4S",
+            "altitude" : 0,
+            "exposureProgram" : 2,
+            "pixelWidth" : 3264,
+            "dateTime" : "2015-07-26T11:28:37-0600",
+            "flash" : 16,
+            "orientation" : 3,
+            "pixelHeight" : 2448,
+            "whiteBalance" : 0
+          }
+        ],
+        "uniqueIdentifier" : "D68D81D6-8C04-4168-95C9-09BB0FAA6209"
+      },
+      "sectionIdentifier" : "1-2015-7-26",
+      "uniqueIdentifier" : "2FA6FDAF-BFE9-4D44-8A67-80BCC56C2C3D",
+      "connection" : 0,
+      "background" : 0,
+      "draft" : 0,
+      "weather" : {
+        "windMPH" : 3.6,
+        "windDirection" : "ENE",
+        "tempF" : 70.2,
+        "precipTodayIn" : 0.02,
+        "windGustKPH" : 7.9,
+        "feelslikeC" : 21.2,
+        "visibilityMi" : 10,
+        "feelslikeF" : 70.2,
+        "stationID" : "KMTSTEVE6",
+        "latitude" : 46.486908,
+        "windGustMPH" : 4.9,
+        "pressureIn" : 29.93,
+        "pressureMb" : 1013,
+        "relativeHumidity" : "53%",
+        "uniqueIdentifier" : "84BF5B3F-8269-4CAD-8366-E72153C5506E",
+        "longitude" : -114.074867,
+        "precipTodayMetric" : 1,
+        "windKPH" : 5.8,
+        "windDegrees" : 64,
+        "tempC" : 21.2,
+        "weather" : "Partly Cloudy",
+        "uv" : 7,
+        "dewpointC" : 11,
+        "visibilityKM" : 16.1
+      },
+      "date" : "2015-07-26T12:27:26-0600",
+      "responses" : [
+        {
+          "questionPrompt" : "Who are you with?",
+          "tokens" : [
+            {
+              "text" : "DAD",
+              "uniqueIdentifier" : "6EF834B9-C0DA-4BD3-94C9-B44ED828B4D5"
+            },
+            {
+              "text" : "ANDERS",
+              "uniqueIdentifier" : "E22A8A8A-F495-42E9-B4AF-1D8776FBD6A9"
+            }
+          ],
+          "uniqueIdentifier" : "DE948A6B-8345-4EE9-B961-5584043F890A"
+        },
+        {
+          "questionPrompt" : "Where are you?",
+          "locationResponse" : {
+            "uniqueIdentifier" : "715033AC-FC7C-48DF-B5A6-C1BD9F684D6C",
+            "text" : "Bauman Ranch",
+            "location" : {
+              "altitude" : 0,
+              "timestamp" : "2015-07-26T12:28:04-0600",
+              "verticalAccuracy" : -1,
+              "longitude" : -114.0989846706145,
+              "latitude" : 46.40026312830898,
+              "course" : 0,
+              "uniqueIdentifier" : "8E8D951D-EBFC-4CB6-A508-E204910228AD",
+              "horizontalAccuracy" : 0,
+              "speed" : -1
+            },
+            "foursquareVenueId" : "51ec1f81498e6f72ecaf18af"
+          },
+          "uniqueIdentifier" : "4C45E8B2-9CC6-44A4-A742-EACB2B001587"
+        },
+        {
+          "questionPrompt" : "Have you seen an animal?",
+          "tokens" : [
+            {
+              "text" : "Cow",
+              "uniqueIdentifier" : "412874ED-B5B1-4613-8313-B267C0CCF387"
+            },
+            {
+              "text" : "Horses",
+              "uniqueIdentifier" : "1B526381-E95B-447F-B8CD-542859E9B072"
+            },
+            {
+              "text" : "Birds",
+              "uniqueIdentifier" : "446EC8C1-BA05-4D04-818E-E188ED6711BA"
+            },
+            {
+              "text" : "Lama",
+              "uniqueIdentifier" : "7EF8CB4A-3458-485A-9CA6-3791FA33FD2B"
+            }
+          ],
+          "uniqueIdentifier" : "CB4312BB-E267-4113-B60F-43F279BB8956"
+        },
+        {
+          "questionPrompt" : "What are you doing?",
+          "tokens" : [
+            {
+              "text" : "Drink stop",
+              "uniqueIdentifier" : "37C83FE8-1978-410F-AF2B-CA5A0D865DF0"
+            }
+          ],
+          "uniqueIdentifier" : "338D24D2-840E-4E0C-AA0D-9913AE565551"
+        },
+        {
+          "questionPrompt" : "What is the weather like?",
+          "tokens" : [
+            {
+              "text" : "Sunny",
+              "uniqueIdentifier" : "BE5C21E8-AA75-4D9D-BE9F-E0C590970D1B"
+            }
+          ],
+          "uniqueIdentifier" : "71C32EF2-2963-49A3-86A6-00A20E046DC6"
+        },
+        {
+          "questionPrompt" : "Are you working?",
+          "answeredOptions" : [
+            "No"
+          ],
+          "uniqueIdentifier" : "5F875A65-F62E-4A4B-91F2-A44CABD800DA"
+        }
+      ]
+    },
+    {
+      "battery" : 0.81,
+      "location" : {
+        "altitude" : 1017.332580566406,
+        "timestamp" : "2015-07-26T14:07:40-0600",
+        "verticalAccuracy" : 10,
+        "longitude" : -114.0932253341947,
+        "latitude" : 46.50452214548302,
+        "course" : 0,
+        "uniqueIdentifier" : "D6BB160F-FD6A-4578-A767-33B5D17C314A",
+        "placemark" : {
+          "thoroughfare" : "Main St",
+          "postalCode" : "59870",
+          "subAdministrativeArea" : "Ravalli",
+          "subThoroughfare" : "601",
+          "region" : "<+46.50428000,-114.09372500> radius 70.83",
+          "uniqueIdentifier" : "93E8E3D8-494B-42B8-AB58-FBC215DD5A45",
+          "locality" : "Stevensville",
+          "name" : "601 Main St",
+          "country" : "United States",
+          "administrativeArea" : "MT"
+        },
+        "horizontalAccuracy" : 65,
+        "speed" : -1
+      },
+      "altitude" : {
+        "gpsRawAltitude" : 1017.332580566406,
+        "gpsAltitudeFromLocation" : 1015.679138,
+        "uniqueIdentifier" : "069C4D45-4ABC-459F-94CF-8D8CC5121572"
+      },
+      "reportImpetus" : 0,
+      "steps" : -1,
+      "audio" : {
+        "avg" : -46.66987,
+        "uniqueIdentifier" : "D0D2F6F4-3D62-4D49-A65C-9FE48D5B7551",
+        "peak" : -33.44866
+      },
+      "sectionIdentifier" : "1-2015-7-26",
+      "uniqueIdentifier" : "D2515903-4EA0-4D55-AF37-50004B0F1407",
+      "connection" : 0,
+      "background" : 0,
+      "draft" : 0,
+      "weather" : {
+        "windMPH" : 6.7,
+        "windDirection" : "North",
+        "tempF" : 73.59999999999999,
+        "precipTodayIn" : 0.02,
+        "windGustKPH" : 11.9,
+        "feelslikeC" : 23.1,
+        "visibilityMi" : 10,
+        "feelslikeF" : 73.59999999999999,
+        "stationID" : "KMTSTEVE6",
+        "latitude" : 46.486908,
+        "windGustMPH" : 7.4,
+        "pressureIn" : 29.91,
+        "pressureMb" : 1013,
+        "relativeHumidity" : "51%",
+        "uniqueIdentifier" : "653C2192-B5E5-4F26-8D7B-8C5F93511B2E",
+        "longitude" : -114.074867,
+        "precipTodayMetric" : 1,
+        "windKPH" : 10.8,
+        "windDegrees" : 359,
+        "tempC" : 23.1,
+        "weather" : "Partly Cloudy",
+        "uv" : 6,
+        "dewpointC" : 12,
+        "visibilityKM" : 16.1
+      },
+      "date" : "2015-07-26T14:07:37-0600",
+      "responses" : [
+        {
+          "questionPrompt" : "Who are you with?",
+          "tokens" : [
+            {
+              "text" : "DAD",
+              "uniqueIdentifier" : "6EF834B9-C0DA-4BD3-94C9-B44ED828B4D5"
+            },
+            {
+              "text" : "ANDERS",
+              "uniqueIdentifier" : "E22A8A8A-F495-42E9-B4AF-1D8776FBD6A9"
+            }
+          ],
+          "uniqueIdentifier" : "DE948A6B-8345-4EE9-B961-5584043F890A"
+        },
+        {
+          "questionPrompt" : "What are you doing?",
+          "tokens" : [
+            {
+              "text" : "Lunch",
+              "uniqueIdentifier" : "68145E1F-148C-4D50-B746-9C1F05191A0F"
+            }
+          ],
+          "uniqueIdentifier" : "A0EDEDE2-1B3C-4159-BB62-665ECC0E105B"
+        },
+        {
+          "questionPrompt" : "Are you working?",
+          "answeredOptions" : [
+            "No"
+          ],
+          "uniqueIdentifier" : "5F875A65-F62E-4A4B-91F2-A44CABD800DA"
+        },
+        {
+          "questionPrompt" : "What is the weather like?",
+          "tokens" : [
+            {
+              "text" : "Sunny",
+              "uniqueIdentifier" : "BE5C21E8-AA75-4D9D-BE9F-E0C590970D1B"
+            }
+          ],
+          "uniqueIdentifier" : "71C32EF2-2963-49A3-86A6-00A20E046DC6"
+        },
+        {
+          "questionPrompt" : "Have you seen an animal?",
+          "tokens" : [
+            {
+              "text" : "Birds",
+              "uniqueIdentifier" : "446EC8C1-BA05-4D04-818E-E188ED6711BA"
+            }
+          ],
+          "uniqueIdentifier" : "48886F77-655E-4185-87F5-F47AD117DD58"
+        },
+        {
+          "questionPrompt" : "Where are you?",
+          "locationResponse" : {
+            "uniqueIdentifier" : "BCFAF4DA-4D39-4623-A070-3C2E1E32979B",
+            "text" : "Burnt Fork Market",
+            "location" : {
+              "altitude" : 0,
+              "timestamp" : "2015-07-26T14:07:52-0600",
+              "verticalAccuracy" : -1,
+              "longitude" : -114.0938173983677,
+              "latitude" : 46.50449595375596,
+              "course" : 0,
+              "uniqueIdentifier" : "F045D9D4-738C-44E9-A26A-D0308F1C049C",
+              "horizontalAccuracy" : 0,
+              "speed" : -1
+            },
+            "foursquareVenueId" : "55982c0e498e9ad79785d0f0"
+          },
+          "uniqueIdentifier" : "6F1F8556-98F9-4B80-B53C-2DCEA6880093"
+        }
+      ]
+    },
+    {
+      "battery" : 0.77,
+      "location" : {
+        "altitude" : 995.4736938476562,
+        "timestamp" : "2015-07-26T15:19:31-0600",
+        "verticalAccuracy" : 10,
+        "longitude" : -114.0793174334207,
+        "latitude" : 46.63129776333285,
+        "course" : 0,
+        "uniqueIdentifier" : "E7C4BBA5-0462-4E76-8A57-61C499D56981",
+        "placemark" : {
+          "thoroughfare" : "US Highway 93 N",
+          "postalCode" : "59833",
+          "subAdministrativeArea" : "Ravalli",
+          "subThoroughfare" : "5493",
+          "region" : "<+46.63153000,-114.07968000> radius 70.83",
+          "uniqueIdentifier" : "881B78F2-49F8-4AD2-BD1F-C33B2C6A39E8",
+          "locality" : "Florence",
+          "name" : "5493 US Highway 93 N",
+          "country" : "United States",
+          "administrativeArea" : "MT"
+        },
+        "horizontalAccuracy" : 66.63472313063912,
+        "speed" : -1
+      },
+      "altitude" : {
+        "gpsRawAltitude" : 995.4736938476562,
+        "gpsAltitudeFromLocation" : 994.829712,
+        "uniqueIdentifier" : "A05B720A-6CBE-4A85-80E2-E1F968B928CA"
+      },
+      "reportImpetus" : 0,
+      "steps" : -1,
+      "audio" : {
+        "avg" : -40.83389,
+        "uniqueIdentifier" : "290A55B8-9785-486C-8E0D-74066BB83E38",
+        "peak" : -26.09138
+      },
+      "sectionIdentifier" : "1-2015-7-26",
+      "uniqueIdentifier" : "54F91CD1-44AD-4F86-B5EA-E659AC7C3116",
+      "connection" : 0,
+      "background" : 0,
+      "draft" : 0,
+      "weather" : {
+        "windMPH" : 6.3,
+        "windDirection" : "NNW",
+        "tempF" : 72.09999999999999,
+        "precipTodayIn" : 0.05,
+        "windGustKPH" : 0,
+        "feelslikeC" : 22.3,
+        "feelslikeF" : 72.09999999999999,
+        "windGustMPH" : 0,
+        "latitude" : 46.634026,
+        "stationID" : "KMTFLORE8",
+        "pressureIn" : 29.88,
+        "pressureMb" : 1012,
+        "relativeHumidity" : "49%",
+        "uniqueIdentifier" : "5F341280-489A-49F1-A84C-ADC13F08ECF9",
+        "longitude" : -114.003166,
+        "precipTodayMetric" : 1,
+        "windKPH" : 10.1,
+        "windDegrees" : 337,
+        "tempC" : 22.3,
+        "weather" : "Partly Cloudy",
+        "uv" : -1,
+        "dewpointC" : 11
+      },
+      "date" : "2015-07-26T15:19:27-0600",
+      "responses" : [
+        {
+          "questionPrompt" : "Where are you?",
+          "locationResponse" : {
+            "uniqueIdentifier" : "3DEB2172-FEA3-48A0-B02E-ED23BCC0CC0D",
+            "text" : "Town Pump",
+            "location" : {
+              "altitude" : 0,
+              "timestamp" : "2015-07-26T15:19:54-0600",
+              "verticalAccuracy" : -1,
+              "longitude" : -114.0791161519922,
+              "latitude" : 46.63225698285095,
+              "course" : 0,
+              "uniqueIdentifier" : "95B1EF44-7428-4FBC-B532-96D173B3B103",
+              "horizontalAccuracy" : 0,
+              "speed" : -1
+            },
+            "foursquareVenueId" : "4e90bb5b5c5c4562f021c511"
+          },
+          "uniqueIdentifier" : "95ECC8DA-5AC2-4911-B176-7CA65E780A33"
+        },
+        {
+          "questionPrompt" : "Have you seen an animal?",
+          "tokens" : [
+            {
+              "text" : "Goat",
+              "uniqueIdentifier" : "69FDFA2D-D4AF-4866-B6CD-848CB4DC606C"
+            }
+          ],
+          "uniqueIdentifier" : "8E30ADA8-DA3A-409B-B981-0B52F1124BC8"
+        },
+        {
+          "questionPrompt" : "What is the weather like?",
+          "tokens" : [
+            {
+              "text" : "Cloudy",
+              "uniqueIdentifier" : "85544233-3D5C-43DF-8E0F-25D6650B26BD"
+            }
+          ],
+          "uniqueIdentifier" : "37833D68-3864-43FF-8DED-F7DBEA7A7E0C"
+        },
+        {
+          "questionPrompt" : "What are you doing?",
+          "tokens" : [
+            {
+              "text" : "Drink stop",
+              "uniqueIdentifier" : "37C83FE8-1978-410F-AF2B-CA5A0D865DF0"
+            }
+          ],
+          "uniqueIdentifier" : "338D24D2-840E-4E0C-AA0D-9913AE565551"
+        },
+        {
+          "questionPrompt" : "Are you working?",
+          "answeredOptions" : [
+            "No"
+          ],
+          "uniqueIdentifier" : "5F875A65-F62E-4A4B-91F2-A44CABD800DA"
+        },
+        {
+          "questionPrompt" : "Who are you with?",
+          "tokens" : [
+            {
+              "text" : "DAD",
+              "uniqueIdentifier" : "6EF834B9-C0DA-4BD3-94C9-B44ED828B4D5"
+            },
+            {
+              "text" : "ANDERS",
+              "uniqueIdentifier" : "E22A8A8A-F495-42E9-B4AF-1D8776FBD6A9"
+            }
+          ],
+          "uniqueIdentifier" : "DE948A6B-8345-4EE9-B961-5584043F890A"
+        }
+      ]
+    },
+    {
+      "battery" : 0.72,
+      "location" : {
+        "altitude" : 969,
+        "timestamp" : "2015-07-26T16:28:18-0600",
+        "verticalAccuracy" : 3,
+        "longitude" : -114.0831906349529,
+        "latitude" : 46.75631976690772,
+        "course" : 0,
+        "uniqueIdentifier" : "1E1AF40E-3C0D-4C4A-8311-15687546FED7",
+        "placemark" : {
+          "thoroughfare" : "Lolo Creek Rd",
+          "postalCode" : "59847",
+          "subAdministrativeArea" : "Missoula",
+          "subThoroughfare" : "6235",
+          "region" : "<+46.75572905,-114.08311900> radius 125.57",
+          "uniqueIdentifier" : "7795EC31-783E-4BF6-9A74-20DB77CDCA58",
+          "locality" : "Lolo",
+          "name" : "6235 Lolo Creek Rd",
+          "country" : "United States",
+          "administrativeArea" : "MT"
+        },
+        "horizontalAccuracy" : 30,
+        "speed" : 0.5699999928474426
+      },
+      "altitude" : {
+        "gpsRawAltitude" : 969,
+        "gpsAltitudeFromLocation" : 970.821777,
+        "uniqueIdentifier" : "ED8EEB17-3098-4F8C-A9CE-0FD140A5BE93"
+      },
+      "reportImpetus" : 0,
+      "steps" : -1,
+      "audio" : {
+        "avg" : -30.57034,
+        "uniqueIdentifier" : "D288BD16-6DAE-4EEC-8019-F77ABAB9924C",
+        "peak" : -20.03087
+      },
+      "sectionIdentifier" : "1-2015-7-26",
+      "uniqueIdentifier" : "7D1287FA-81E7-4677-A865-7C404707C2C2",
+      "connection" : 0,
+      "background" : 0,
+      "draft" : 0,
+      "weather" : {
+        "windMPH" : 4.5,
+        "windDirection" : "North",
+        "tempF" : 72.5,
+        "precipTodayIn" : 0,
+        "windGustKPH" : 15.8,
+        "feelslikeC" : 22.5,
+        "visibilityMi" : 12,
+        "feelslikeF" : 72.5,
+        "stationID" : "KMTMISSO15",
+        "latitude" : 46.808548,
+        "windGustMPH" : 9.800000000000001,
+        "pressureIn" : 29.76,
+        "pressureMb" : 1007.7,
+        "relativeHumidity" : "42%",
+        "uniqueIdentifier" : "98B36AE2-756D-413C-B9B1-88D7F4F36430",
+        "longitude" : -114.058823,
+        "precipTodayMetric" : 0,
+        "windKPH" : 7.2,
+        "windDegrees" : 0,
+        "tempC" : 22.5,
+        "weather" : "Partly Cloudy",
+        "dewpointC" : 9,
+        "visibilityKM" : 19.3
+      },
+      "date" : "2015-07-26T16:28:16-0600",
+      "responses" : [
+        {
+          "questionPrompt" : "What is the weather like?",
+          "tokens" : [
+            {
+              "text" : "Cloudy",
+              "uniqueIdentifier" : "85544233-3D5C-43DF-8E0F-25D6650B26BD"
+            }
+          ],
+          "uniqueIdentifier" : "37833D68-3864-43FF-8DED-F7DBEA7A7E0C"
+        },
+        {
+          "questionPrompt" : "Where are you?",
+          "locationResponse" : {
+            "uniqueIdentifier" : "502C21A8-548E-49D7-AB81-A280E1EA75CC",
+            "text" : "Town of Lolo",
+            "location" : {
+              "altitude" : 0,
+              "timestamp" : "2015-07-26T16:28:37-0600",
+              "verticalAccuracy" : -1,
+              "longitude" : -114.0821814537048,
+              "latitude" : 46.75674687399707,
+              "course" : 0,
+              "uniqueIdentifier" : "CB0EA1B8-265E-4C01-8B77-4F2DCE70A5D2",
+              "horizontalAccuracy" : 0,
+              "speed" : -1
+            },
+            "foursquareVenueId" : "4e57d39c7d8bf55c172dcbf4"
+          },
+          "uniqueIdentifier" : "E6482BC7-FE54-4064-9E9B-9F6E8944B253"
+        },
+        {
+          "questionPrompt" : "Have you seen an animal?",
+          "tokens" : [
+            {
+              "text" : "Dog",
+              "uniqueIdentifier" : "4F987BE5-A043-40DD-80D3-A944A2AEAC89"
+            }
+          ],
+          "uniqueIdentifier" : "21437D6F-9B26-4373-B549-352DE9954FAD"
+        },
+        {
+          "questionPrompt" : "What are you doing?",
+          "tokens" : [
+            {
+              "text" : "Drink stop",
+              "uniqueIdentifier" : "37C83FE8-1978-410F-AF2B-CA5A0D865DF0"
+            }
+          ],
+          "uniqueIdentifier" : "338D24D2-840E-4E0C-AA0D-9913AE565551"
+        },
+        {
+          "questionPrompt" : "Are you working?",
+          "answeredOptions" : [
+            "No"
+          ],
+          "uniqueIdentifier" : "5F875A65-F62E-4A4B-91F2-A44CABD800DA"
+        },
+        {
+          "questionPrompt" : "Who are you with?",
+          "tokens" : [
+            {
+              "text" : "DAD",
+              "uniqueIdentifier" : "6EF834B9-C0DA-4BD3-94C9-B44ED828B4D5"
+            },
+            {
+              "text" : "ANDERS",
+              "uniqueIdentifier" : "E22A8A8A-F495-42E9-B4AF-1D8776FBD6A9"
+            }
+          ],
+          "uniqueIdentifier" : "DE948A6B-8345-4EE9-B961-5584043F890A"
+        }
+      ]
+    },
+    {
+      "battery" : 0.44,
+      "location" : {
+        "altitude" : 983,
+        "timestamp" : "2015-07-26T20:27:28-0600",
+        "verticalAccuracy" : 26.79875175643681,
+        "longitude" : -113.9975003683702,
+        "latitude" : 46.87088334288817,
+        "course" : 0,
+        "uniqueIdentifier" : "5FCD9CC1-705E-4BEE-8A64-6FB16B6DD681",
+        "placemark" : {
+          "thoroughfare" : "W Front St",
+          "postalCode" : "59802",
+          "subAdministrativeArea" : "Missoula",
+          "subLocality" : "Heart of Missoula",
+          "subThoroughfare" : "231",
+          "region" : "<+46.87099205,-113.99739445> radius 24.52",
+          "uniqueIdentifier" : "D8C8DFBB-B2A1-47F0-B22F-2C533F65696D",
+          "locality" : "Missoula",
+          "name" : "231 W Front St",
+          "country" : "United States",
+          "administrativeArea" : "MT"
+        },
+        "horizontalAccuracy" : 65,
+        "speed" : -1
+      },
+      "altitude" : {
+        "gpsRawAltitude" : 983,
+        "gpsAltitudeFromLocation" : 973.365112,
+        "uniqueIdentifier" : "CD9AC434-00A9-464D-A433-819C76489082"
+      },
+      "reportImpetus" : 0,
+      "steps" : -1,
+      "audio" : {
+        "avg" : -24.56232,
+        "uniqueIdentifier" : "DAAEFA66-5589-45B1-97F6-23A99F239B52",
+        "peak" : -15.83486
+      },
+      "sectionIdentifier" : "1-2015-7-26",
+      "uniqueIdentifier" : "81F26FA0-F90C-45ED-B80B-0F2A0C3B885B",
+      "connection" : 0,
+      "background" : 0,
+      "draft" : 0,
+      "weather" : {
+        "windMPH" : 0,
+        "windDirection" : "NNW",
+        "tempF" : 69,
+        "windGustKPH" : 0,
+        "feelslikeC" : 20.6,
+        "visibilityMi" : 10,
+        "feelslikeF" : 69,
+        "windGustMPH" : 0,
+        "latitude" : 46.89423,
+        "stationID" : "MC4884",
+        "pressureIn" : 29.92,
+        "pressureMb" : 1013,
+        "relativeHumidity" : "46%",
+        "uniqueIdentifier" : "6FFFF518-17B8-4D30-BA02-2BE27096DD02",
+        "longitude" : -113.96154,
+        "windKPH" : 0,
+        "windDegrees" : 348,
+        "tempC" : 20.6,
+        "weather" : "Partly Cloudy",
+        "uv" : 1,
+        "dewpointC" : 8,
+        "visibilityKM" : 16.1
+      },
+      "date" : "2015-07-26T20:27:26-0600",
+      "responses" : [
+        {
+          "questionPrompt" : "What are you doing?",
+          "tokens" : [
+            {
+              "text" : "Dinner",
+              "uniqueIdentifier" : "B7945441-7DA8-48EE-8F2C-E46E47F0DB40"
+            }
+          ],
+          "uniqueIdentifier" : "6120AD5C-14D8-4B19-A949-D194D5958E5E"
+        },
+        {
+          "questionPrompt" : "What is the weather like?",
+          "tokens" : [
+            {
+              "text" : "Cloudy",
+              "uniqueIdentifier" : "85544233-3D5C-43DF-8E0F-25D6650B26BD"
+            }
+          ],
+          "uniqueIdentifier" : "37833D68-3864-43FF-8DED-F7DBEA7A7E0C"
+        },
+        {
+          "questionPrompt" : "Who are you with?",
+          "tokens" : [
+            {
+              "text" : "ANDERS",
+              "uniqueIdentifier" : "E22A8A8A-F495-42E9-B4AF-1D8776FBD6A9"
+            },
+            {
+              "text" : "Pat",
+              "uniqueIdentifier" : "39B0A487-F6D0-48EF-B736-25E7DEF518E4"
+            },
+            {
+              "text" : "Mark Clevland",
+              "uniqueIdentifier" : "43B81DEC-FD26-4BA8-ADDB-27A80875FC87"
+            },
+            {
+              "text" : "Tara",
+              "uniqueIdentifier" : "EC348E00-05A7-4A91-BF6D-C441E6602F20"
+            },
+            {
+              "text" : "DAD",
+              "uniqueIdentifier" : "6EF834B9-C0DA-4BD3-94C9-B44ED828B4D5"
+            }
+          ],
+          "uniqueIdentifier" : "2609E78E-A350-452B-A401-C3912EE5327A"
+        },
+        {
+          "questionPrompt" : "Have you seen an animal?",
+          "tokens" : [
+            {
+              "text" : "Dog",
+              "uniqueIdentifier" : "4F987BE5-A043-40DD-80D3-A944A2AEAC89"
+            }
+          ],
+          "uniqueIdentifier" : "21437D6F-9B26-4373-B549-352DE9954FAD"
+        },
+        {
+          "questionPrompt" : "Are you working?",
+          "answeredOptions" : [
+            "No"
+          ],
+          "uniqueIdentifier" : "5F875A65-F62E-4A4B-91F2-A44CABD800DA"
+        },
+        {
+          "questionPrompt" : "Where are you?",
+          "locationResponse" : {
+            "uniqueIdentifier" : "381B93D9-50E6-471C-9506-8A6A6880B2C4",
+            "text" : "Tamarack Brewing Company Alehouse And Grill",
+            "location" : {
+              "altitude" : 0,
+              "timestamp" : "2015-07-26T20:27:58-0600",
+              "verticalAccuracy" : -1,
+              "longitude" : -113.9974655714767,
+              "latitude" : 46.8708827905138,
+              "course" : 0,
+              "uniqueIdentifier" : "A9C23211-D054-4398-B0AA-5BFB21E51BA6",
+              "horizontalAccuracy" : 0,
+              "speed" : -1
+            },
+            "foursquareVenueId" : "4da4a4ce9aa4721e29553c1a"
+          },
+          "uniqueIdentifier" : "A0C99FEE-36CC-45DA-AA03-6750C41FEC12"
+        }
+      ]
+    },
+    {
+      "battery" : 0.33,
+      "location" : {
+        "altitude" : 983,
+        "timestamp" : "2015-07-26T22:58:06-0600",
+        "verticalAccuracy" : 31.79495348923808,
+        "longitude" : -113.9844213538437,
+        "latitude" : 46.86976713452499,
+        "course" : 0,
+        "uniqueIdentifier" : "3C8C27D2-4B3D-4DEC-AAAD-943017C3B69A",
+        "placemark" : {
+          "thoroughfare" : "E Broadway St",
+          "postalCode" : "59802",
+          "subAdministrativeArea" : "Missoula",
+          "subLocality" : "Heart of Missoula",
+          "subThoroughfare" : "720",
+          "region" : "<+46.86988140,-113.98459305> radius 64.14",
+          "uniqueIdentifier" : "FC124318-5D4B-4D37-8C18-2D25B44B29AD",
+          "locality" : "Missoula",
+          "name" : "720 E Broadway St",
+          "country" : "United States",
+          "administrativeArea" : "MT"
+        },
+        "horizontalAccuracy" : 65,
+        "speed" : -1
+      },
+      "altitude" : {
+        "gpsRawAltitude" : 983,
+        "gpsAltitudeFromLocation" : 977.127747,
+        "uniqueIdentifier" : "BFFFBA36-7F9E-4E29-9E01-1AE6D13B39EF"
+      },
+      "reportImpetus" : 3,
+      "steps" : -1,
+      "audio" : {
+        "avg" : -52.55418,
+        "uniqueIdentifier" : "3408C902-8FC1-445A-BBEC-ACC57942F131",
+        "peak" : -35.07891
+      },
+      "sectionIdentifier" : "1-2015-7-26",
+      "uniqueIdentifier" : "1D064EDE-A3E7-4A1E-922F-3CEF8360F06D",
+      "connection" : 1,
+      "background" : 0,
+      "draft" : 0,
+      "weather" : {
+        "windMPH" : 0,
+        "windDirection" : "SW",
+        "tempF" : 63,
+        "windGustKPH" : 0,
+        "feelslikeC" : 17.2,
+        "visibilityMi" : 10,
+        "feelslikeF" : 63,
+        "windGustMPH" : 0,
+        "latitude" : 46.89423,
+        "stationID" : "MC4884",
+        "pressureIn" : 29.97,
+        "pressureMb" : 1015,
+        "relativeHumidity" : "59%",
+        "uniqueIdentifier" : "25AE957A-9AC2-4B29-AD3E-234DC26F1B00",
+        "longitude" : -113.96154,
+        "windKPH" : 0,
+        "windDegrees" : 219,
+        "tempC" : 17.2,
+        "weather" : "Partly Cloudy",
+        "uv" : 0,
+        "dewpointC" : 9,
+        "visibilityKM" : 16.1
+      },
+      "date" : "2015-07-26T22:57:57-0600",
+      "responses" : [
+        {
+          "questionPrompt" : "What did you learn today?",
+          "textResponses" : [
+            {
+              "text" : "65 miles was not so bad",
+              "uniqueIdentifier" : "35173354-4D41-4AF9-B9CE-77C124B7521D"
+            }
+          ],
+          "uniqueIdentifier" : "25745358-83DD-44D0-BBE8-91C0D6FD157A"
+        }
+      ]
+    }
+  ],
+  "questions" : [
+    {
+      "prompt" : "How did you sleep?",
+      "questionType" : 1,
+      "uniqueIdentifier" : "default-question-1"
+    },
+    {
+      "prompt" : "Are you working?",
+      "questionType" : 2,
+      "uniqueIdentifier" : "default-question-2"
+    },
+    {
+      "prompt" : "How many coffees did you have today?",
+      "questionType" : 5,
+      "uniqueIdentifier" : "default-question-6"
+    },
+    {
+      "prompt" : "What are you doing?",
+      "questionType" : 0,
+      "uniqueIdentifier" : "default-question-3"
+    },
+    {
+      "prompt" : "Who are you with?",
+      "questionType" : 4,
+      "uniqueIdentifier" : "default-question-5",
+      "placeholderString" : "No one"
+    },
+    {
+      "prompt" : "Where are you?",
+      "questionType" : 3,
+      "uniqueIdentifier" : "default-question-4"
+    },
+    {
+      "prompt" : "What did you learn today?",
+      "questionType" : 6,
+      "uniqueIdentifier" : "default-question-7"
+    },
+    {
+      "prompt" : "What is the weather like?",
+      "questionType" : 0,
+      "uniqueIdentifier" : "C6D94168-5AB1-4EFC-9247-DEDD4126FF80"
+    },
+    {
+      "prompt" : "Have you seen an animal?",
+      "questionType" : 0,
+      "uniqueIdentifier" : "8A43B95E-2E90-45B9-8EA8-3B9539F90B00"
+    }
+  ]
+}

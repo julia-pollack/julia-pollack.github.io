@@ -1,0 +1,130 @@
+{
+  "snapshots" : [
+    {
+      "battery" : 1,
+      "location" : {
+        "altitude" : 897,
+        "timestamp" : "2015-07-27T08:38:17-0600",
+        "verticalAccuracy" : 192,
+        "longitude" : -113.9840043896008,
+        "latitude" : 46.87067482624843,
+        "course" : 0,
+        "uniqueIdentifier" : "3C4009C5-B725-400F-9B3F-D7D3961E1AD0",
+        "placemark" : {
+          "thoroughfare" : "E Broadway St",
+          "postalCode" : "59802",
+          "subAdministrativeArea" : "Missoula",
+          "subLocality" : "Heart of Missoula",
+          "subThoroughfare" : "744",
+          "region" : "<+46.87088100,-113.98468000> radius 70.83",
+          "uniqueIdentifier" : "2F3379FF-4992-4B6A-AC32-4D7B6A147E7B",
+          "locality" : "Missoula",
+          "name" : "744 E Broadway St",
+          "country" : "United States",
+          "administrativeArea" : "MT"
+        },
+        "horizontalAccuracy" : 50,
+        "speed" : -1
+      },
+      "altitude" : {
+        "gpsRawAltitude" : 897,
+        "gpsAltitudeFromLocation" : 979.9580079999999,
+        "uniqueIdentifier" : "2DFD539E-E21B-4569-B865-FD65B78638E5"
+      },
+      "reportImpetus" : 4,
+      "steps" : -1,
+      "audio" : {
+        "avg" : -54.40779,
+        "uniqueIdentifier" : "5C62748D-BCE0-419E-B0B9-CFCEE39E597A",
+        "peak" : -34.6309
+      },
+      "sectionIdentifier" : "1-2015-7-27",
+      "uniqueIdentifier" : "F11007B9-09D3-4CBF-89C0-171E339D2713",
+      "connection" : 0,
+      "background" : 0,
+      "draft" : 0,
+      "weather" : {
+        "windMPH" : 0,
+        "windDirection" : "ENE",
+        "tempF" : 52,
+        "windGustKPH" : 0,
+        "feelslikeC" : 11.1,
+        "visibilityMi" : 5,
+        "feelslikeF" : 52,
+        "windGustMPH" : 0,
+        "latitude" : 46.89423,
+        "stationID" : "MC4884",
+        "pressureIn" : 29.97,
+        "pressureMb" : 1015,
+        "relativeHumidity" : "93%",
+        "uniqueIdentifier" : "31E2B861-A3B1-4103-A046-F0902B28DCC8",
+        "longitude" : -113.96154,
+        "windKPH" : 0,
+        "windDegrees" : 72,
+        "tempC" : 11.1,
+        "weather" : "Rain",
+        "uv" : 0,
+        "dewpointC" : 10,
+        "visibilityKM" : 8
+      },
+      "date" : "2015-07-27T08:38:11-0600",
+      "responses" : [
+        {
+          "questionPrompt" : "How did you sleep?",
+          "answeredOptions" : [
+            "Great"
+          ],
+          "uniqueIdentifier" : "54AEA129-A3A9-459C-9AB9-946A9EA919F7"
+        }
+      ]
+    }
+  ],
+  "questions" : [
+    {
+      "prompt" : "How did you sleep?",
+      "questionType" : 1,
+      "uniqueIdentifier" : "default-question-1"
+    },
+    {
+      "prompt" : "Are you working?",
+      "questionType" : 2,
+      "uniqueIdentifier" : "default-question-2"
+    },
+    {
+      "prompt" : "How many coffees did you have today?",
+      "questionType" : 5,
+      "uniqueIdentifier" : "default-question-6"
+    },
+    {
+      "prompt" : "What are you doing?",
+      "questionType" : 0,
+      "uniqueIdentifier" : "default-question-3"
+    },
+    {
+      "prompt" : "Who are you with?",
+      "questionType" : 4,
+      "uniqueIdentifier" : "default-question-5",
+      "placeholderString" : "No one"
+    },
+    {
+      "prompt" : "Where are you?",
+      "questionType" : 3,
+      "uniqueIdentifier" : "default-question-4"
+    },
+    {
+      "prompt" : "What did you learn today?",
+      "questionType" : 6,
+      "uniqueIdentifier" : "default-question-7"
+    },
+    {
+      "prompt" : "What is the weather like?",
+      "questionType" : 0,
+      "uniqueIdentifier" : "C6D94168-5AB1-4EFC-9247-DEDD4126FF80"
+    },
+    {
+      "prompt" : "Have you seen an animal?",
+      "questionType" : 0,
+      "uniqueIdentifier" : "8A43B95E-2E90-45B9-8EA8-3B9539F90B00"
+    }
+  ]
+}

@@ -1,0 +1,131 @@
+{
+  "snapshots" : [
+    {
+      "battery" : 1,
+      "location" : {
+        "altitude" : 647.2839965820312,
+        "timestamp" : "2015-07-13T08:47:36-0600",
+        "verticalAccuracy" : 10,
+        "longitude" : -104.6939335246469,
+        "latitude" : 47.12718963296527,
+        "course" : 0,
+        "uniqueIdentifier" : "B16381BE-F6F0-4080-9B97-DBB8E79BEE2F",
+        "placemark" : {
+          "thoroughfare" : "N Merrill Ave",
+          "postalCode" : "59330",
+          "subAdministrativeArea" : "Dawson",
+          "subThoroughfare" : "1921",
+          "region" : "<+47.12763020,-104.69389980> radius 70.82",
+          "uniqueIdentifier" : "75444C22-D0C6-46C3-A4D7-95CA42C97612",
+          "locality" : "Glendive",
+          "name" : "1921 N Merrill Ave",
+          "country" : "United States",
+          "administrativeArea" : "MT"
+        },
+        "horizontalAccuracy" : 65,
+        "speed" : -1
+      },
+      "altitude" : {
+        "gpsRawAltitude" : 647.2839965820312,
+        "gpsAltitudeFromLocation" : 644.137207,
+        "uniqueIdentifier" : "D349D0D3-6901-4505-A1D6-FFBD48689180"
+      },
+      "reportImpetus" : 4,
+      "steps" : -1,
+      "audio" : {
+        "avg" : -54.92804,
+        "uniqueIdentifier" : "5231548D-2A16-4864-8266-0432E7B8C049",
+        "peak" : -34.37374
+      },
+      "sectionIdentifier" : "1-2015-7-13",
+      "uniqueIdentifier" : "7066FAA5-4EB1-4C2C-BD89-2D04685CCDDB",
+      "connection" : 1,
+      "background" : 0,
+      "draft" : 0,
+      "weather" : {
+        "windMPH" : 20,
+        "windDirection" : "West",
+        "tempF" : 77,
+        "precipTodayIn" : 0,
+        "windGustKPH" : 43,
+        "feelslikeC" : 25,
+        "visibilityMi" : 10,
+        "feelslikeF" : 77,
+        "stationID" : "KGDV",
+        "latitude" : 47.13871765,
+        "windGustMPH" : 26,
+        "pressureIn" : 29.86,
+        "pressureMb" : 1011,
+        "relativeHumidity" : "39%",
+        "uniqueIdentifier" : "54AE424F-FE90-4F07-A197-80F40790D699",
+        "longitude" : -104.80719757,
+        "precipTodayMetric" : 0,
+        "windKPH" : 32,
+        "windDegrees" : 270,
+        "tempC" : 25,
+        "weather" : "Clear",
+        "uv" : 3,
+        "dewpointC" : 10,
+        "visibilityKM" : 16.1
+      },
+      "date" : "2015-07-13T08:47:35-0600",
+      "responses" : [
+        {
+          "questionPrompt" : "How did you sleep?",
+          "answeredOptions" : [
+            "Ok"
+          ],
+          "uniqueIdentifier" : "1A535087-99FA-44BE-BA98-15525F30E63F"
+        }
+      ]
+    }
+  ],
+  "questions" : [
+    {
+      "prompt" : "How did you sleep?",
+      "questionType" : 1,
+      "uniqueIdentifier" : "default-question-1"
+    },
+    {
+      "prompt" : "Are you working?",
+      "questionType" : 2,
+      "uniqueIdentifier" : "default-question-2"
+    },
+    {
+      "prompt" : "How many coffees did you have today?",
+      "questionType" : 5,
+      "uniqueIdentifier" : "default-question-6"
+    },
+    {
+      "prompt" : "What are you doing?",
+      "questionType" : 0,
+      "uniqueIdentifier" : "default-question-3"
+    },
+    {
+      "prompt" : "Who are you with?",
+      "questionType" : 4,
+      "uniqueIdentifier" : "default-question-5",
+      "placeholderString" : "No one"
+    },
+    {
+      "prompt" : "Where are you?",
+      "questionType" : 3,
+      "uniqueIdentifier" : "default-question-4"
+    },
+    {
+      "prompt" : "What did you learn today?",
+      "questionType" : 6,
+      "uniqueIdentifier" : "default-question-7"
+    },
+    {
+      "prompt" : "What is the weather like?",
+      "questionType" : 0,
+      "uniqueIdentifier" : "C6D94168-5AB1-4EFC-9247-DEDD4126FF80"
+    },
+    {
+      "prompt" : "Have you seen an animal?",
+      "questionType" : 0,
+      "uniqueIdentifier" : "8A43B95E-2E90-45B9-8EA8-3B9539F90B00"
+    }
+  ]
+}

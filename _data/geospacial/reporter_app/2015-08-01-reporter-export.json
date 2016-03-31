@@ -1,0 +1,77 @@
+{
+  "snapshots" : [
+    {
+      "battery" : 0.95,
+      "reportImpetus" : 4,
+      "steps" : -1,
+      "audio" : {
+        "avg" : -47.89043,
+        "uniqueIdentifier" : "6AC50C0A-5C6F-4223-A32C-7A7C1687DE51",
+        "peak" : -31.89247
+      },
+      "sectionIdentifier" : "1-2015-8-1",
+      "uniqueIdentifier" : "CE3A625E-0A6C-4790-9189-7E596A2E537C",
+      "connection" : 2,
+      "background" : 0,
+      "draft" : 0,
+      "date" : "2015-08-01T07:59:20-0700",
+      "responses" : [
+        {
+          "questionPrompt" : "How did you sleep?",
+          "answeredOptions" : [
+            "Ok"
+          ],
+          "uniqueIdentifier" : "1A535087-99FA-44BE-BA98-15525F30E63F"
+        }
+      ]
+    }
+  ],
+  "questions" : [
+    {
+      "prompt" : "How did you sleep?",
+      "questionType" : 1,
+      "uniqueIdentifier" : "default-question-1"
+    },
+    {
+      "prompt" : "Are you working?",
+      "questionType" : 2,
+      "uniqueIdentifier" : "default-question-2"
+    },
+    {
+      "prompt" : "How many coffees did you have today?",
+      "questionType" : 5,
+      "uniqueIdentifier" : "default-question-6"
+    },
+    {
+      "prompt" : "What are you doing?",
+      "questionType" : 0,
+      "uniqueIdentifier" : "default-question-3"
+    },
+    {
+      "prompt" : "Who are you with?",
+      "questionType" : 4,
+      "uniqueIdentifier" : "default-question-5",
+      "placeholderString" : "No one"
+    },
+    {
+      "prompt" : "Where are you?",
+      "questionType" : 3,
+      "uniqueIdentifier" : "default-question-4"
+    },
+    {
+      "prompt" : "What did you learn today?",
+      "questionType" : 6,
+      "uniqueIdentifier" : "default-question-7"
+    },
+    {
+      "prompt" : "What is the weather like?",
+      "questionType" : 0,
+      "uniqueIdentifier" : "C6D94168-5AB1-4EFC-9247-DEDD4126FF80"
+    },
+    {
+      "prompt" : "Have you seen an animal?",
+      "questionType" : 0,
+      "uniqueIdentifier" : "8A43B95E-2E90-45B9-8EA8-3B9539F90B00"
+    }
+  ]
+}

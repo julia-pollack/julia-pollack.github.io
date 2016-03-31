@@ -1,0 +1,270 @@
+{
+  "snapshots" : [
+    {
+      "battery" : 1,
+      "location" : {
+        "altitude" : 444,
+        "timestamp" : "2015-08-08T07:09:36-0700",
+        "verticalAccuracy" : 24,
+        "longitude" : -117.9883202445861,
+        "latitude" : 46.31634335969232,
+        "course" : 0,
+        "uniqueIdentifier" : "C0B300E9-8A58-4822-95F8-207599BC8A06",
+        "placemark" : {
+          "thoroughfare" : "W Main St",
+          "postalCode" : "99328",
+          "subAdministrativeArea" : "Columbia",
+          "subThoroughfare" : "414",
+          "region" : "<+46.31641460,-117.98824150> radius 70.83",
+          "uniqueIdentifier" : "FADD9BC8-1D9E-4DDE-8BC3-D77B2874A7AC",
+          "locality" : "Dayton",
+          "name" : "414 W Main St",
+          "country" : "United States",
+          "administrativeArea" : "WA"
+        },
+        "horizontalAccuracy" : 50,
+        "speed" : -1
+      },
+      "altitude" : {
+        "gpsRawAltitude" : 444,
+        "gpsAltitudeFromLocation" : 479.113037,
+        "uniqueIdentifier" : "5D9E2C71-B42C-410B-BCC7-41794A58DB5D"
+      },
+      "reportImpetus" : 4,
+      "steps" : -1,
+      "audio" : {
+        "avg" : -44.01062,
+        "uniqueIdentifier" : "4FFEA324-CC82-448B-8F47-DDDCBCFD6A60",
+        "peak" : -26.86506
+      },
+      "sectionIdentifier" : "1-2015-8-8",
+      "uniqueIdentifier" : "27FBBA67-62AF-4061-9963-83860C7DD64F",
+      "connection" : 0,
+      "background" : 0,
+      "draft" : 0,
+      "weather" : {
+        "windMPH" : 6.4,
+        "windDirection" : "NNE",
+        "tempF" : 62.4,
+        "precipTodayIn" : 0,
+        "windGustKPH" : 13,
+        "feelslikeC" : 16.9,
+        "visibilityMi" : 10,
+        "feelslikeF" : 62.4,
+        "stationID" : "KWADAYTO1",
+        "latitude" : 46.316727,
+        "windGustMPH" : 8.1,
+        "pressureIn" : 29.82,
+        "pressureMb" : 1010,
+        "relativeHumidity" : "34%",
+        "uniqueIdentifier" : "A159A473-618E-410A-9800-FE0D37C11661",
+        "longitude" : -117.974998,
+        "precipTodayMetric" : 0,
+        "windKPH" : 10.3,
+        "windDegrees" : 13,
+        "tempC" : 16.9,
+        "weather" : "Clear",
+        "uv" : 1,
+        "dewpointC" : 1,
+        "visibilityKM" : 16.1
+      },
+      "date" : "2015-08-08T07:09:33-0700",
+      "responses" : [
+        {
+          "questionPrompt" : "How did you sleep?",
+          "answeredOptions" : [
+            "Ok"
+          ],
+          "uniqueIdentifier" : "1A535087-99FA-44BE-BA98-15525F30E63F"
+        }
+      ]
+    },
+    {
+      "battery" : 1,
+      "location" : {
+        "altitude" : 107,
+        "timestamp" : "2015-08-08T09:39:35-0700",
+        "verticalAccuracy" : 192,
+        "longitude" : -118.1536902488378,
+        "latitude" : 46.27010735687452,
+        "course" : 0,
+        "uniqueIdentifier" : "7FF2A142-658E-49A5-A20A-EAE68B2D1088",
+        "placemark" : {
+          "thoroughfare" : "Preston Ave",
+          "postalCode" : "99361",
+          "subAdministrativeArea" : "Walla Walla",
+          "subThoroughfare" : "124",
+          "region" : "<+46.26990830,-118.15380160> radius 70.83",
+          "uniqueIdentifier" : "BC670187-61BF-4ED2-8BF2-45962E6632FD",
+          "locality" : "Waitsburg",
+          "name" : "124 Preston Ave",
+          "country" : "United States",
+          "administrativeArea" : "WA"
+        },
+        "horizontalAccuracy" : 50,
+        "speed" : -1
+      },
+      "altitude" : {
+        "gpsRawAltitude" : 107,
+        "gpsAltitudeFromLocation" : 384.597412,
+        "uniqueIdentifier" : "765E83BD-893D-44C9-BAAB-3277B6FC4512"
+      },
+      "reportImpetus" : 0,
+      "steps" : -1,
+      "audio" : {
+        "avg" : -43.0851,
+        "uniqueIdentifier" : "B574FAD4-9B65-477D-8E51-54D0990A7358",
+        "peak" : -30.16182
+      },
+      "sectionIdentifier" : "1-2015-8-8",
+      "uniqueIdentifier" : "5F081DA7-B74E-46CB-902F-7EDE08BF4820",
+      "connection" : 0,
+      "background" : 0,
+      "draft" : 0,
+      "weather" : {
+        "windMPH" : 12.5,
+        "windDirection" : "SW",
+        "tempF" : 79.3,
+        "precipTodayIn" : 0,
+        "windGustKPH" : 0,
+        "feelslikeC" : 26,
+        "visibilityMi" : 10,
+        "feelslikeF" : 79.3,
+        "stationID" : "KWADAYTO7",
+        "latitude" : 46.289036,
+        "windGustMPH" : 0,
+        "pressureIn" : 29.83,
+        "pressureMb" : 1010,
+        "relativeHumidity" : "33%",
+        "uniqueIdentifier" : "78AEAC71-56AB-4753-874F-520A404461F1",
+        "longitude" : -118.032967,
+        "precipTodayMetric" : 0,
+        "windKPH" : 20.1,
+        "windDegrees" : 225,
+        "tempC" : 26.3,
+        "weather" : "Clear",
+        "uv" : 3,
+        "dewpointC" : 9,
+        "visibilityKM" : 16.1
+      },
+      "date" : "2015-08-08T09:39:31-0700",
+      "responses" : [
+        {
+          "questionPrompt" : "Where are you?",
+          "locationResponse" : {
+            "uniqueIdentifier" : "2D4C5667-5051-4481-882F-F08B33C14849",
+            "text" : "Waitsburg, WA",
+            "location" : {
+              "altitude" : 0,
+              "timestamp" : "2015-08-08T09:39:45-0700",
+              "verticalAccuracy" : -1,
+              "longitude" : -118.1530470140248,
+              "latitude" : 46.27012220986505,
+              "course" : 0,
+              "uniqueIdentifier" : "E287EF97-706A-4B49-A775-34E5EE0D8E4B",
+              "horizontalAccuracy" : 0,
+              "speed" : -1
+            },
+            "foursquareVenueId" : "4c9165187f3b8cfa5a8e9c1e"
+          },
+          "uniqueIdentifier" : "078F5C10-75DC-4A02-9608-7D70657F9E17"
+        },
+        {
+          "questionPrompt" : "Have you seen an animal?",
+          "tokens" : [
+            {
+              "text" : "Hawk",
+              "uniqueIdentifier" : "64500B8C-1B0F-4382-BADB-47FCC9A7C24A"
+            }
+          ],
+          "uniqueIdentifier" : "4C1A7A5D-753B-40B6-BD6A-7C01FFD17FBB"
+        },
+        {
+          "questionPrompt" : "What is the weather like?",
+          "tokens" : [
+            {
+              "text" : "Sunny",
+              "uniqueIdentifier" : "BE5C21E8-AA75-4D9D-BE9F-E0C590970D1B"
+            }
+          ],
+          "uniqueIdentifier" : "71C32EF2-2963-49A3-86A6-00A20E046DC6"
+        },
+        {
+          "questionPrompt" : "Are you working?",
+          "answeredOptions" : [
+            "No"
+          ],
+          "uniqueIdentifier" : "5F875A65-F62E-4A4B-91F2-A44CABD800DA"
+        },
+        {
+          "questionPrompt" : "What are you doing?",
+          "tokens" : [
+            {
+              "text" : "Flat",
+              "uniqueIdentifier" : "E93D13A8-4D3B-4373-819C-48809DE9AFDD"
+            }
+          ],
+          "uniqueIdentifier" : "D36A2953-CA9C-4410-B9B2-EC3783308977"
+        },
+        {
+          "questionPrompt" : "Who are you with?",
+          "tokens" : [
+            {
+              "text" : "DAD",
+              "uniqueIdentifier" : "6EF834B9-C0DA-4BD3-94C9-B44ED828B4D5"
+            }
+          ],
+          "uniqueIdentifier" : "ED6EA188-3297-43D6-9131-46C4D82875D9"
+        }
+      ]
+    }
+  ],
+  "questions" : [
+    {
+      "prompt" : "How did you sleep?",
+      "questionType" : 1,
+      "uniqueIdentifier" : "default-question-1"
+    },
+    {
+      "prompt" : "Are you working?",
+      "questionType" : 2,
+      "uniqueIdentifier" : "default-question-2"
+    },
+    {
+      "prompt" : "How many coffees did you have today?",
+      "questionType" : 5,
+      "uniqueIdentifier" : "default-question-6"
+    },
+    {
+      "prompt" : "What are you doing?",
+      "questionType" : 0,
+      "uniqueIdentifier" : "default-question-3"
+    },
+    {
+      "prompt" : "Who are you with?",
+      "questionType" : 4,
+      "uniqueIdentifier" : "default-question-5",
+      "placeholderString" : "No one"
+    },
+    {
+      "prompt" : "Where are you?",
+      "questionType" : 3,
+      "uniqueIdentifier" : "default-question-4"
+    },
+    {
+      "prompt" : "What did you learn today?",
+      "questionType" : 6,
+      "uniqueIdentifier" : "default-question-7"
+    },
+    {
+      "prompt" : "What is the weather like?",
+      "questionType" : 0,
+      "uniqueIdentifier" : "C6D94168-5AB1-4EFC-9247-DEDD4126FF80"
+    },
+    {
+      "prompt" : "Have you seen an animal?",
+      "questionType" : 0,
+      "uniqueIdentifier" : "8A43B95E-2E90-45B9-8EA8-3B9539F90B00"
+    }
+  ]
+}

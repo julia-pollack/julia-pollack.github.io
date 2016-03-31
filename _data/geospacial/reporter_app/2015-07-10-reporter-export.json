@@ -1,0 +1,586 @@
+{
+  "snapshots" : [
+    {
+      "battery" : 1,
+      "location" : {
+        "altitude" : 652.29150390625,
+        "timestamp" : "2015-07-10T05:12:16-0600",
+        "verticalAccuracy" : 10,
+        "longitude" : -101.4180815203602,
+        "latitude" : 46.8584291598766,
+        "course" : 0,
+        "uniqueIdentifier" : "3C5CABF6-4E73-4348-BCD5-4CC1A337D034",
+        "placemark" : {
+          "thoroughfare" : "N 8th St",
+          "postalCode" : "58563",
+          "subAdministrativeArea" : "Morton",
+          "subThoroughfare" : "1306–1312",
+          "region" : "<+46.85843219,-101.41766800> radius 141.65",
+          "uniqueIdentifier" : "09E7B3BF-DF0A-4DAD-A686-DE3DCE1DD3E5",
+          "locality" : "New Salem",
+          "name" : "1306–1312 N 8th St",
+          "country" : "United States",
+          "administrativeArea" : "ND"
+        },
+        "horizontalAccuracy" : 65,
+        "speed" : -1
+      },
+      "altitude" : {
+        "gpsRawAltitude" : 652.29150390625,
+        "gpsAltitudeFromLocation" : 649.355225,
+        "uniqueIdentifier" : "03DDFBA9-1D6C-4D14-910C-678D9B895705"
+      },
+      "reportImpetus" : 4,
+      "steps" : -1,
+      "audio" : {
+        "avg" : -47.45045,
+        "uniqueIdentifier" : "479FE95C-DCBD-4A10-B6AF-74BD1887A133",
+        "peak" : -23.05053
+      },
+      "photoSet" : {
+        "photos" : [
+          {
+            "brightnessValue" : 8.619288,
+            "meteringMode" : 5,
+            "focalLengthIn35mm" : 35,
+            "sceneCaptureType" : 0,
+            "exposureMode" : 0,
+            "resolutionUnit" : 2,
+            "make" : "Apple",
+            "software" : "8.3",
+            "assetUrl" : "assets-library:\/\/asset\/asset.JPG?id=591F51F7-D726-4645-935F-EF2C450E7BAA&ext=JPG",
+            "isoSpeed" : 50,
+            "exposureTime" : 0.001267427,
+            "shutterSpeed" : 9.623229,
+            "depth" : 8,
+            "latitude" : 0,
+            "fNumber" : 2.4,
+            "sensingMode" : 2,
+            "uniqueIdentifier" : "7CAB5588-033B-478A-A56F-3519F17309EE",
+            "longitude" : 0,
+            "apertureValue" : 2.526069,
+            "focalLength" : 4.28,
+            "model" : "iPhone 4S",
+            "altitude" : 0,
+            "exposureProgram" : 2,
+            "pixelWidth" : 3264,
+            "dateTime" : "2015-07-10T05:11:40-0600",
+            "flash" : 16,
+            "orientation" : 6,
+            "pixelHeight" : 2448,
+            "whiteBalance" : 0
+          },
+          {
+            "brightnessValue" : 4.346931,
+            "meteringMode" : 5,
+            "focalLengthIn35mm" : 35,
+            "sceneCaptureType" : 0,
+            "exposureMode" : 0,
+            "resolutionUnit" : 2,
+            "make" : "Apple",
+            "software" : "8.3",
+            "assetUrl" : "assets-library:\/\/asset\/asset.JPG?id=34214521-F4D6-4F40-917A-C06D43CD709B&ext=JPG",
+            "isoSpeed" : 50,
+            "exposureTime" : 0.025,
+            "shutterSpeed" : 5.321929,
+            "depth" : 8,
+            "latitude" : 0,
+            "fNumber" : 2.4,
+            "sensingMode" : 2,
+            "uniqueIdentifier" : "10E0FDA4-A259-410B-851F-E3AB0946D25F",
+            "longitude" : 0,
+            "apertureValue" : 2.526069,
+            "focalLength" : 4.28,
+            "model" : "iPhone 4S",
+            "altitude" : 0,
+            "exposureProgram" : 2,
+            "pixelWidth" : 3264,
+            "dateTime" : "2015-07-10T05:11:45-0600",
+            "flash" : 16,
+            "orientation" : 6,
+            "pixelHeight" : 2448,
+            "whiteBalance" : 0
+          },
+          {
+            "brightnessValue" : 4.368244,
+            "meteringMode" : 5,
+            "focalLengthIn35mm" : 35,
+            "sceneCaptureType" : 0,
+            "exposureMode" : 0,
+            "resolutionUnit" : 2,
+            "make" : "Apple",
+            "software" : "8.3",
+            "assetUrl" : "assets-library:\/\/asset\/asset.JPG?id=9093CA2E-9DEF-44AE-9E71-62F8955F1C03&ext=JPG",
+            "isoSpeed" : 50,
+            "exposureTime" : 0.025,
+            "shutterSpeed" : 5.321929,
+            "depth" : 8,
+            "latitude" : 0,
+            "fNumber" : 2.4,
+            "sensingMode" : 2,
+            "uniqueIdentifier" : "64A9E7A4-68D0-486D-A4BC-D9264C4AC0A6",
+            "longitude" : 0,
+            "apertureValue" : 2.526069,
+            "focalLength" : 4.28,
+            "model" : "iPhone 4S",
+            "altitude" : 0,
+            "exposureProgram" : 2,
+            "pixelWidth" : 3264,
+            "dateTime" : "2015-07-10T05:11:51-0600",
+            "flash" : 16,
+            "orientation" : 6,
+            "pixelHeight" : 2448,
+            "whiteBalance" : 0
+          }
+        ],
+        "uniqueIdentifier" : "2FA5D3D0-09C5-47C0-9338-DC359D48DA91"
+      },
+      "sectionIdentifier" : "1-2015-7-10",
+      "uniqueIdentifier" : "FE7335D6-2D84-4AA7-A5AD-38CD7C7CF957",
+      "connection" : 0,
+      "background" : 0,
+      "draft" : 0,
+      "weather" : {
+        "windMPH" : 0,
+        "windDirection" : "ESE",
+        "tempF" : 59,
+        "windGustKPH" : 1.6,
+        "feelslikeC" : 15,
+        "visibilityMi" : 10,
+        "feelslikeF" : 59,
+        "windGustMPH" : 1,
+        "latitude" : 47.099998,
+        "stationID" : "MD7679",
+        "pressureIn" : 29.9,
+        "pressureMb" : 1012,
+        "relativeHumidity" : "91%",
+        "uniqueIdentifier" : "38F67C47-6BAD-4A38-9A4B-836BBFB550EA",
+        "longitude" : -101.300003,
+        "windKPH" : 0,
+        "windDegrees" : 121,
+        "tempC" : 15,
+        "weather" : "Clear",
+        "uv" : 0,
+        "dewpointC" : 13,
+        "visibilityKM" : 16.1
+      },
+      "date" : "2015-07-10T05:12:12-0600",
+      "responses" : [
+        {
+          "questionPrompt" : "How did you sleep?",
+          "answeredOptions" : [
+            "Ok"
+          ],
+          "uniqueIdentifier" : "1A535087-99FA-44BE-BA98-15525F30E63F"
+        }
+      ]
+    },
+    {
+      "battery" : 0.97,
+      "location" : {
+        "altitude" : 636,
+        "timestamp" : "2015-07-10T08:11:01-0600",
+        "verticalAccuracy" : 64,
+        "longitude" : -101.8222103175724,
+        "latitude" : 46.81124227125832,
+        "course" : 0,
+        "uniqueIdentifier" : "E269C7DC-FD06-42E4-A864-3918971B1D56",
+        "placemark" : {
+          "thoroughfare" : "Highway 49",
+          "postalCode" : "58631",
+          "subAdministrativeArea" : "Morton",
+          "subThoroughfare" : "6482",
+          "region" : "<+46.81194390,-101.82104400> radius 70.83",
+          "uniqueIdentifier" : "A5FFFD2E-5387-4532-A0E2-1E8BFB34ADA6",
+          "locality" : "Glen Ullin",
+          "name" : "6482 Highway 49",
+          "country" : "United States",
+          "administrativeArea" : "ND"
+        },
+        "horizontalAccuracy" : 50,
+        "speed" : 0.449999988079071
+      },
+      "altitude" : {
+        "gpsRawAltitude" : 636,
+        "gpsAltitudeFromLocation" : 649.143555,
+        "uniqueIdentifier" : "668BD86B-830B-42A3-87F5-580F9AE35F87"
+      },
+      "reportImpetus" : 0,
+      "steps" : -1,
+      "audio" : {
+        "avg" : -44.6511,
+        "uniqueIdentifier" : "E655E795-C704-4086-88F9-987E2030E830",
+        "peak" : -33.85221
+      },
+      "sectionIdentifier" : "1-2015-7-10",
+      "uniqueIdentifier" : "5A165835-E9DF-49C1-B718-B66CC5302DA8",
+      "connection" : 0,
+      "background" : 0,
+      "draft" : 0,
+      "weather" : {
+        "windMPH" : 7,
+        "windDirection" : "SE",
+        "tempF" : 68,
+        "precipTodayIn" : 0,
+        "windGustKPH" : 0,
+        "feelslikeC" : 20,
+        "visibilityMi" : 10,
+        "feelslikeF" : 68,
+        "stationID" : "KD57",
+        "latitude" : 46.81278229,
+        "windGustMPH" : 0,
+        "pressureIn" : 29.87,
+        "pressureMb" : 1011,
+        "relativeHumidity" : "78%",
+        "uniqueIdentifier" : "D3585ACC-4BF9-489D-AF72-4962EAE1E4C0",
+        "longitude" : -101.8601532,
+        "precipTodayMetric" : 0,
+        "windKPH" : 11,
+        "windDegrees" : 140,
+        "tempC" : 20,
+        "weather" : "Clear",
+        "uv" : 2,
+        "dewpointC" : 16,
+        "visibilityKM" : 16.1
+      },
+      "date" : "2015-07-10T08:10:34-0600",
+      "responses" : [
+        {
+          "questionPrompt" : "Have you seen an animal?",
+          "tokens" : [
+            {
+              "text" : "Deer",
+              "uniqueIdentifier" : "D9B8E8F0-DB12-41D8-8282-2AA2F216F313"
+            }
+          ],
+          "uniqueIdentifier" : "DBA1ED67-D4DE-4C16-9CE1-5294711E05DD"
+        },
+        {
+          "questionPrompt" : "What is the weather like?",
+          "tokens" : [
+            {
+              "text" : "Sunny",
+              "uniqueIdentifier" : "BE5C21E8-AA75-4D9D-BE9F-E0C590970D1B"
+            }
+          ],
+          "uniqueIdentifier" : "71C32EF2-2963-49A3-86A6-00A20E046DC6"
+        },
+        {
+          "questionPrompt" : "Are you working?",
+          "answeredOptions" : [
+            "No"
+          ],
+          "uniqueIdentifier" : "5F875A65-F62E-4A4B-91F2-A44CABD800DA"
+        },
+        {
+          "questionPrompt" : "Who are you with?",
+          "tokens" : [
+            {
+              "text" : "DAD",
+              "uniqueIdentifier" : "6EF834B9-C0DA-4BD3-94C9-B44ED828B4D5"
+            }
+          ],
+          "uniqueIdentifier" : "ED6EA188-3297-43D6-9131-46C4D82875D9"
+        },
+        {
+          "questionPrompt" : "Where are you?",
+          "locationResponse" : {
+            "uniqueIdentifier" : "F953F1BB-1BA2-4A3C-9A16-48E4F56E0299",
+            "text" : "Cenex",
+            "location" : {
+              "altitude" : 0,
+              "timestamp" : "2015-07-10T08:10:52-0600",
+              "verticalAccuracy" : -1,
+              "longitude" : -101.8226426438834,
+              "latitude" : 46.81148630201713,
+              "course" : 0,
+              "uniqueIdentifier" : "E73B7F1B-EB3F-4001-A6A8-C404DDF89748",
+              "horizontalAccuracy" : 0,
+              "speed" : -1
+            },
+            "foursquareVenueId" : "4f19cfc2e4b0cfc5968ecd56"
+          },
+          "uniqueIdentifier" : "C8F99567-F102-408E-A722-0DA17B58BA13"
+        },
+        {
+          "questionPrompt" : "What are you doing?",
+          "tokens" : [
+            {
+              "text" : "Drink stop",
+              "uniqueIdentifier" : "37C83FE8-1978-410F-AF2B-CA5A0D865DF0"
+            }
+          ],
+          "uniqueIdentifier" : "338D24D2-840E-4E0C-AA0D-9913AE565551"
+        }
+      ]
+    },
+    {
+      "battery" : 0.43,
+      "location" : {
+        "altitude" : 757,
+        "timestamp" : "2015-07-10T14:50:08-0600",
+        "verticalAccuracy" : 48,
+        "longitude" : -102.7949737665269,
+        "latitude" : 46.89363109883563,
+        "course" : 0,
+        "uniqueIdentifier" : "ABE5CE9C-2E62-4DD5-8515-0F863149B0C8",
+        "placemark" : {
+          "thoroughfare" : "Hillside Dr",
+          "postalCode" : "58601",
+          "subAdministrativeArea" : "Stark",
+          "subThoroughfare" : "622–668",
+          "region" : "<+46.89345619,-102.79497440> radius 141.65",
+          "uniqueIdentifier" : "BA78BEAC-E288-4B9B-9CD4-7EA3E3F0A5BA",
+          "locality" : "Dickinson",
+          "name" : "622–668 Hillside Dr",
+          "country" : "United States",
+          "administrativeArea" : "ND"
+        },
+        "horizontalAccuracy" : 50,
+        "speed" : 0
+      },
+      "altitude" : {
+        "gpsRawAltitude" : 757,
+        "gpsAltitudeFromLocation" : 760.230957,
+        "uniqueIdentifier" : "ED679FB4-7194-47BF-A14B-62BBADA3946B"
+      },
+      "reportImpetus" : 0,
+      "steps" : -1,
+      "audio" : {
+        "avg" : -50.43178,
+        "uniqueIdentifier" : "009ADA96-C415-4474-81E8-BC4FF604DBBB",
+        "peak" : -34.56617
+      },
+      "sectionIdentifier" : "1-2015-7-10",
+      "uniqueIdentifier" : "177D746D-A065-43AE-8E56-D0BF284A01C8",
+      "connection" : 0,
+      "background" : 0,
+      "draft" : 0,
+      "weather" : {
+        "windMPH" : 17,
+        "windDirection" : "SSE",
+        "tempF" : 85,
+        "precipTodayIn" : 0,
+        "windGustKPH" : 0,
+        "feelslikeC" : 30,
+        "visibilityMi" : 10,
+        "feelslikeF" : 87,
+        "stationID" : "KDIK",
+        "latitude" : 46.79733276,
+        "windGustMPH" : 0,
+        "pressureIn" : 29.76,
+        "pressureMb" : 1008,
+        "relativeHumidity" : "51%",
+        "uniqueIdentifier" : "3AAFF4CC-E667-4F27-BA23-37A4C93838F4",
+        "longitude" : -102.80186462,
+        "precipTodayMetric" : 0,
+        "windKPH" : 28,
+        "windDegrees" : 150,
+        "tempC" : 29,
+        "weather" : "Mostly Cloudy",
+        "uv" : 6,
+        "dewpointC" : 18,
+        "visibilityKM" : 16.1
+      },
+      "date" : "2015-07-10T14:50:00-0600",
+      "responses" : [
+        {
+          "questionPrompt" : "Have you seen an animal?",
+          "tokens" : [
+            {
+              "text" : "Snake owl",
+              "uniqueIdentifier" : "56B7CA81-4BF6-43B5-9DF8-AF7CD8C3539B"
+            }
+          ],
+          "uniqueIdentifier" : "F9AF5CEB-57A4-40C5-B062-AF2BEA718CA7"
+        },
+        {
+          "questionPrompt" : "Who are you with?",
+          "tokens" : [
+            {
+              "text" : "DAD",
+              "uniqueIdentifier" : "6EF834B9-C0DA-4BD3-94C9-B44ED828B4D5"
+            }
+          ],
+          "uniqueIdentifier" : "ED6EA188-3297-43D6-9131-46C4D82875D9"
+        },
+        {
+          "questionPrompt" : "Are you working?",
+          "answeredOptions" : [
+            "No"
+          ],
+          "uniqueIdentifier" : "5F875A65-F62E-4A4B-91F2-A44CABD800DA"
+        },
+        {
+          "questionPrompt" : "What are you doing?",
+          "tokens" : [
+            {
+              "text" : "Done",
+              "uniqueIdentifier" : "A16FE18C-45F6-45BC-A985-18CFC99D084C"
+            }
+          ],
+          "uniqueIdentifier" : "1E87EF44-9FA3-48CD-99B7-0A695DD7AA6A"
+        },
+        {
+          "questionPrompt" : "What is the weather like?",
+          "tokens" : [
+            {
+              "text" : "Sunny",
+              "uniqueIdentifier" : "BE5C21E8-AA75-4D9D-BE9F-E0C590970D1B"
+            }
+          ],
+          "uniqueIdentifier" : "71C32EF2-2963-49A3-86A6-00A20E046DC6"
+        },
+        {
+          "questionPrompt" : "Where are you?",
+          "locationResponse" : {
+            "text" : "Hotel",
+            "location" : {
+              "altitude" : 753,
+              "timestamp" : "2015-07-10T14:50:35-0600",
+              "verticalAccuracy" : 8,
+              "longitude" : -102.7950202022705,
+              "latitude" : 46.89373000529305,
+              "course" : 0,
+              "uniqueIdentifier" : "03A1089A-B55C-474B-8C38-B2806ACF3DF8",
+              "horizontalAccuracy" : 10,
+              "speed" : 0.2981518805027008
+            },
+            "uniqueIdentifier" : "38F1A0A2-0392-4FFF-A212-3FEE3802913A"
+          },
+          "uniqueIdentifier" : "8C7D6227-4237-4FC2-A275-3CD009EC063C"
+        }
+      ]
+    },
+    {
+      "battery" : 0.51,
+      "location" : {
+        "altitude" : 753.6881103515625,
+        "timestamp" : "2015-07-10T20:51:44-0600",
+        "verticalAccuracy" : 10,
+        "longitude" : -102.7950112939558,
+        "latitude" : 46.89421586754856,
+        "course" : 0,
+        "uniqueIdentifier" : "BDB7F229-7D8A-4B55-9214-90B6A3ED34A4",
+        "placemark" : {
+          "thoroughfare" : "12th St W",
+          "postalCode" : "58601",
+          "subAdministrativeArea" : "Stark",
+          "subThoroughfare" : "532–682",
+          "region" : "<+46.89414779,-102.79501110> radius 141.65",
+          "uniqueIdentifier" : "905C09BE-AF93-4138-95D0-8C772560D764",
+          "locality" : "Dickinson",
+          "name" : "532–682 12th St W",
+          "country" : "United States",
+          "administrativeArea" : "ND"
+        },
+        "horizontalAccuracy" : 65,
+        "speed" : -1
+      },
+      "altitude" : {
+        "gpsRawAltitude" : 753.6881103515625,
+        "gpsAltitudeFromLocation" : 750.9277949999999,
+        "uniqueIdentifier" : "825E8C45-2147-4711-9CA0-6150A0A77A91"
+      },
+      "reportImpetus" : 3,
+      "steps" : -1,
+      "audio" : {
+        "avg" : -48.13719,
+        "uniqueIdentifier" : "06A6765E-F117-4792-B1BC-6E3774D8B39F",
+        "peak" : -30.12625
+      },
+      "sectionIdentifier" : "1-2015-7-10",
+      "uniqueIdentifier" : "7B8FA303-614E-4C2C-9C85-9F2BDBAB21F8",
+      "connection" : 0,
+      "background" : 0,
+      "draft" : 0,
+      "weather" : {
+        "windMPH" : 8,
+        "windDirection" : "SE",
+        "tempF" : 78,
+        "precipTodayIn" : 0,
+        "windGustKPH" : 0,
+        "feelslikeC" : 26,
+        "visibilityMi" : 10,
+        "feelslikeF" : 78,
+        "stationID" : "KDIK",
+        "latitude" : 46.79733276,
+        "windGustMPH" : 0,
+        "pressureIn" : 29.73,
+        "pressureMb" : 1006,
+        "relativeHumidity" : "71%",
+        "uniqueIdentifier" : "AAC5CE7D-1E1E-4528-96B4-58EFBC066C95",
+        "longitude" : -102.80186462,
+        "precipTodayMetric" : 0,
+        "windKPH" : 13,
+        "windDegrees" : 130,
+        "tempC" : 26,
+        "weather" : "Partly Cloudy",
+        "uv" : 0,
+        "dewpointC" : 20,
+        "visibilityKM" : 16.1
+      },
+      "date" : "2015-07-10T20:51:41-0600",
+      "responses" : [
+        {
+          "questionPrompt" : "What did you learn today?",
+          "textResponses" : [
+            {
+              "text" : "How lawyers live in dc",
+              "uniqueIdentifier" : "29FBD990-11FD-4952-B00D-805B7BE90CE3"
+            }
+          ],
+          "uniqueIdentifier" : "DB896374-D1BF-4F3A-A657-7A5EB6D8566C"
+        }
+      ]
+    }
+  ],
+  "questions" : [
+    {
+      "prompt" : "How did you sleep?",
+      "questionType" : 1,
+      "uniqueIdentifier" : "default-question-1"
+    },
+    {
+      "prompt" : "Are you working?",
+      "questionType" : 2,
+      "uniqueIdentifier" : "default-question-2"
+    },
+    {
+      "prompt" : "How many coffees did you have today?",
+      "questionType" : 5,
+      "uniqueIdentifier" : "default-question-6"
+    },
+    {
+      "prompt" : "What are you doing?",
+      "questionType" : 0,
+      "uniqueIdentifier" : "default-question-3"
+    },
+    {
+      "prompt" : "Who are you with?",
+      "questionType" : 4,
+      "uniqueIdentifier" : "default-question-5",
+      "placeholderString" : "No one"
+    },
+    {
+      "prompt" : "Where are you?",
+      "questionType" : 3,
+      "uniqueIdentifier" : "default-question-4"
+    },
+    {
+      "prompt" : "What did you learn today?",
+      "questionType" : 6,
+      "uniqueIdentifier" : "default-question-7"
+    },
+    {
+      "prompt" : "What is the weather like?",
+      "questionType" : 0,
+      "uniqueIdentifier" : "C6D94168-5AB1-4EFC-9247-DEDD4126FF80"
+    },
+    {
+      "prompt" : "Have you seen an animal?",
+      "questionType" : 0,
+      "uniqueIdentifier" : "8A43B95E-2E90-45B9-8EA8-3B9539F90B00"
+    }
+  ]
+}

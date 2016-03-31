@@ -1,0 +1,990 @@
+{
+  "snapshots" : [
+    {
+      "battery" : 1,
+      "location" : {
+        "altitude" : 82.01061248779297,
+        "timestamp" : "2015-08-17T06:13:22-0700",
+        "verticalAccuracy" : 10,
+        "longitude" : -122.8525592400036,
+        "latitude" : 45.56252019451328,
+        "course" : 0,
+        "uniqueIdentifier" : "6B32803F-02AD-495F-9C73-6956CD0A6ED7",
+        "placemark" : {
+          "thoroughfare" : "NW Springville Rd",
+          "postalCode" : "97229",
+          "subAdministrativeArea" : "Washington",
+          "subThoroughfare" : "17130",
+          "region" : "<+45.56256300,-122.85262200> radius 57.59",
+          "uniqueIdentifier" : "054C008F-B3E4-43A5-BDAB-9CB31248123D",
+          "locality" : "Bethany",
+          "name" : "17130 NW Springville Rd",
+          "country" : "United States",
+          "administrativeArea" : "OR"
+        },
+        "horizontalAccuracy" : 65,
+        "speed" : -1
+      },
+      "altitude" : {
+        "gpsRawAltitude" : 82.01061248779297,
+        "gpsAltitudeFromLocation" : 77.922241,
+        "uniqueIdentifier" : "46ADC7F1-2E3F-4B20-ABA1-7B29538CE1E4"
+      },
+      "reportImpetus" : 3,
+      "steps" : -1,
+      "audio" : {
+        "avg" : -57.79065,
+        "uniqueIdentifier" : "6051940E-E971-473B-A9BC-F37C2672F741",
+        "peak" : -35.45334
+      },
+      "sectionIdentifier" : "1-2015-8-17",
+      "uniqueIdentifier" : "FCCCA092-E443-4C62-9E7C-8DCFEA801FF3",
+      "connection" : 1,
+      "background" : 0,
+      "draft" : 0,
+      "weather" : {
+        "windMPH" : 0,
+        "windDirection" : "ESE",
+        "tempF" : 56.7,
+        "precipTodayIn" : 0,
+        "windGustKPH" : 0,
+        "feelslikeC" : 13.7,
+        "visibilityMi" : 10,
+        "feelslikeF" : 56.7,
+        "stationID" : "KORPORTL296",
+        "latitude" : 45.546165,
+        "windGustMPH" : 0,
+        "pressureIn" : 30.08,
+        "pressureMb" : 1018,
+        "relativeHumidity" : "92%",
+        "uniqueIdentifier" : "C74F7F91-E405-42F5-9410-9E30CEF56A21",
+        "longitude" : -122.825134,
+        "precipTodayMetric" : 0,
+        "windKPH" : 0,
+        "windDegrees" : 112,
+        "tempC" : 13.7,
+        "weather" : "Clear",
+        "uv" : 0,
+        "dewpointC" : 12,
+        "visibilityKM" : 16.1
+      },
+      "date" : "2015-08-17T06:13:20-0700",
+      "responses" : [
+        {
+          "questionPrompt" : "What did you learn today?",
+          "textResponses" : [
+            {
+              "text" : "Climbing unexpected still works",
+              "uniqueIdentifier" : "24EED111-3BB2-417E-97B9-CAEE7C83977B"
+            }
+          ],
+          "uniqueIdentifier" : "2E32F025-8B43-4AC7-9D49-A6702386A401"
+        }
+      ]
+    },
+    {
+      "battery" : 1,
+      "location" : {
+        "altitude" : 76.20789337158203,
+        "timestamp" : "2015-08-17T06:14:07-0700",
+        "verticalAccuracy" : 10,
+        "longitude" : -122.8533115256114,
+        "latitude" : 45.56241984482181,
+        "course" : 0,
+        "uniqueIdentifier" : "973E04F5-3851-4341-8798-A7E909E99599",
+        "placemark" : {
+          "thoroughfare" : "NW Springville Rd",
+          "postalCode" : "97229",
+          "subAdministrativeArea" : "Washington",
+          "subThoroughfare" : "17190",
+          "region" : "<+45.56258205,-122.85374220> radius 55.79",
+          "uniqueIdentifier" : "EED25B1E-59B3-4171-BA81-9A18BDA36DF9",
+          "locality" : "Bethany",
+          "name" : "17190 NW Springville Rd",
+          "country" : "United States",
+          "administrativeArea" : "OR"
+        },
+        "horizontalAccuracy" : 65,
+        "speed" : -1
+      },
+      "altitude" : {
+        "gpsRawAltitude" : 76.20789337158203,
+        "gpsAltitudeFromLocation" : 79.79986599999999,
+        "uniqueIdentifier" : "D7C99872-873C-4478-9C23-CD9ED74BB003"
+      },
+      "reportImpetus" : 4,
+      "steps" : -1,
+      "audio" : {
+        "avg" : -44.61688,
+        "uniqueIdentifier" : "C264C83F-86A9-4B7B-BF03-D632DB0F94BD",
+        "peak" : -35.19276
+      },
+      "sectionIdentifier" : "1-2015-8-17",
+      "uniqueIdentifier" : "D82CE525-42CC-4297-AD02-F98835B16F43",
+      "connection" : 1,
+      "background" : 0,
+      "draft" : 0,
+      "weather" : {
+        "windMPH" : 0,
+        "windDirection" : "ESE",
+        "tempF" : 56.7,
+        "precipTodayIn" : 0,
+        "windGustKPH" : 0,
+        "feelslikeC" : 13.7,
+        "visibilityMi" : 10,
+        "feelslikeF" : 56.7,
+        "stationID" : "KORPORTL296",
+        "latitude" : 45.546165,
+        "windGustMPH" : 0,
+        "pressureIn" : 30.08,
+        "pressureMb" : 1018,
+        "relativeHumidity" : "92%",
+        "uniqueIdentifier" : "0F9A9422-BAC5-46E8-AD72-57EBC270282A",
+        "longitude" : -122.825134,
+        "precipTodayMetric" : 0,
+        "windKPH" : 0,
+        "windDegrees" : 112,
+        "tempC" : 13.7,
+        "weather" : "Clear",
+        "uv" : 0,
+        "dewpointC" : 12,
+        "visibilityKM" : 16.1
+      },
+      "date" : "2015-08-17T06:14:05-0700",
+      "responses" : [
+        {
+          "questionPrompt" : "How did you sleep?",
+          "answeredOptions" : [
+            "Great"
+          ],
+          "uniqueIdentifier" : "54AEA129-A3A9-459C-9AB9-946A9EA919F7"
+        }
+      ]
+    },
+    {
+      "battery" : 0.99,
+      "location" : {
+        "altitude" : 136,
+        "timestamp" : "2015-08-17T08:22:10-0700",
+        "verticalAccuracy" : 48,
+        "longitude" : -122.8437464499127,
+        "latitude" : 45.59209793344661,
+        "course" : 0,
+        "uniqueIdentifier" : "5011DC0E-2B2C-415C-A585-37903C62AB38",
+        "placemark" : {
+          "thoroughfare" : "NW Kaiser Rd",
+          "postalCode" : "97231",
+          "subAdministrativeArea" : "Multnomah",
+          "subLocality" : "Forest Park",
+          "subThoroughfare" : "9420",
+          "region" : "<+45.59263205,-122.84309340> radius 146.01",
+          "uniqueIdentifier" : "5AC0FB6E-4D6A-4715-B3EC-3C221C003B47",
+          "locality" : "Portland",
+          "name" : "9420 NW Kaiser Rd",
+          "country" : "United States",
+          "administrativeArea" : "OR"
+        },
+        "horizontalAccuracy" : 50,
+        "speed" : -1
+      },
+      "altitude" : {
+        "gpsRawAltitude" : 136,
+        "gpsAltitudeFromLocation" : 165.875504,
+        "uniqueIdentifier" : "E967405D-B326-46D3-9DBB-33C7DAE8542D"
+      },
+      "reportImpetus" : 0,
+      "steps" : -1,
+      "audio" : {
+        "avg" : -50.97916,
+        "uniqueIdentifier" : "5572450B-FDF5-4A4B-B909-2FB7C02375B7",
+        "peak" : -31.90771
+      },
+      "photoSet" : {
+        "photos" : [
+          {
+            "brightnessValue" : -3.925966,
+            "meteringMode" : 5,
+            "focalLengthIn35mm" : 35,
+            "sceneCaptureType" : 0,
+            "exposureMode" : 0,
+            "resolutionUnit" : 2,
+            "make" : "Apple",
+            "software" : "8.4",
+            "assetUrl" : "assets-library:\/\/asset\/asset.JPG?id=11ADD96F-953F-43AE-8D69-C0FC684074A6&ext=JPG",
+            "isoSpeed" : 2000,
+            "exposureTime" : 0.04166667,
+            "shutterSpeed" : 4.584986,
+            "depth" : 8,
+            "latitude" : 0,
+            "fNumber" : 2.4,
+            "sensingMode" : 2,
+            "uniqueIdentifier" : "030ED890-794B-42EF-AC13-A3FA0F7A5A75",
+            "longitude" : 0,
+            "apertureValue" : 2.526069,
+            "focalLength" : 1.85,
+            "model" : "iPhone 4S",
+            "altitude" : 0,
+            "exposureProgram" : 2,
+            "pixelWidth" : 640,
+            "dateTime" : "2015-08-17T06:19:53-0700",
+            "flash" : 32,
+            "orientation" : 1,
+            "pixelHeight" : 480,
+            "whiteBalance" : 0
+          }
+        ],
+        "uniqueIdentifier" : "D7880593-8E78-4742-9007-EAF171873CE9"
+      },
+      "sectionIdentifier" : "1-2015-8-17",
+      "uniqueIdentifier" : "D2C09F36-C52C-48B0-96AF-CC048DA0087D",
+      "connection" : 0,
+      "background" : 0,
+      "draft" : 0,
+      "weather" : {
+        "windMPH" : 2.5,
+        "windDirection" : "North",
+        "tempF" : 61.3,
+        "precipTodayIn" : 0,
+        "windGustKPH" : 11.9,
+        "feelslikeC" : 16.3,
+        "visibilityMi" : 10,
+        "feelslikeF" : 61.3,
+        "stationID" : "KORPORTL363",
+        "latitude" : 45.621796,
+        "windGustMPH" : 7.4,
+        "pressureIn" : 30.08,
+        "pressureMb" : 1019,
+        "relativeHumidity" : "75%",
+        "uniqueIdentifier" : "3556AC86-F8CA-4CFC-8139-5E702B6EAFC3",
+        "longitude" : -122.874298,
+        "precipTodayMetric" : 0,
+        "windKPH" : 4,
+        "windDegrees" : 9,
+        "tempC" : 16.3,
+        "weather" : "Clear",
+        "uv" : 1,
+        "dewpointC" : 12,
+        "visibilityKM" : 16.1
+      },
+      "date" : "2015-08-17T08:22:08-0700",
+      "responses" : [
+        {
+          "questionPrompt" : "Who are you with?",
+          "tokens" : [
+            {
+              "text" : "DAD",
+              "uniqueIdentifier" : "6EF834B9-C0DA-4BD3-94C9-B44ED828B4D5"
+            }
+          ],
+          "uniqueIdentifier" : "ED6EA188-3297-43D6-9131-46C4D82875D9"
+        },
+        {
+          "questionPrompt" : "Are you working?",
+          "answeredOptions" : [
+            "No"
+          ],
+          "uniqueIdentifier" : "5F875A65-F62E-4A4B-91F2-A44CABD800DA"
+        },
+        {
+          "questionPrompt" : "Have you seen an animal?",
+          "tokens" : [
+            {
+              "text" : "Chipmunk",
+              "uniqueIdentifier" : "830765F8-5F88-4328-9470-552F8F9BA78E"
+            }
+          ],
+          "uniqueIdentifier" : "B60A9B8D-803D-47A9-A209-1844CE25A3CF"
+        },
+        {
+          "questionPrompt" : "What is the weather like?",
+          "tokens" : [
+            {
+              "text" : "Sunny",
+              "uniqueIdentifier" : "BE5C21E8-AA75-4D9D-BE9F-E0C590970D1B"
+            }
+          ],
+          "uniqueIdentifier" : "71C32EF2-2963-49A3-86A6-00A20E046DC6"
+        },
+        {
+          "questionPrompt" : "Where are you?",
+          "locationResponse" : {
+            "uniqueIdentifier" : "B5BBC5C5-AC62-44DA-9B1B-FE66D939E8A1",
+            "text" : "Rockcreek",
+            "location" : {
+              "altitude" : 0,
+              "timestamp" : "2015-08-17T08:22:29-0700",
+              "verticalAccuracy" : -1,
+              "longitude" : -122.854173672916,
+              "latitude" : 45.55163755939883,
+              "course" : 0,
+              "uniqueIdentifier" : "93CF5E05-4C95-4C1E-A34C-67D912024111",
+              "horizontalAccuracy" : 0,
+              "speed" : -1
+            },
+            "foursquareVenueId" : "5335dc94498e1fe144057705"
+          },
+          "uniqueIdentifier" : "B6F083EC-B754-4B2D-B499-CAA1C7F358B1"
+        },
+        {
+          "questionPrompt" : "What are you doing?",
+          "tokens" : [
+            {
+              "text" : "Da",
+              "uniqueIdentifier" : "164A8EEC-BDA9-43B5-B1A5-E0A5D39F11BE"
+            }
+          ],
+          "uniqueIdentifier" : "8520DE60-DDD5-413A-BB8F-9F4047F0D4B2"
+        }
+      ]
+    },
+    {
+      "battery" : 0.93,
+      "location" : {
+        "altitude" : 43,
+        "timestamp" : "2015-08-17T09:50:31-0700",
+        "verticalAccuracy" : 16,
+        "longitude" : -122.875717626999,
+        "latitude" : 45.73046773210702,
+        "course" : 0,
+        "uniqueIdentifier" : "9EDC994D-C092-4549-81A0-72E120A391C8",
+        "placemark" : {
+          "thoroughfare" : "Columbia River Hwy",
+          "postalCode" : "97056",
+          "subAdministrativeArea" : "Columbia",
+          "subThoroughfare" : "50654",
+          "region" : "<+45.73072780,-122.87563385> radius 47.11",
+          "uniqueIdentifier" : "D9906A6F-F299-4AC2-A81D-2BA7DA3E7174",
+          "locality" : "Scappoose",
+          "name" : "50654 Columbia River Hwy",
+          "country" : "United States",
+          "administrativeArea" : "OR"
+        },
+        "horizontalAccuracy" : 10,
+        "speed" : 0.2997137606143951
+      },
+      "altitude" : {
+        "gpsRawAltitude" : 43,
+        "gpsAltitudeFromLocation" : 12.524815,
+        "uniqueIdentifier" : "0F1A7577-FF01-4D77-8B9B-FA8F1B58255E"
+      },
+      "reportImpetus" : 0,
+      "steps" : -1,
+      "audio" : {
+        "avg" : -33.61816,
+        "uniqueIdentifier" : "FEF81BC8-C05F-4D78-B000-1EA12CCF2DAB",
+        "peak" : -26.32401
+      },
+      "sectionIdentifier" : "1-2015-8-17",
+      "uniqueIdentifier" : "35F66D67-D3A3-4A57-B328-95236B9D1AFC",
+      "connection" : 0,
+      "background" : 0,
+      "draft" : 0,
+      "weather" : {
+        "windMPH" : 3,
+        "windDirection" : "NNE",
+        "tempF" : 72.8,
+        "precipTodayIn" : 0,
+        "windGustKPH" : 11.3,
+        "feelslikeC" : 22.7,
+        "visibilityMi" : 10,
+        "feelslikeF" : 72.8,
+        "stationID" : "KORSCAPP9",
+        "latitude" : 45.752647,
+        "windGustMPH" : 7,
+        "pressureIn" : 30.08,
+        "pressureMb" : 1019,
+        "relativeHumidity" : "53%",
+        "uniqueIdentifier" : "009B3CEF-BB62-4838-AFC2-4255411148F5",
+        "longitude" : -122.874123,
+        "precipTodayMetric" : 0,
+        "windKPH" : 4.8,
+        "windDegrees" : 24,
+        "tempC" : 22.7,
+        "weather" : "Clear",
+        "uv" : 2,
+        "dewpointC" : 13,
+        "visibilityKM" : 16.1
+      },
+      "date" : "2015-08-17T09:50:30-0700",
+      "responses" : [
+        {
+          "questionPrompt" : "What is the weather like?",
+          "tokens" : [
+            {
+              "text" : "Sunny",
+              "uniqueIdentifier" : "BE5C21E8-AA75-4D9D-BE9F-E0C590970D1B"
+            }
+          ],
+          "uniqueIdentifier" : "71C32EF2-2963-49A3-86A6-00A20E046DC6"
+        },
+        {
+          "questionPrompt" : "Are you working?",
+          "answeredOptions" : [
+            "No"
+          ],
+          "uniqueIdentifier" : "5F875A65-F62E-4A4B-91F2-A44CABD800DA"
+        },
+        {
+          "questionPrompt" : "Have you seen an animal?",
+          "tokens" : [
+            {
+              "text" : "Nope",
+              "uniqueIdentifier" : "4FEAA7D3-34E7-41E5-B9A8-E12D584B8FED"
+            }
+          ],
+          "uniqueIdentifier" : "852E2636-173A-46D4-8415-2328E3B16320"
+        },
+        {
+          "questionPrompt" : "What are you doing?",
+          "tokens" : [
+            {
+              "text" : "Drink stop",
+              "uniqueIdentifier" : "37C83FE8-1978-410F-AF2B-CA5A0D865DF0"
+            }
+          ],
+          "uniqueIdentifier" : "338D24D2-840E-4E0C-AA0D-9913AE565551"
+        },
+        {
+          "questionPrompt" : "Where are you?",
+          "uniqueIdentifier" : "92B150FA-8ABC-4482-AD46-51F2CD299CCC"
+        },
+        {
+          "questionPrompt" : "Who are you with?",
+          "tokens" : [
+            {
+              "text" : "DAD",
+              "uniqueIdentifier" : "6EF834B9-C0DA-4BD3-94C9-B44ED828B4D5"
+            }
+          ],
+          "uniqueIdentifier" : "ED6EA188-3297-43D6-9131-46C4D82875D9"
+        }
+      ]
+    },
+    {
+      "battery" : 0.9,
+      "location" : {
+        "altitude" : 23.45600128173828,
+        "timestamp" : "2015-08-17T10:47:11-0700",
+        "verticalAccuracy" : 10,
+        "longitude" : -122.831167971703,
+        "latitude" : 45.84858090383054,
+        "course" : 0,
+        "uniqueIdentifier" : "8E57032D-6E88-49BC-8E2D-A155C29A56B0",
+        "placemark" : {
+          "thoroughfare" : "Gable Rd",
+          "postalCode" : "97051",
+          "subAdministrativeArea" : "Columbia",
+          "subThoroughfare" : "2296",
+          "region" : "<+45.84848080,-122.83043100> radius 70.83",
+          "uniqueIdentifier" : "1C2B6345-FCD9-4DDF-904D-4C64E8216529",
+          "locality" : "Saint Helens",
+          "name" : "2296 Gable Rd",
+          "country" : "United States",
+          "administrativeArea" : "OR"
+        },
+        "horizontalAccuracy" : 65,
+        "speed" : -1
+      },
+      "altitude" : {
+        "gpsRawAltitude" : 23.45600128173828,
+        "gpsAltitudeFromLocation" : 26.630527,
+        "uniqueIdentifier" : "E2A1CD0B-30A3-4869-B647-2F62AA4FCF29"
+      },
+      "reportImpetus" : 0,
+      "steps" : -1,
+      "audio" : {
+        "avg" : -45.17434,
+        "uniqueIdentifier" : "88FED20F-3094-4F29-8E2E-C0750268D065",
+        "peak" : -32.71793
+      },
+      "sectionIdentifier" : "1-2015-8-17",
+      "uniqueIdentifier" : "636BE6E2-677C-4BD9-B921-C9277C48C5BB",
+      "connection" : 0,
+      "background" : 0,
+      "draft" : 0,
+      "weather" : {
+        "windMPH" : 5,
+        "windDirection" : "NW",
+        "tempF" : 73.59999999999999,
+        "precipTodayIn" : 0,
+        "windGustKPH" : 17.7,
+        "feelslikeC" : 23.1,
+        "visibilityMi" : 10,
+        "feelslikeF" : 73.59999999999999,
+        "stationID" : "KORSTHEL5",
+        "latitude" : 45.85463,
+        "windGustMPH" : 11,
+        "pressureIn" : 30.08,
+        "pressureMb" : 1018,
+        "relativeHumidity" : "52%",
+        "uniqueIdentifier" : "2C997C45-126A-4DC4-AD6C-F21F27846AD2",
+        "longitude" : -122.851265,
+        "precipTodayMetric" : 0,
+        "windKPH" : 8,
+        "windDegrees" : 323,
+        "tempC" : 23.1,
+        "weather" : "Clear",
+        "uv" : 4,
+        "dewpointC" : 13,
+        "visibilityKM" : 16.1
+      },
+      "date" : "2015-08-17T10:47:08-0700",
+      "responses" : [
+        {
+          "questionPrompt" : "Who are you with?",
+          "tokens" : [
+            {
+              "text" : "DAD",
+              "uniqueIdentifier" : "6EF834B9-C0DA-4BD3-94C9-B44ED828B4D5"
+            }
+          ],
+          "uniqueIdentifier" : "ED6EA188-3297-43D6-9131-46C4D82875D9"
+        },
+        {
+          "questionPrompt" : "Are you working?",
+          "answeredOptions" : [
+            "No"
+          ],
+          "uniqueIdentifier" : "5F875A65-F62E-4A4B-91F2-A44CABD800DA"
+        },
+        {
+          "questionPrompt" : "Where are you?",
+          "locationResponse" : {
+            "uniqueIdentifier" : "5BD5FCDB-E38B-46A9-BD8A-A72B8F343DB7",
+            "text" : "Starbucks",
+            "location" : {
+              "altitude" : 0,
+              "timestamp" : "2015-08-17T10:47:17-0700",
+              "verticalAccuracy" : -1,
+              "longitude" : -122.830728845784,
+              "latitude" : 45.84867258407278,
+              "course" : 0,
+              "uniqueIdentifier" : "9A3D2FA5-641F-447E-B991-6A3ED5149AF2",
+              "horizontalAccuracy" : 0,
+              "speed" : -1
+            },
+            "foursquareVenueId" : "4b95febef964a5209fb934e3"
+          },
+          "uniqueIdentifier" : "4DDC4A04-013A-42B9-A4FE-3B0A3D11A4E7"
+        },
+        {
+          "questionPrompt" : "What is the weather like?",
+          "tokens" : [
+            {
+              "text" : "Sunny",
+              "uniqueIdentifier" : "BE5C21E8-AA75-4D9D-BE9F-E0C590970D1B"
+            }
+          ],
+          "uniqueIdentifier" : "71C32EF2-2963-49A3-86A6-00A20E046DC6"
+        },
+        {
+          "questionPrompt" : "What are you doing?",
+          "tokens" : [
+            {
+              "text" : "Drink stop",
+              "uniqueIdentifier" : "37C83FE8-1978-410F-AF2B-CA5A0D865DF0"
+            }
+          ],
+          "uniqueIdentifier" : "338D24D2-840E-4E0C-AA0D-9913AE565551"
+        },
+        {
+          "questionPrompt" : "Have you seen an animal?",
+          "tokens" : [
+            {
+              "text" : "Dog",
+              "uniqueIdentifier" : "4F987BE5-A043-40DD-80D3-A944A2AEAC89"
+            }
+          ],
+          "uniqueIdentifier" : "21437D6F-9B26-4373-B549-352DE9954FAD"
+        }
+      ]
+    },
+    {
+      "battery" : 0.73,
+      "location" : {
+        "altitude" : 35,
+        "timestamp" : "2015-08-17T14:44:43-0700",
+        "verticalAccuracy" : 24,
+        "longitude" : -123.1436801144137,
+        "latitude" : 46.10323028643253,
+        "course" : 0,
+        "uniqueIdentifier" : "0EECD0B8-81F4-4247-AB60-EB3B07BF0A31",
+        "placemark" : {
+          "thoroughfare" : "Beaver Falls Rd",
+          "postalCode" : "97016",
+          "subAdministrativeArea" : "Columbia",
+          "subThoroughfare" : "19976–20598",
+          "region" : "<+46.10336879,-123.14370080> radius 141.66",
+          "uniqueIdentifier" : "3E5DC4F8-E3EF-45AA-8F98-89B668409160",
+          "locality" : "Clatskanie",
+          "name" : "19976–20598 Beaver Falls Rd",
+          "country" : "United States",
+          "administrativeArea" : "OR"
+        },
+        "horizontalAccuracy" : 10,
+        "speed" : -1
+      },
+      "altitude" : {
+        "gpsRawAltitude" : 35,
+        "gpsAltitudeFromLocation" : 48.00201,
+        "uniqueIdentifier" : "F0F6216C-0777-4B78-87DC-952A944A7581"
+      },
+      "reportImpetus" : 0,
+      "steps" : -1,
+      "audio" : {
+        "avg" : -56.20086,
+        "uniqueIdentifier" : "7304D8EC-40A3-4813-8502-7A9289529215",
+        "peak" : -34.77559
+      },
+      "photoSet" : {
+        "photos" : [
+          {
+            "brightnessValue" : 9.770478,
+            "meteringMode" : 5,
+            "focalLengthIn35mm" : 35,
+            "sceneCaptureType" : 0,
+            "exposureMode" : 0,
+            "resolutionUnit" : 2,
+            "make" : "Apple",
+            "software" : "8.4",
+            "assetUrl" : "assets-library:\/\/asset\/asset.JPG?id=6BB50487-CBF5-43C7-81B6-0900DEDA0CAB&ext=JPG",
+            "isoSpeed" : 50,
+            "exposureTime" : 0.0006697924,
+            "shutterSpeed" : 10.54355,
+            "depth" : 8,
+            "latitude" : 0,
+            "fNumber" : 2.4,
+            "sensingMode" : 2,
+            "uniqueIdentifier" : "BF117B39-8F56-4647-8741-BE918DFA8648",
+            "longitude" : 0,
+            "apertureValue" : 2.526069,
+            "focalLength" : 4.28,
+            "model" : "iPhone 4S",
+            "altitude" : 0,
+            "exposureProgram" : 2,
+            "pixelWidth" : 3264,
+            "dateTime" : "2015-08-17T11:43:46-0700",
+            "flash" : 16,
+            "orientation" : 3,
+            "pixelHeight" : 2448,
+            "whiteBalance" : 0
+          },
+          {
+            "brightnessValue" : 9.718579,
+            "meteringMode" : 5,
+            "focalLengthIn35mm" : 35,
+            "sceneCaptureType" : 0,
+            "exposureMode" : 0,
+            "resolutionUnit" : 2,
+            "make" : "Apple",
+            "software" : "8.4",
+            "assetUrl" : "assets-library:\/\/asset\/asset.JPG?id=5D9665B3-6332-4923-BA91-6B9BF1CF7A39&ext=JPG",
+            "isoSpeed" : 50,
+            "exposureTime" : 0.0005790388,
+            "shutterSpeed" : 10.75415,
+            "depth" : 8,
+            "latitude" : 0,
+            "fNumber" : 2.4,
+            "sensingMode" : 2,
+            "uniqueIdentifier" : "B8BE02A8-6AC5-4F54-A1BC-D98FC669BE78",
+            "longitude" : 0,
+            "apertureValue" : 2.526069,
+            "focalLength" : 4.28,
+            "model" : "iPhone 4S",
+            "altitude" : 0,
+            "exposureProgram" : 2,
+            "pixelWidth" : 3264,
+            "dateTime" : "2015-08-17T11:43:40-0700",
+            "flash" : 16,
+            "orientation" : 3,
+            "pixelHeight" : 2448,
+            "whiteBalance" : 0
+          },
+          {
+            "brightnessValue" : 9.784623,
+            "meteringMode" : 5,
+            "focalLengthIn35mm" : 35,
+            "sceneCaptureType" : 0,
+            "exposureMode" : 0,
+            "resolutionUnit" : 2,
+            "make" : "Apple",
+            "software" : "8.4",
+            "assetUrl" : "assets-library:\/\/asset\/asset.JPG?id=6425982E-D4E0-4597-BDBF-B3FEAB2CCE4C&ext=JPG",
+            "isoSpeed" : 50,
+            "exposureTime" : 0.0006697924,
+            "shutterSpeed" : 10.54355,
+            "depth" : 8,
+            "latitude" : 0,
+            "fNumber" : 2.4,
+            "sensingMode" : 2,
+            "uniqueIdentifier" : "0F50EDF7-FCEF-4581-8967-8E645868988F",
+            "longitude" : 0,
+            "apertureValue" : 2.526069,
+            "focalLength" : 4.28,
+            "model" : "iPhone 4S",
+            "altitude" : 0,
+            "exposureProgram" : 2,
+            "pixelWidth" : 3264,
+            "dateTime" : "2015-08-17T11:43:48-0700",
+            "flash" : 16,
+            "orientation" : 3,
+            "pixelHeight" : 2448,
+            "whiteBalance" : 0
+          }
+        ],
+        "uniqueIdentifier" : "FF1BE9FA-C09F-4570-BA2E-E7DCA052CF55"
+      },
+      "sectionIdentifier" : "1-2015-8-17",
+      "uniqueIdentifier" : "08823460-6202-4B48-9236-49E9DC03453E",
+      "connection" : 0,
+      "background" : 0,
+      "draft" : 0,
+      "weather" : {
+        "windMPH" : 7,
+        "windDirection" : "NE",
+        "tempF" : 82.2,
+        "precipTodayIn" : 0,
+        "windGustKPH" : 17.7,
+        "feelslikeC" : 27,
+        "visibilityMi" : 10,
+        "feelslikeF" : 81,
+        "stationID" : "KORRAINI1",
+        "latitude" : 46.106411,
+        "windGustMPH" : 11,
+        "pressureIn" : 30.07,
+        "pressureMb" : 1018,
+        "relativeHumidity" : "29%",
+        "uniqueIdentifier" : "B66CD06C-5B20-482A-882D-9F9307C4959B",
+        "longitude" : -123.06192,
+        "precipTodayMetric" : 0,
+        "windKPH" : 11.3,
+        "windDegrees" : 50,
+        "tempC" : 27.9,
+        "weather" : "Clear",
+        "uv" : 8,
+        "dewpointC" : 8,
+        "visibilityKM" : 16.1
+      },
+      "date" : "2015-08-17T14:44:39-0700",
+      "responses" : [
+        {
+          "questionPrompt" : "What is the weather like?",
+          "tokens" : [
+            {
+              "text" : "Sunny",
+              "uniqueIdentifier" : "BE5C21E8-AA75-4D9D-BE9F-E0C590970D1B"
+            }
+          ],
+          "uniqueIdentifier" : "71C32EF2-2963-49A3-86A6-00A20E046DC6"
+        },
+        {
+          "questionPrompt" : "Where are you?",
+          "uniqueIdentifier" : "92B150FA-8ABC-4482-AD46-51F2CD299CCC"
+        },
+        {
+          "questionPrompt" : "What are you doing?",
+          "tokens" : [
+            {
+              "text" : "Drink stop",
+              "uniqueIdentifier" : "37C83FE8-1978-410F-AF2B-CA5A0D865DF0"
+            }
+          ],
+          "uniqueIdentifier" : "338D24D2-840E-4E0C-AA0D-9913AE565551"
+        },
+        {
+          "questionPrompt" : "Have you seen an animal?",
+          "tokens" : [
+            {
+              "text" : "Horse",
+              "uniqueIdentifier" : "EAF212A7-B77F-4B35-BFB5-9CE9A4CD4163"
+            }
+          ],
+          "uniqueIdentifier" : "00943711-EDEC-4BA6-AC80-6ABE73815330"
+        },
+        {
+          "questionPrompt" : "Who are you with?",
+          "tokens" : [
+            {
+              "text" : "DAD",
+              "uniqueIdentifier" : "6EF834B9-C0DA-4BD3-94C9-B44ED828B4D5"
+            }
+          ],
+          "uniqueIdentifier" : "ED6EA188-3297-43D6-9131-46C4D82875D9"
+        },
+        {
+          "questionPrompt" : "Are you working?",
+          "answeredOptions" : [
+            "No"
+          ],
+          "uniqueIdentifier" : "5F875A65-F62E-4A4B-91F2-A44CABD800DA"
+        }
+      ]
+    },
+    {
+      "battery" : 0.4,
+      "location" : {
+        "altitude" : 3.631523609161377,
+        "timestamp" : "2015-08-17T20:45:58-0700",
+        "verticalAccuracy" : 10,
+        "longitude" : -123.1956329859645,
+        "latitude" : 46.10153773689922,
+        "course" : 0,
+        "uniqueIdentifier" : "68952B78-B712-4767-B13C-B3A53DE7445A",
+        "placemark" : {
+          "thoroughfare" : "E Columbia River Hwy",
+          "postalCode" : "97016",
+          "subAdministrativeArea" : "Columbia",
+          "subThoroughfare" : "955",
+          "region" : "<+46.10153800,-123.19546665> radius 51.93",
+          "uniqueIdentifier" : "CC268A88-2A3D-4025-A565-2053CFF6A4F9",
+          "locality" : "Clatskanie",
+          "name" : "955 E Columbia River Hwy",
+          "country" : "United States",
+          "administrativeArea" : "OR"
+        },
+        "horizontalAccuracy" : 71.82766244240003,
+        "speed" : -1
+      },
+      "altitude" : {
+        "gpsRawAltitude" : 3.631523609161377,
+        "gpsAltitudeFromLocation" : 4.966753,
+        "uniqueIdentifier" : "8EC12741-0870-43BA-B5ED-50067D17A9F8"
+      },
+      "reportImpetus" : 3,
+      "steps" : -1,
+      "audio" : {
+        "avg" : -54.01702,
+        "uniqueIdentifier" : "0F20CF09-5D5D-42F8-A447-15B1F13B9A4F",
+        "peak" : -34.32154
+      },
+      "photoSet" : {
+        "photos" : [
+          {
+            "brightnessValue" : 8.067411,
+            "meteringMode" : 5,
+            "focalLengthIn35mm" : 35,
+            "sceneCaptureType" : 0,
+            "exposureMode" : 0,
+            "resolutionUnit" : 2,
+            "make" : "Apple",
+            "software" : "8.4",
+            "assetUrl" : "assets-library:\/\/asset\/asset.JPG?id=4A5D36E6-D0A6-4477-90E4-6CADE99D3F67&ext=JPG",
+            "isoSpeed" : 50,
+            "exposureTime" : 0.001468429,
+            "shutterSpeed" : 9.411932,
+            "depth" : 8,
+            "latitude" : 0,
+            "fNumber" : 2.4,
+            "sensingMode" : 2,
+            "uniqueIdentifier" : "A8930203-A561-4FF4-B9A3-A12D39A20FA3",
+            "longitude" : 0,
+            "apertureValue" : 2.526069,
+            "focalLength" : 4.28,
+            "model" : "iPhone 4S",
+            "altitude" : 0,
+            "exposureProgram" : 2,
+            "pixelWidth" : 3264,
+            "dateTime" : "2015-08-17T19:28:00-0700",
+            "flash" : 16,
+            "orientation" : 3,
+            "pixelHeight" : 2448,
+            "whiteBalance" : 0
+          }
+        ],
+        "uniqueIdentifier" : "DEC727CC-227F-4465-B28A-B8DD44B1DAC3"
+      },
+      "sectionIdentifier" : "1-2015-8-17",
+      "uniqueIdentifier" : "00D2E846-2EF6-49FA-ABAD-8928BCE57BB5",
+      "connection" : 0,
+      "background" : 0,
+      "draft" : 0,
+      "weather" : {
+        "windMPH" : 0,
+        "windDirection" : "WNW",
+        "tempF" : 67.8,
+        "precipTodayIn" : 0,
+        "windGustKPH" : 3.2,
+        "feelslikeC" : 19.9,
+        "visibilityMi" : 10,
+        "feelslikeF" : 67.8,
+        "stationID" : "KORRAINI1",
+        "latitude" : 46.106411,
+        "windGustMPH" : 2,
+        "pressureIn" : 30.02,
+        "pressureMb" : 1016,
+        "relativeHumidity" : "66%",
+        "uniqueIdentifier" : "6530CE23-47E1-4CD8-9E28-23DC5F8EA111",
+        "longitude" : -123.06192,
+        "precipTodayMetric" : 0,
+        "windKPH" : 0,
+        "windDegrees" : 300,
+        "tempC" : 19.9,
+        "weather" : "Clear",
+        "uv" : 0,
+        "dewpointC" : 13,
+        "visibilityKM" : 16.1
+      },
+      "date" : "2015-08-17T20:45:49-0700",
+      "responses" : [
+        {
+          "questionPrompt" : "What did you learn today?",
+          "textResponses" : [
+            {
+              "text" : "Always trust a recumbent man",
+              "uniqueIdentifier" : "0CF461A4-1AE3-45CB-B3D2-3FA55460976C"
+            }
+          ],
+          "uniqueIdentifier" : "4564E35B-3688-42BA-A15A-D7C6675D6E6F"
+        }
+      ]
+    }
+  ],
+  "questions" : [
+    {
+      "prompt" : "How did you sleep?",
+      "questionType" : 1,
+      "uniqueIdentifier" : "default-question-1"
+    },
+    {
+      "prompt" : "Are you working?",
+      "questionType" : 2,
+      "uniqueIdentifier" : "default-question-2"
+    },
+    {
+      "prompt" : "How many coffees did you have today?",
+      "questionType" : 5,
+      "uniqueIdentifier" : "default-question-6"
+    },
+    {
+      "prompt" : "What are you doing?",
+      "questionType" : 0,
+      "uniqueIdentifier" : "default-question-3"
+    },
+    {
+      "prompt" : "Who are you with?",
+      "questionType" : 4,
+      "uniqueIdentifier" : "default-question-5",
+      "placeholderString" : "No one"
+    },
+    {
+      "prompt" : "Where are you?",
+      "questionType" : 3,
+      "uniqueIdentifier" : "default-question-4"
+    },
+    {
+      "prompt" : "What did you learn today?",
+      "questionType" : 6,
+      "uniqueIdentifier" : "default-question-7"
+    },
+    {
+      "prompt" : "What is the weather like?",
+      "questionType" : 0,
+      "uniqueIdentifier" : "C6D94168-5AB1-4EFC-9247-DEDD4126FF80"
+    },
+    {
+      "prompt" : "Have you seen an animal?",
+      "questionType" : 0,
+      "uniqueIdentifier" : "8A43B95E-2E90-45B9-8EA8-3B9539F90B00"
+    }
+  ]
+}

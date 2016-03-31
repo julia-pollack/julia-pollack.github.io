@@ -1,0 +1,867 @@
+{
+  "snapshots" : [
+    {
+      "battery" : 0.73,
+      "location" : {
+        "altitude" : 439,
+        "timestamp" : "2015-06-30T06:00:48-0500",
+        "verticalAccuracy" : 12,
+        "longitude" : -95.92231046417348,
+        "latitude" : 44.34524474203991,
+        "course" : 0,
+        "uniqueIdentifier" : "E4264C42-1646-45DC-9048-780E110B9CB9",
+        "placemark" : {
+          "postalCode" : "56157",
+          "subAdministrativeArea" : "Lyon",
+          "region" : "<+44.35031200,-95.92559400> radius 3349.76",
+          "uniqueIdentifier" : "6BA5F93B-B387-4ECD-A9C4-87661E46BE9B",
+          "locality" : "Lyons",
+          "name" : "Camden State Park",
+          "country" : "United States",
+          "administrativeArea" : "MN"
+        },
+        "horizontalAccuracy" : 10,
+        "speed" : -1
+      },
+      "altitude" : {
+        "gpsRawAltitude" : 439,
+        "gpsAltitudeFromLocation" : 444.634338,
+        "uniqueIdentifier" : "7B54E197-704F-4439-9849-CA3B64DA4C61"
+      },
+      "reportImpetus" : 4,
+      "steps" : -1,
+      "audio" : {
+        "avg" : -51.55421,
+        "uniqueIdentifier" : "9F433665-CB56-47FB-BA58-518DE031A9EB",
+        "peak" : -35.3378
+      },
+      "sectionIdentifier" : "1-2015-6-30",
+      "uniqueIdentifier" : "5E1A99D2-4939-4524-9120-8F55D5E8D3BC",
+      "connection" : 0,
+      "background" : 0,
+      "draft" : 0,
+      "weather" : {
+        "windMPH" : 8,
+        "windDirection" : "WNW",
+        "tempF" : 61,
+        "precipTodayIn" : 0,
+        "windGustKPH" : 0,
+        "feelslikeC" : 16,
+        "visibilityMi" : 5,
+        "feelslikeF" : 61,
+        "stationID" : "KMML",
+        "latitude" : 44.45053482,
+        "windGustMPH" : 0,
+        "pressureIn" : 29.94,
+        "pressureMb" : 1014,
+        "relativeHumidity" : "82%",
+        "uniqueIdentifier" : "B088010A-B397-4505-9915-07B9B04D3397",
+        "longitude" : -95.82186127,
+        "precipTodayMetric" : 0,
+        "windKPH" : 13,
+        "windDegrees" : 300,
+        "tempC" : 16,
+        "weather" : "Partly Cloudy",
+        "uv" : 0,
+        "dewpointC" : 13,
+        "visibilityKM" : 8
+      },
+      "date" : "2015-06-30T06:00:40-0500",
+      "responses" : [
+        {
+          "questionPrompt" : "How did you sleep?",
+          "answeredOptions" : [
+            "Great"
+          ],
+          "uniqueIdentifier" : "54AEA129-A3A9-459C-9AB9-946A9EA919F7"
+        }
+      ]
+    },
+    {
+      "battery" : 0.68,
+      "location" : {
+        "altitude" : 507,
+        "timestamp" : "2015-06-30T08:40:52-0500",
+        "verticalAccuracy" : 12,
+        "longitude" : -96.01854803980888,
+        "latitude" : 44.32698338296667,
+        "course" : 0,
+        "uniqueIdentifier" : "52480A6B-0CF1-4499-BC14-DFA077DD7921",
+        "placemark" : {
+          "thoroughfare" : "190th St",
+          "postalCode" : "56169",
+          "subAdministrativeArea" : "Lyon",
+          "subThoroughfare" : "1401–1411",
+          "region" : "<+44.32691689,-96.01854750> radius 141.67",
+          "uniqueIdentifier" : "FD1AD252-EAA4-4ED7-BF01-86D53C9FAF79",
+          "locality" : "Coon Creek",
+          "name" : "1401–1411 190th St",
+          "country" : "United States",
+          "administrativeArea" : "MN"
+        },
+        "horizontalAccuracy" : 5,
+        "speed" : -1
+      },
+      "altitude" : {
+        "gpsRawAltitude" : 507,
+        "gpsAltitudeFromLocation" : 496.406311,
+        "uniqueIdentifier" : "50F5DECF-6387-4198-A43E-434A717A506A"
+      },
+      "reportImpetus" : 0,
+      "steps" : -1,
+      "audio" : {
+        "avg" : -13.81873,
+        "uniqueIdentifier" : "D1BCCEB4-FE0B-4450-8C9A-F97A9F59D0D2",
+        "peak" : -4.479604
+      },
+      "photoSet" : {
+        "photos" : [
+          {
+            "brightnessValue" : 6.869493,
+            "meteringMode" : 5,
+            "focalLengthIn35mm" : 35,
+            "sceneCaptureType" : 0,
+            "exposureMode" : 0,
+            "resolutionUnit" : 2,
+            "make" : "Apple",
+            "software" : "8.3",
+            "assetUrl" : "assets-library:\/\/asset\/asset.JPG?id=197F4B83-7A70-4666-A875-6E8464172862&ext=JPG",
+            "isoSpeed" : 50,
+            "exposureTime" : 0.005154639,
+            "shutterSpeed" : 7.602053,
+            "depth" : 8,
+            "latitude" : 0,
+            "fNumber" : 2.4,
+            "sensingMode" : 2,
+            "uniqueIdentifier" : "CACA168E-63BE-4AFF-A4C1-42B743998CCF",
+            "longitude" : 0,
+            "apertureValue" : 2.526069,
+            "focalLength" : 4.28,
+            "model" : "iPhone 4S",
+            "altitude" : 0,
+            "exposureProgram" : 2,
+            "pixelWidth" : 3264,
+            "dateTime" : "2015-06-30T07:43:33-0500",
+            "flash" : 16,
+            "orientation" : 6,
+            "pixelHeight" : 2448,
+            "whiteBalance" : 0
+          },
+          {
+            "brightnessValue" : 10.08123,
+            "meteringMode" : 5,
+            "focalLengthIn35mm" : 35,
+            "sceneCaptureType" : 0,
+            "exposureMode" : 0,
+            "resolutionUnit" : 2,
+            "make" : "Apple",
+            "software" : "8.3",
+            "assetUrl" : "assets-library:\/\/asset\/asset.JPG?id=D4EDB5CF-DDF6-43CA-809B-594A46337FE9&ext=JPG",
+            "isoSpeed" : 50,
+            "exposureTime" : 0.0005608525,
+            "shutterSpeed" : 10.79971,
+            "depth" : 8,
+            "latitude" : 0,
+            "fNumber" : 2.4,
+            "sensingMode" : 2,
+            "uniqueIdentifier" : "83269DDC-B4ED-4F15-8F2E-C1847DFDC8B9",
+            "longitude" : 0,
+            "apertureValue" : 2.526069,
+            "focalLength" : 4.28,
+            "model" : "iPhone 4S",
+            "altitude" : 0,
+            "exposureProgram" : 2,
+            "pixelWidth" : 3264,
+            "dateTime" : "2015-06-30T07:43:26-0500",
+            "flash" : 16,
+            "orientation" : 6,
+            "pixelHeight" : 2448,
+            "whiteBalance" : 0
+          }
+        ],
+        "uniqueIdentifier" : "F154833E-D2DD-4A34-9C1B-FB13207612E8"
+      },
+      "sectionIdentifier" : "1-2015-6-30",
+      "uniqueIdentifier" : "FB16F92A-9322-481E-8B0E-F0C775FDAFA7",
+      "connection" : 0,
+      "background" : 0,
+      "draft" : 0,
+      "weather" : {
+        "windMPH" : 0,
+        "windDirection" : "NNE",
+        "tempF" : 64.8,
+        "precipTodayIn" : 0,
+        "windGustKPH" : 1.6,
+        "feelslikeC" : 18.2,
+        "visibilityMi" : 5,
+        "feelslikeF" : 64.8,
+        "stationID" : "KMNBALAT5",
+        "latitude" : 44.270458,
+        "windGustMPH" : 1,
+        "pressureIn" : 29.9,
+        "pressureMb" : 1012.4,
+        "relativeHumidity" : "95%",
+        "uniqueIdentifier" : "63384372-D47C-4082-9A52-B545FCF52C0F",
+        "longitude" : -95.918182,
+        "precipTodayMetric" : 0,
+        "windKPH" : 0,
+        "windDegrees" : 29,
+        "tempC" : 18.2,
+        "weather" : "Partly Cloudy",
+        "uv" : 3,
+        "dewpointC" : 17,
+        "visibilityKM" : 8
+      },
+      "date" : "2015-06-30T08:40:46-0500",
+      "responses" : [
+        {
+          "questionPrompt" : "What is the weather like?",
+          "tokens" : [
+            {
+              "text" : "Cloudy",
+              "uniqueIdentifier" : "85544233-3D5C-43DF-8E0F-25D6650B26BD"
+            }
+          ],
+          "uniqueIdentifier" : "37833D68-3864-43FF-8DED-F7DBEA7A7E0C"
+        },
+        {
+          "questionPrompt" : "Where are you?",
+          "uniqueIdentifier" : "92B150FA-8ABC-4482-AD46-51F2CD299CCC"
+        },
+        {
+          "questionPrompt" : "Are you working?",
+          "answeredOptions" : [
+            "No"
+          ],
+          "uniqueIdentifier" : "5F875A65-F62E-4A4B-91F2-A44CABD800DA"
+        },
+        {
+          "questionPrompt" : "Have you seen an animal?",
+          "tokens" : [
+            {
+              "text" : "Pelican and skunk",
+              "uniqueIdentifier" : "0CB4FCE1-BDF1-407E-8161-19FE8CD91C1C"
+            }
+          ],
+          "uniqueIdentifier" : "F20215F7-4F36-4533-9BE6-826AF06BCFD6"
+        },
+        {
+          "questionPrompt" : "What are you doing?",
+          "tokens" : [
+            {
+              "text" : "Map",
+              "uniqueIdentifier" : "1952FEFD-9654-4669-BC8D-4A80D9540BD8"
+            }
+          ],
+          "uniqueIdentifier" : "B6037298-B55B-46CE-AC32-181476E9527B"
+        },
+        {
+          "questionPrompt" : "Who are you with?",
+          "tokens" : [
+            {
+              "text" : "DAD",
+              "uniqueIdentifier" : "6EF834B9-C0DA-4BD3-94C9-B44ED828B4D5"
+            }
+          ],
+          "uniqueIdentifier" : "ED6EA188-3297-43D6-9131-46C4D82875D9"
+        }
+      ]
+    },
+    {
+      "battery" : 0.65,
+      "location" : {
+        "altitude" : 565,
+        "timestamp" : "2015-06-30T09:54:18-0500",
+        "verticalAccuracy" : 32,
+        "longitude" : -96.27567809084083,
+        "latitude" : 44.32859593540833,
+        "course" : 0,
+        "uniqueIdentifier" : "5B6303F5-B4CB-420C-BDC3-FFE09ED1B2DC",
+        "placemark" : {
+          "thoroughfare" : "County Road 13",
+          "postalCode" : "56149",
+          "subAdministrativeArea" : "Lincoln",
+          "region" : "<+44.32846419,-96.27567640> radius 141.67",
+          "uniqueIdentifier" : "61C34447-1FEC-4163-93FB-C3607406AF1B",
+          "locality" : "Diamond Lake",
+          "name" : "County Road 13",
+          "country" : "United States",
+          "administrativeArea" : "MN"
+        },
+        "horizontalAccuracy" : 10,
+        "speed" : -1
+      },
+      "altitude" : {
+        "gpsRawAltitude" : 565,
+        "gpsAltitudeFromLocation" : 545.218628,
+        "uniqueIdentifier" : "71F79AEB-E320-41F5-9133-C17A3BDA9A8F"
+      },
+      "reportImpetus" : 0,
+      "steps" : -1,
+      "audio" : {
+        "avg" : -27.45395,
+        "uniqueIdentifier" : "B3ECCC92-62F2-40A1-9E16-14B2AE3CC518",
+        "peak" : -16.46309
+      },
+      "sectionIdentifier" : "1-2015-6-30",
+      "uniqueIdentifier" : "1564EF3A-F374-4505-9303-44240F3DE155",
+      "connection" : 0,
+      "background" : 0,
+      "draft" : 0,
+      "weather" : {
+        "windMPH" : 6.1,
+        "windDirection" : "NE",
+        "tempF" : 65,
+        "windGustKPH" : 13,
+        "feelslikeC" : 18.3,
+        "feelslikeF" : 65,
+        "windGustMPH" : 8.1,
+        "latitude" : 44.385712,
+        "stationID" : "KMNIVANH2",
+        "pressureIn" : 29.91,
+        "pressureMb" : 1012.8,
+        "relativeHumidity" : "92%",
+        "uniqueIdentifier" : "6D68EB9E-60F0-4234-B6A0-0041D4812787",
+        "longitude" : -96.240234,
+        "windKPH" : 9.800000000000001,
+        "windDegrees" : 52,
+        "tempC" : 18.3,
+        "weather" : "Partly Cloudy",
+        "uv" : 0,
+        "dewpointC" : 17
+      },
+      "date" : "2015-06-30T09:54:11-0500",
+      "responses" : [
+        {
+          "questionPrompt" : "Have you seen an animal?",
+          "tokens" : [
+            {
+              "text" : "Cattle",
+              "uniqueIdentifier" : "CD477558-000E-4072-9136-982BCFBAE8B4"
+            }
+          ],
+          "uniqueIdentifier" : "11441F92-DDCE-41E0-A0D3-5B76EC643FAB"
+        },
+        {
+          "questionPrompt" : "Where are you?",
+          "locationResponse" : {
+            "uniqueIdentifier" : "6FD9FED8-DACD-48D4-8DBF-481EE3D51CA8",
+            "text" : "Honey Hole",
+            "location" : {
+              "altitude" : 0,
+              "timestamp" : "2015-06-30T09:54:18-0500",
+              "verticalAccuracy" : -1,
+              "longitude" : -96.28195953369141,
+              "latitude" : 44.3304328918457,
+              "course" : 0,
+              "uniqueIdentifier" : "758D23B2-B4BD-43FF-98A3-0E9D88350610",
+              "horizontalAccuracy" : 0,
+              "speed" : -1
+            },
+            "foursquareVenueId" : "51904279498ec87474f325b0"
+          },
+          "uniqueIdentifier" : "78FD3F1F-6412-4E81-AC9A-7E80A75227E6"
+        },
+        {
+          "questionPrompt" : "Are you working?",
+          "answeredOptions" : [
+            "No"
+          ],
+          "uniqueIdentifier" : "5F875A65-F62E-4A4B-91F2-A44CABD800DA"
+        },
+        {
+          "questionPrompt" : "What are you doing?",
+          "tokens" : [
+            {
+              "text" : "Map",
+              "uniqueIdentifier" : "1952FEFD-9654-4669-BC8D-4A80D9540BD8"
+            }
+          ],
+          "uniqueIdentifier" : "B6037298-B55B-46CE-AC32-181476E9527B"
+        },
+        {
+          "questionPrompt" : "What is the weather like?",
+          "tokens" : [
+            {
+              "text" : "Cloudy",
+              "uniqueIdentifier" : "85544233-3D5C-43DF-8E0F-25D6650B26BD"
+            }
+          ],
+          "uniqueIdentifier" : "37833D68-3864-43FF-8DED-F7DBEA7A7E0C"
+        },
+        {
+          "questionPrompt" : "Who are you with?",
+          "tokens" : [
+            {
+              "text" : "DAD",
+              "uniqueIdentifier" : "6EF834B9-C0DA-4BD3-94C9-B44ED828B4D5"
+            }
+          ],
+          "uniqueIdentifier" : "ED6EA188-3297-43D6-9131-46C4D82875D9"
+        }
+      ]
+    },
+    {
+      "battery" : 0.63,
+      "location" : {
+        "altitude" : 581,
+        "timestamp" : "2015-06-30T10:39:53-0500",
+        "verticalAccuracy" : 24,
+        "longitude" : -96.42720211306253,
+        "latitude" : 44.31315009951993,
+        "course" : 0,
+        "uniqueIdentifier" : "C9EDAFF5-993D-4044-9005-32BEE565D667",
+        "placemark" : {
+          "thoroughfare" : "County Road 137",
+          "postalCode" : "56149",
+          "subAdministrativeArea" : "Lincoln",
+          "region" : "<+44.31313539,-96.42720240> radius 141.67",
+          "uniqueIdentifier" : "BD950E38-B3A5-4FC9-8ACD-C15521F7FF8F",
+          "locality" : "Drammen",
+          "name" : "County Road 137",
+          "country" : "United States",
+          "administrativeArea" : "MN"
+        },
+        "horizontalAccuracy" : 30,
+        "speed" : -1
+      },
+      "altitude" : {
+        "gpsRawAltitude" : 581,
+        "gpsAltitudeFromLocation" : 589.898682,
+        "uniqueIdentifier" : "F1EEB906-15CF-4396-B712-FA6049167965"
+      },
+      "reportImpetus" : 0,
+      "steps" : -1,
+      "audio" : {
+        "avg" : -51.1151,
+        "uniqueIdentifier" : "BEB2E308-DD77-4D9B-B259-E36A43F59ACF",
+        "peak" : -35.60691
+      },
+      "photoSet" : {
+        "photos" : [
+          {
+            "brightnessValue" : 10.89932,
+            "meteringMode" : 5,
+            "focalLengthIn35mm" : 35,
+            "sceneCaptureType" : 0,
+            "exposureMode" : 0,
+            "resolutionUnit" : 2,
+            "make" : "Apple",
+            "software" : "8.3",
+            "assetUrl" : "assets-library:\/\/asset\/asset.JPG?id=8DA496BC-5AD8-441A-92F1-4FA67919BA73&ext=JPG",
+            "isoSpeed" : 50,
+            "exposureTime" : 0.0003260515,
+            "shutterSpeed" : 11.58284,
+            "depth" : 8,
+            "latitude" : 0,
+            "fNumber" : 2.4,
+            "sensingMode" : 2,
+            "uniqueIdentifier" : "4F2197C0-38AF-47A0-88BA-73FEB16CF2A1",
+            "longitude" : 0,
+            "apertureValue" : 2.526069,
+            "focalLength" : 4.28,
+            "model" : "iPhone 4S",
+            "altitude" : 0,
+            "exposureProgram" : 2,
+            "pixelWidth" : 3264,
+            "dateTime" : "2015-06-30T10:39:17-0500",
+            "flash" : 16,
+            "orientation" : 3,
+            "pixelHeight" : 2448,
+            "whiteBalance" : 0
+          },
+          {
+            "brightnessValue" : 10.49548,
+            "meteringMode" : 5,
+            "focalLengthIn35mm" : 35,
+            "sceneCaptureType" : 0,
+            "exposureMode" : 0,
+            "resolutionUnit" : 2,
+            "make" : "Apple",
+            "software" : "8.3",
+            "assetUrl" : "assets-library:\/\/asset\/asset.JPG?id=455AFEC9-08D9-4521-BA28-1B27C10C1161&ext=JPG",
+            "isoSpeed" : 50,
+            "exposureTime" : 0.0005070994,
+            "shutterSpeed" : 10.94573,
+            "depth" : 8,
+            "latitude" : 0,
+            "fNumber" : 2.4,
+            "sensingMode" : 2,
+            "uniqueIdentifier" : "95FFB779-E4C4-4BF2-929D-DEA45426D7FC",
+            "longitude" : 0,
+            "apertureValue" : 2.526069,
+            "focalLength" : 4.28,
+            "model" : "iPhone 4S",
+            "altitude" : 0,
+            "exposureProgram" : 2,
+            "pixelWidth" : 3264,
+            "dateTime" : "2015-06-30T10:39:32-0500",
+            "flash" : 16,
+            "orientation" : 3,
+            "pixelHeight" : 2448,
+            "whiteBalance" : 0
+          }
+        ],
+        "uniqueIdentifier" : "526AC037-7101-4ACE-9606-4D71CBC9BD40"
+      },
+      "sectionIdentifier" : "1-2015-6-30",
+      "uniqueIdentifier" : "FB00B5B5-4808-4679-9339-FD6CD2AEEF49",
+      "connection" : 0,
+      "background" : 0,
+      "draft" : 0,
+      "weather" : {
+        "windMPH" : 0,
+        "windDirection" : "SSE",
+        "tempF" : 65.90000000000001,
+        "precipTodayIn" : 0,
+        "windGustKPH" : 6.4,
+        "feelslikeC" : 18.8,
+        "visibilityMi" : 10,
+        "feelslikeF" : 65.90000000000001,
+        "stationID" : "KMNTYLER2",
+        "latitude" : 44.276798,
+        "windGustMPH" : 4,
+        "pressureIn" : 29.95,
+        "pressureMb" : 1014,
+        "relativeHumidity" : "88%",
+        "uniqueIdentifier" : "5685E8D7-3BC4-4CCE-B13D-7DB3A2EE2266",
+        "longitude" : -96.12979900000001,
+        "precipTodayMetric" : 0,
+        "windKPH" : 0,
+        "windDegrees" : 148,
+        "tempC" : 18.8,
+        "weather" : "Partly Cloudy",
+        "uv" : 7,
+        "dewpointC" : 17,
+        "visibilityKM" : 16.1
+      },
+      "date" : "2015-06-30T10:39:47-0500",
+      "responses" : [
+        {
+          "questionPrompt" : "Have you seen an animal?",
+          "tokens" : [
+            {
+              "text" : "Cow",
+              "uniqueIdentifier" : "412874ED-B5B1-4613-8313-B267C0CCF387"
+            }
+          ],
+          "uniqueIdentifier" : "AAF0D2B5-B78E-4A27-97AA-D97D3F213E67"
+        },
+        {
+          "questionPrompt" : "Where are you?",
+          "uniqueIdentifier" : "92B150FA-8ABC-4482-AD46-51F2CD299CCC"
+        },
+        {
+          "questionPrompt" : "What is the weather like?",
+          "tokens" : [
+            {
+              "text" : "Cloudy",
+              "uniqueIdentifier" : "85544233-3D5C-43DF-8E0F-25D6650B26BD"
+            }
+          ],
+          "uniqueIdentifier" : "37833D68-3864-43FF-8DED-F7DBEA7A7E0C"
+        },
+        {
+          "questionPrompt" : "What are you doing?",
+          "tokens" : [
+            {
+              "text" : "Map",
+              "uniqueIdentifier" : "1952FEFD-9654-4669-BC8D-4A80D9540BD8"
+            }
+          ],
+          "uniqueIdentifier" : "B6037298-B55B-46CE-AC32-181476E9527B"
+        },
+        {
+          "questionPrompt" : "Are you working?",
+          "answeredOptions" : [
+            "No"
+          ],
+          "uniqueIdentifier" : "5F875A65-F62E-4A4B-91F2-A44CABD800DA"
+        },
+        {
+          "questionPrompt" : "Who are you with?",
+          "tokens" : [
+            {
+              "text" : "DAD",
+              "uniqueIdentifier" : "6EF834B9-C0DA-4BD3-94C9-B44ED828B4D5"
+            }
+          ],
+          "uniqueIdentifier" : "ED6EA188-3297-43D6-9131-46C4D82875D9"
+        }
+      ]
+    },
+    {
+      "battery" : 0.23,
+      "location" : {
+        "altitude" : 506.6264038085938,
+        "timestamp" : "2015-06-30T15:52:42-0500",
+        "verticalAccuracy" : 10,
+        "longitude" : -96.78791439896405,
+        "latitude" : 44.31672778245744,
+        "course" : 0,
+        "uniqueIdentifier" : "56865654-365C-44F1-8072-41D36B9C1307",
+        "placemark" : {
+          "thoroughfare" : "Medary Ave",
+          "postalCode" : "57006",
+          "subAdministrativeArea" : "Brookings",
+          "subThoroughfare" : "900–912",
+          "region" : "<+44.31674459,-96.78836380> radius 141.67",
+          "uniqueIdentifier" : "FC8A64D8-79AF-44C4-978A-56928411F661",
+          "locality" : "Brookings",
+          "name" : "South Dakota State University",
+          "country" : "United States",
+          "administrativeArea" : "SD"
+        },
+        "horizontalAccuracy" : 65,
+        "speed" : -1
+      },
+      "altitude" : {
+        "gpsRawAltitude" : 506.6264038085938,
+        "gpsAltitudeFromLocation" : 503.319031,
+        "uniqueIdentifier" : "15539B50-6A62-48A7-8C6A-74BE601354A3"
+      },
+      "reportImpetus" : 0,
+      "steps" : -1,
+      "audio" : {
+        "avg" : -56.00953,
+        "uniqueIdentifier" : "0273D742-860B-4DA7-A73E-F0ED5149FEE7",
+        "peak" : -34.59779
+      },
+      "photoSet" : {
+        "photos" : [
+          {
+            "brightnessValue" : 10.95274,
+            "meteringMode" : 5,
+            "focalLengthIn35mm" : 35,
+            "sceneCaptureType" : 0,
+            "exposureMode" : 0,
+            "resolutionUnit" : 2,
+            "assetUrl" : "assets-library:\/\/asset\/asset.JPG?id=7C6507EB-ACE2-486C-94EB-414707953D98&ext=JPG",
+            "isoSpeed" : 250,
+            "exposureTime" : 6.200012e-05,
+            "shutterSpeed" : 13.97737,
+            "depth" : 8,
+            "latitude" : 0,
+            "fNumber" : 2.4,
+            "sensingMode" : 2,
+            "uniqueIdentifier" : "DD2D6429-45FB-4AE9-9858-9DDA77716E1A",
+            "longitude" : 0,
+            "apertureValue" : 2.526069,
+            "focalLength" : 1.85,
+            "altitude" : 0,
+            "exposureProgram" : 2,
+            "pixelWidth" : 640,
+            "dateTime" : "2015-06-30T11:35:58-0500",
+            "flash" : 32,
+            "orientation" : 6,
+            "pixelHeight" : 480,
+            "whiteBalance" : 0
+          },
+          {
+            "brightnessValue" : 0,
+            "meteringMode" : 0,
+            "focalLengthIn35mm" : 0,
+            "sceneCaptureType" : 0,
+            "exposureMode" : 0,
+            "resolutionUnit" : 0,
+            "assetUrl" : "assets-library:\/\/asset\/asset.PNG?id=718CA3ED-7BE8-4324-9CF3-7E5C127F5883&ext=PNG",
+            "isoSpeed" : 0,
+            "exposureTime" : 0,
+            "shutterSpeed" : 0,
+            "depth" : 8,
+            "latitude" : 0,
+            "fNumber" : 0,
+            "sensingMode" : 0,
+            "uniqueIdentifier" : "0C0CE419-354A-48D8-85E2-63EC66B55D1D",
+            "longitude" : 0,
+            "apertureValue" : 0,
+            "focalLength" : 0,
+            "altitude" : 0,
+            "exposureProgram" : 0,
+            "pixelWidth" : 640,
+            "dateTime" : "2015-06-30T15:39:44-0500",
+            "flash" : 0,
+            "pixelHeight" : 960,
+            "whiteBalance" : 0
+          },
+          {
+            "brightnessValue" : 0.8156749,
+            "meteringMode" : 5,
+            "focalLengthIn35mm" : 35,
+            "sceneCaptureType" : 0,
+            "exposureMode" : 0,
+            "resolutionUnit" : 2,
+            "assetUrl" : "assets-library:\/\/asset\/asset.JPG?id=821B19F0-004A-4B1B-B1D8-BA6D97CAB08C&ext=JPG",
+            "isoSpeed" : 320,
+            "exposureTime" : 0.05,
+            "shutterSpeed" : 4.321929,
+            "depth" : 8,
+            "latitude" : 0,
+            "fNumber" : 2.4,
+            "sensingMode" : 2,
+            "uniqueIdentifier" : "AAD97961-E3AC-4D91-AE7E-41D39043F122",
+            "longitude" : 0,
+            "apertureValue" : 2.526069,
+            "focalLength" : 4.28,
+            "altitude" : 0,
+            "exposureProgram" : 2,
+            "pixelWidth" : 3264,
+            "dateTime" : "2015-06-30T13:06:58-0500",
+            "flash" : 24,
+            "orientation" : 6,
+            "pixelHeight" : 2448,
+            "whiteBalance" : 0
+          }
+        ],
+        "uniqueIdentifier" : "652EAF7A-0C83-4738-819E-018716342F35"
+      },
+      "sectionIdentifier" : "1-2015-6-30",
+      "uniqueIdentifier" : "16749431-200E-4DF8-8AB7-F7CC826A7C91",
+      "connection" : 0,
+      "background" : 0,
+      "draft" : 0,
+      "weather" : {
+        "windMPH" : 1.1,
+        "windDirection" : "North",
+        "tempF" : 75.40000000000001,
+        "windGustKPH" : 3.2,
+        "feelslikeC" : 24.1,
+        "visibilityMi" : 10,
+        "feelslikeF" : 75.40000000000001,
+        "windGustMPH" : 2,
+        "latitude" : 44.29306,
+        "stationID" : "KSDBROOK4",
+        "pressureIn" : 29.93,
+        "pressureMb" : 1013,
+        "relativeHumidity" : "71%",
+        "uniqueIdentifier" : "68862EC9-4397-413B-8F4B-34D3595496FA",
+        "longitude" : -96.784325,
+        "windKPH" : 1.8,
+        "windDegrees" : 1,
+        "tempC" : 24.1,
+        "weather" : "Partly Cloudy",
+        "uv" : 0.7,
+        "dewpointC" : 19,
+        "visibilityKM" : 16.1
+      },
+      "date" : "2015-06-30T15:52:39-0500",
+      "responses" : [
+        {
+          "questionPrompt" : "What are you doing?",
+          "tokens" : [
+            {
+              "text" : "Museum",
+              "uniqueIdentifier" : "24B0A875-2AC4-4AD4-8F16-ABB608AC5B7A"
+            }
+          ],
+          "uniqueIdentifier" : "296D3C75-C71C-4C40-9042-40B66991824B"
+        },
+        {
+          "questionPrompt" : "Who are you with?",
+          "tokens" : [
+            {
+              "text" : "DAD",
+              "uniqueIdentifier" : "6EF834B9-C0DA-4BD3-94C9-B44ED828B4D5"
+            }
+          ],
+          "uniqueIdentifier" : "ED6EA188-3297-43D6-9131-46C4D82875D9"
+        },
+        {
+          "questionPrompt" : "Are you working?",
+          "answeredOptions" : [
+            "No"
+          ],
+          "uniqueIdentifier" : "5F875A65-F62E-4A4B-91F2-A44CABD800DA"
+        },
+        {
+          "questionPrompt" : "What is the weather like?",
+          "tokens" : [
+            {
+              "text" : "Cloudy",
+              "uniqueIdentifier" : "85544233-3D5C-43DF-8E0F-25D6650B26BD"
+            }
+          ],
+          "uniqueIdentifier" : "37833D68-3864-43FF-8DED-F7DBEA7A7E0C"
+        },
+        {
+          "questionPrompt" : "Where are you?",
+          "locationResponse" : {
+            "uniqueIdentifier" : "90F87000-B8E8-4E93-AE53-39CBB30EEB38",
+            "text" : "South Dakota Art Museum",
+            "location" : {
+              "altitude" : 0,
+              "timestamp" : "2015-06-30T15:52:56-0500",
+              "verticalAccuracy" : -1,
+              "longitude" : -96.78800652332363,
+              "latitude" : 44.31664608173599,
+              "course" : 0,
+              "uniqueIdentifier" : "1FB2FC03-7E84-415B-8BF6-E6607AC62769",
+              "horizontalAccuracy" : 0,
+              "speed" : -1
+            },
+            "foursquareVenueId" : "4d5c227f524fa35d3b454635"
+          },
+          "uniqueIdentifier" : "0B5FB2D2-A945-4CFA-AB00-1CE6DB00DA12"
+        },
+        {
+          "questionPrompt" : "Have you seen an animal?",
+          "tokens" : [
+            {
+              "text" : "Birds",
+              "uniqueIdentifier" : "446EC8C1-BA05-4D04-818E-E188ED6711BA"
+            }
+          ],
+          "uniqueIdentifier" : "48886F77-655E-4185-87F5-F47AD117DD58"
+        }
+      ]
+    }
+  ],
+  "questions" : [
+    {
+      "prompt" : "How did you sleep?",
+      "questionType" : 1,
+      "uniqueIdentifier" : "default-question-1"
+    },
+    {
+      "prompt" : "Are you working?",
+      "questionType" : 2,
+      "uniqueIdentifier" : "default-question-2"
+    },
+    {
+      "prompt" : "How many coffees did you have today?",
+      "questionType" : 5,
+      "uniqueIdentifier" : "default-question-6"
+    },
+    {
+      "prompt" : "What are you doing?",
+      "questionType" : 0,
+      "uniqueIdentifier" : "default-question-3"
+    },
+    {
+      "prompt" : "Who are you with?",
+      "questionType" : 4,
+      "uniqueIdentifier" : "default-question-5",
+      "placeholderString" : "No one"
+    },
+    {
+      "prompt" : "Where are you?",
+      "questionType" : 3,
+      "uniqueIdentifier" : "default-question-4"
+    },
+    {
+      "prompt" : "What did you learn today?",
+      "questionType" : 6,
+      "uniqueIdentifier" : "default-question-7"
+    },
+    {
+      "prompt" : "What is the weather like?",
+      "questionType" : 0,
+      "uniqueIdentifier" : "C6D94168-5AB1-4EFC-9247-DEDD4126FF80"
+    },
+    {
+      "prompt" : "Have you seen an animal?",
+      "questionType" : 0,
+      "uniqueIdentifier" : "8A43B95E-2E90-45B9-8EA8-3B9539F90B00"
+    }
+  ]
+}

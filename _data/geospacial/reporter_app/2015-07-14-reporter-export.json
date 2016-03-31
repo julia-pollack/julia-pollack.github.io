@@ -1,0 +1,471 @@
+{
+  "snapshots" : [
+    {
+      "battery" : 0.97,
+      "location" : {
+        "altitude" : 643,
+        "timestamp" : "2015-07-14T07:12:16-0600",
+        "verticalAccuracy" : 32,
+        "longitude" : -104.6932581626854,
+        "latitude" : 47.12551494133391,
+        "course" : 0,
+        "uniqueIdentifier" : "3E80DE40-ACCC-406A-B5C6-6699BF558C92",
+        "placemark" : {
+          "thoroughfare" : "N Merrill Ave",
+          "postalCode" : "59330",
+          "subAdministrativeArea" : "Dawson",
+          "region" : "<+47.12550339,-104.69323260> radius 141.65",
+          "uniqueIdentifier" : "A6CABCCD-E18F-41F2-8B88-86BA0CE7A0B1",
+          "locality" : "Glendive",
+          "name" : "N Merrill Ave",
+          "country" : "United States",
+          "administrativeArea" : "MT"
+        },
+        "horizontalAccuracy" : 30,
+        "speed" : -1
+      },
+      "altitude" : {
+        "gpsRawAltitude" : 643,
+        "gpsAltitudeFromLocation" : 646.404358,
+        "uniqueIdentifier" : "5A1A9032-87F4-420F-A070-5DEEEAD3DFB3"
+      },
+      "reportImpetus" : 0,
+      "steps" : -1,
+      "audio" : {
+        "avg" : -35.52006,
+        "uniqueIdentifier" : "84148D19-F874-4115-B45E-24ABABCF8A93",
+        "peak" : -29.79738
+      },
+      "photoSet" : {
+        "photos" : [
+          {
+            "brightnessValue" : 9.487055,
+            "meteringMode" : 5,
+            "focalLengthIn35mm" : 35,
+            "sceneCaptureType" : 0,
+            "exposureMode" : 0,
+            "resolutionUnit" : 2,
+            "make" : "Apple",
+            "software" : "8.4",
+            "assetUrl" : "assets-library:\/\/asset\/asset.JPG?id=8C0C5C66-BDC3-4BD9-ACEF-9A6620EB10D4&ext=JPG",
+            "isoSpeed" : 50,
+            "exposureTime" : 0.0008510638,
+            "shutterSpeed" : 10.19855,
+            "depth" : 8,
+            "latitude" : 0,
+            "fNumber" : 2.4,
+            "sensingMode" : 2,
+            "uniqueIdentifier" : "6641C63C-7158-4CF1-A700-3BA82CCDD2D1",
+            "longitude" : 0,
+            "apertureValue" : 2.526069,
+            "focalLength" : 4.28,
+            "model" : "iPhone 4S",
+            "altitude" : 0,
+            "exposureProgram" : 2,
+            "pixelWidth" : 3264,
+            "dateTime" : "2015-07-14T07:11:53-0600",
+            "flash" : 16,
+            "orientation" : 6,
+            "pixelHeight" : 2448,
+            "whiteBalance" : 0
+          },
+          {
+            "brightnessValue" : 6.394039,
+            "meteringMode" : 5,
+            "focalLengthIn35mm" : 35,
+            "sceneCaptureType" : 0,
+            "exposureMode" : 0,
+            "resolutionUnit" : 2,
+            "make" : "Apple",
+            "software" : "8.4",
+            "assetUrl" : "assets-library:\/\/asset\/asset.JPG?id=01A9FADF-B563-400B-AB94-5616B093B29E&ext=JPG",
+            "isoSpeed" : 50,
+            "exposureTime" : 0.007092198,
+            "shutterSpeed" : 7.140813,
+            "depth" : 8,
+            "latitude" : 0,
+            "fNumber" : 2.4,
+            "sensingMode" : 2,
+            "uniqueIdentifier" : "9EABB2CC-0EA0-48DE-A66E-C0B8897ECCAF",
+            "longitude" : 0,
+            "apertureValue" : 2.526069,
+            "focalLength" : 4.28,
+            "model" : "iPhone 4S",
+            "altitude" : 0,
+            "exposureProgram" : 2,
+            "pixelWidth" : 3264,
+            "dateTime" : "2015-07-14T07:11:56-0600",
+            "flash" : 16,
+            "orientation" : 1,
+            "pixelHeight" : 2448,
+            "whiteBalance" : 0
+          }
+        ],
+        "uniqueIdentifier" : "2B379252-0139-44AB-958A-57D947650460"
+      },
+      "sectionIdentifier" : "1-2015-7-14",
+      "uniqueIdentifier" : "262E04F1-B36D-4369-B153-E06E219067C9",
+      "connection" : 0,
+      "background" : 0,
+      "draft" : 0,
+      "weather" : {
+        "windMPH" : 14,
+        "windDirection" : "NW",
+        "tempF" : 70,
+        "precipTodayIn" : 0,
+        "windGustKPH" : 0,
+        "feelslikeC" : 21,
+        "visibilityMi" : 10,
+        "feelslikeF" : 70,
+        "stationID" : "KGDV",
+        "latitude" : 47.13871765,
+        "windGustMPH" : 0,
+        "pressureIn" : 29.9,
+        "pressureMb" : 1012,
+        "relativeHumidity" : "56%",
+        "uniqueIdentifier" : "1E6FE68F-90CA-43AF-899F-D099BAA2FECD",
+        "longitude" : -104.80719757,
+        "precipTodayMetric" : 0,
+        "windKPH" : 22,
+        "windDegrees" : 320,
+        "tempC" : 21,
+        "weather" : "Partly Cloudy",
+        "uv" : 1,
+        "dewpointC" : 12,
+        "visibilityKM" : 16.1
+      },
+      "date" : "2015-07-14T07:12:11-0600",
+      "responses" : [
+        {
+          "questionPrompt" : "What is the weather like?",
+          "tokens" : [
+            {
+              "text" : "Cloudy",
+              "uniqueIdentifier" : "85544233-3D5C-43DF-8E0F-25D6650B26BD"
+            }
+          ],
+          "uniqueIdentifier" : "37833D68-3864-43FF-8DED-F7DBEA7A7E0C"
+        },
+        {
+          "questionPrompt" : "Have you seen an animal?",
+          "tokens" : [
+            {
+              "text" : "Nope",
+              "uniqueIdentifier" : "4FEAA7D3-34E7-41E5-B9A8-E12D584B8FED"
+            }
+          ],
+          "uniqueIdentifier" : "852E2636-173A-46D4-8415-2328E3B16320"
+        },
+        {
+          "questionPrompt" : "Where are you?",
+          "locationResponse" : {
+            "uniqueIdentifier" : "24D2CC7C-645A-4248-BA1B-4601A1A65C61",
+            "text" : "Cenex Gas Station",
+            "location" : {
+              "altitude" : 0,
+              "timestamp" : "2015-07-12T11:27:48-0600",
+              "verticalAccuracy" : -1,
+              "longitude" : -104.6938190650244,
+              "latitude" : 47.12538782981951,
+              "course" : 0,
+              "uniqueIdentifier" : "1B3F4796-0A84-4CFA-9878-390612450DE8",
+              "horizontalAccuracy" : 0,
+              "speed" : -1
+            },
+            "foursquareVenueId" : "4e2a254262e144b5d39e9cf8"
+          },
+          "uniqueIdentifier" : "01503083-8DB7-445A-8A0A-442DAD427757"
+        },
+        {
+          "questionPrompt" : "Are you working?",
+          "answeredOptions" : [
+            "No"
+          ],
+          "uniqueIdentifier" : "5F875A65-F62E-4A4B-91F2-A44CABD800DA"
+        },
+        {
+          "questionPrompt" : "Who are you with?",
+          "tokens" : [
+            {
+              "text" : "DAD",
+              "uniqueIdentifier" : "6EF834B9-C0DA-4BD3-94C9-B44ED828B4D5"
+            },
+            {
+              "text" : "Pat Mark",
+              "uniqueIdentifier" : "ACF93D99-9AB6-410E-BDD5-8C148193E8C0"
+            }
+          ],
+          "uniqueIdentifier" : "895E3980-4E03-4185-9DB1-238262C124D4"
+        },
+        {
+          "questionPrompt" : "What are you doing?",
+          "tokens" : [
+            {
+              "text" : "Drink stop",
+              "uniqueIdentifier" : "37C83FE8-1978-410F-AF2B-CA5A0D865DF0"
+            }
+          ],
+          "uniqueIdentifier" : "338D24D2-840E-4E0C-AA0D-9913AE565551"
+        }
+      ]
+    },
+    {
+      "battery" : 0.79,
+      "location" : {
+        "altitude" : 679,
+        "timestamp" : "2015-07-14T09:57:24-0600",
+        "verticalAccuracy" : 4,
+        "longitude" : -105.0195216481621,
+        "latitude" : 46.89869184051351,
+        "course" : 0,
+        "uniqueIdentifier" : "62D94E57-7447-46A8-981A-7218C567CE70",
+        "placemark" : {
+          "thoroughfare" : "Road 235",
+          "postalCode" : "59330",
+          "subAdministrativeArea" : "Dawson",
+          "subThoroughfare" : "75–93",
+          "region" : "<+46.89946249,-105.01868290> radius 141.65",
+          "uniqueIdentifier" : "6FE7EC73-CC02-40E9-B8BE-FABBD0109970",
+          "locality" : "Glendive",
+          "name" : "75–93 Road 235",
+          "country" : "United States",
+          "administrativeArea" : "MT"
+        },
+        "horizontalAccuracy" : 5,
+        "speed" : 0
+      },
+      "altitude" : {
+        "gpsRawAltitude" : 679,
+        "gpsAltitudeFromLocation" : 680.88446,
+        "uniqueIdentifier" : "C5F80FE5-2B61-4B95-A236-EAEBEB3A92BD"
+      },
+      "reportImpetus" : 0,
+      "steps" : -1,
+      "audio" : {
+        "avg" : -50.06737,
+        "uniqueIdentifier" : "9AA169A6-9A58-4EB4-8022-D8D9AFBF77FA",
+        "peak" : -33.1306
+      },
+      "photoSet" : {
+        "photos" : [
+          {
+            "brightnessValue" : 10.01928,
+            "meteringMode" : 5,
+            "focalLengthIn35mm" : 35,
+            "sceneCaptureType" : 0,
+            "exposureMode" : 0,
+            "resolutionUnit" : 2,
+            "make" : "Apple",
+            "software" : "8.4",
+            "assetUrl" : "assets-library:\/\/asset\/asset.JPG?id=886ED156-FF6C-4F5A-A0FE-6813012F87C0&ext=JPG",
+            "isoSpeed" : 50,
+            "exposureTime" : 0.0003079766,
+            "shutterSpeed" : 11.66478,
+            "depth" : 8,
+            "latitude" : 0,
+            "fNumber" : 2.4,
+            "sensingMode" : 2,
+            "uniqueIdentifier" : "F4B606EB-25D2-4C0E-93D2-1F54CE0590A0",
+            "longitude" : 0,
+            "apertureValue" : 2.526069,
+            "focalLength" : 4.28,
+            "model" : "iPhone 4S",
+            "altitude" : 0,
+            "exposureProgram" : 2,
+            "pixelWidth" : 3264,
+            "dateTime" : "2015-07-14T07:29:30-0600",
+            "flash" : 16,
+            "orientation" : 3,
+            "pixelHeight" : 2448,
+            "whiteBalance" : 0
+          },
+          {
+            "brightnessValue" : 9.64734,
+            "meteringMode" : 5,
+            "focalLengthIn35mm" : 35,
+            "sceneCaptureType" : 0,
+            "exposureMode" : 0,
+            "resolutionUnit" : 2,
+            "make" : "Apple",
+            "software" : "8.4",
+            "assetUrl" : "assets-library:\/\/asset\/asset.JPG?id=DEFCD819-C8B5-47F8-BD8A-509484670F32&ext=JPG",
+            "isoSpeed" : 50,
+            "exposureTime" : 0.0004889976,
+            "shutterSpeed" : 10.99788,
+            "depth" : 8,
+            "latitude" : 0,
+            "fNumber" : 2.4,
+            "sensingMode" : 2,
+            "uniqueIdentifier" : "5E34DC3B-3B74-44C0-AB0B-DDF2921B9527",
+            "longitude" : 0,
+            "apertureValue" : 2.526069,
+            "focalLength" : 4.28,
+            "model" : "iPhone 4S",
+            "altitude" : 0,
+            "exposureProgram" : 2,
+            "pixelWidth" : 3264,
+            "dateTime" : "2015-07-14T07:29:25-0600",
+            "flash" : 16,
+            "orientation" : 6,
+            "pixelHeight" : 2448,
+            "whiteBalance" : 0
+          }
+        ],
+        "uniqueIdentifier" : "920ACA31-886B-4FC2-B561-5646AFF00A91"
+      },
+      "sectionIdentifier" : "1-2015-7-14",
+      "uniqueIdentifier" : "FF6089DB-9AC3-44B7-8A57-A37118E63B0C",
+      "connection" : 0,
+      "background" : 0,
+      "draft" : 0,
+      "weather" : {
+        "windMPH" : 18,
+        "windDirection" : "NNW",
+        "tempF" : 73,
+        "precipTodayIn" : 0,
+        "windGustKPH" : 0,
+        "feelslikeC" : 23,
+        "visibilityMi" : 10,
+        "feelslikeF" : 73,
+        "stationID" : "KGDV",
+        "latitude" : 47.13871765,
+        "windGustMPH" : 0,
+        "pressureIn" : 29.95,
+        "pressureMb" : 1014,
+        "relativeHumidity" : "53%",
+        "uniqueIdentifier" : "95D1D27C-4851-4FB1-9293-BDA23374B657",
+        "longitude" : -104.80719757,
+        "precipTodayMetric" : 0,
+        "windKPH" : 30,
+        "windDegrees" : 330,
+        "tempC" : 23,
+        "weather" : "Overcast",
+        "uv" : 5,
+        "dewpointC" : 13,
+        "visibilityKM" : 16.1
+      },
+      "date" : "2015-07-14T09:57:07-0600",
+      "responses" : [
+        {
+          "questionPrompt" : "Where are you?",
+          "locationResponse" : {
+            "uniqueIdentifier" : "9B2773CC-5B8A-4533-80CF-D39BEF673E91",
+            "text" : "Montana Weigh Station\/Rest Area",
+            "location" : {
+              "altitude" : 0,
+              "timestamp" : "2015-07-14T09:57:30-0600",
+              "verticalAccuracy" : -1,
+              "longitude" : -105.019031035128,
+              "latitude" : 46.89870276464285,
+              "course" : 0,
+              "uniqueIdentifier" : "9C3261F1-9F2B-4391-9322-02FF4D155D1F",
+              "horizontalAccuracy" : 0,
+              "speed" : -1
+            },
+            "foursquareVenueId" : "5018a71de4b0450cfce01887"
+          },
+          "uniqueIdentifier" : "1E7144E4-A607-40E6-881A-36ACD8D36EDE"
+        },
+        {
+          "questionPrompt" : "What are you doing?",
+          "tokens" : [
+            {
+              "text" : "Drink stop",
+              "uniqueIdentifier" : "37C83FE8-1978-410F-AF2B-CA5A0D865DF0"
+            }
+          ],
+          "uniqueIdentifier" : "338D24D2-840E-4E0C-AA0D-9913AE565551"
+        },
+        {
+          "questionPrompt" : "Are you working?",
+          "answeredOptions" : [
+            "No"
+          ],
+          "uniqueIdentifier" : "5F875A65-F62E-4A4B-91F2-A44CABD800DA"
+        },
+        {
+          "questionPrompt" : "What is the weather like?",
+          "tokens" : [
+            {
+              "text" : "Cloudy",
+              "uniqueIdentifier" : "85544233-3D5C-43DF-8E0F-25D6650B26BD"
+            }
+          ],
+          "uniqueIdentifier" : "37833D68-3864-43FF-8DED-F7DBEA7A7E0C"
+        },
+        {
+          "questionPrompt" : "Who are you with?",
+          "tokens" : [
+            {
+              "text" : "DAD",
+              "uniqueIdentifier" : "6EF834B9-C0DA-4BD3-94C9-B44ED828B4D5"
+            },
+            {
+              "text" : "Pat Mark",
+              "uniqueIdentifier" : "ACF93D99-9AB6-410E-BDD5-8C148193E8C0"
+            }
+          ],
+          "uniqueIdentifier" : "895E3980-4E03-4185-9DB1-238262C124D4"
+        },
+        {
+          "questionPrompt" : "Have you seen an animal?",
+          "tokens" : [
+            {
+              "text" : "Nope",
+              "uniqueIdentifier" : "4FEAA7D3-34E7-41E5-B9A8-E12D584B8FED"
+            }
+          ],
+          "uniqueIdentifier" : "852E2636-173A-46D4-8415-2328E3B16320"
+        }
+      ]
+    }
+  ],
+  "questions" : [
+    {
+      "prompt" : "How did you sleep?",
+      "questionType" : 1,
+      "uniqueIdentifier" : "default-question-1"
+    },
+    {
+      "prompt" : "Are you working?",
+      "questionType" : 2,
+      "uniqueIdentifier" : "default-question-2"
+    },
+    {
+      "prompt" : "How many coffees did you have today?",
+      "questionType" : 5,
+      "uniqueIdentifier" : "default-question-6"
+    },
+    {
+      "prompt" : "What are you doing?",
+      "questionType" : 0,
+      "uniqueIdentifier" : "default-question-3"
+    },
+    {
+      "prompt" : "Who are you with?",
+      "questionType" : 4,
+      "uniqueIdentifier" : "default-question-5",
+      "placeholderString" : "No one"
+    },
+    {
+      "prompt" : "Where are you?",
+      "questionType" : 3,
+      "uniqueIdentifier" : "default-question-4"
+    },
+    {
+      "prompt" : "What did you learn today?",
+      "questionType" : 6,
+      "uniqueIdentifier" : "default-question-7"
+    },
+    {
+      "prompt" : "What is the weather like?",
+      "questionType" : 0,
+      "uniqueIdentifier" : "C6D94168-5AB1-4EFC-9247-DEDD4126FF80"
+    },
+    {
+      "prompt" : "Have you seen an animal?",
+      "questionType" : 0,
+      "uniqueIdentifier" : "8A43B95E-2E90-45B9-8EA8-3B9539F90B00"
+    }
+  ]
+}

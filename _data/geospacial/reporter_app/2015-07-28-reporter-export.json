@@ -1,0 +1,794 @@
+{
+  "snapshots" : [
+    {
+      "battery" : 0.37,
+      "location" : {
+        "altitude" : 982.9981079101562,
+        "timestamp" : "2015-07-28T00:15:46-0600",
+        "verticalAccuracy" : 36.19524589217916,
+        "longitude" : -113.9841886208512,
+        "latitude" : 46.86986622801158,
+        "course" : 0,
+        "uniqueIdentifier" : "FFC1DAEC-08E6-414F-AF18-651962238730",
+        "placemark" : {
+          "thoroughfare" : "E Broadway St",
+          "postalCode" : "59802",
+          "subAdministrativeArea" : "Missoula",
+          "subLocality" : "Heart of Missoula",
+          "subThoroughfare" : "744",
+          "region" : "<+46.87014535,-113.98422500> radius 100.73",
+          "uniqueIdentifier" : "873BC87A-0E7E-4846-9C92-73417F57CCC9",
+          "locality" : "Missoula",
+          "name" : "744 E Broadway St",
+          "country" : "United States",
+          "administrativeArea" : "MT"
+        },
+        "horizontalAccuracy" : 65,
+        "speed" : -1
+      },
+      "altitude" : {
+        "gpsRawAltitude" : 982.9981079101562,
+        "gpsAltitudeFromLocation" : 977.40625,
+        "uniqueIdentifier" : "77997D72-4744-4D95-BFA7-D9B2EC886AC9"
+      },
+      "reportImpetus" : 3,
+      "steps" : -1,
+      "audio" : {
+        "avg" : -41.02855,
+        "uniqueIdentifier" : "586991E6-8F61-43C5-B2AE-C58A166A0A0E",
+        "peak" : -33.0293
+      },
+      "photoSet" : {
+        "photos" : [
+          {
+            "brightnessValue" : -0.7949753,
+            "meteringMode" : 3,
+            "focalLengthIn35mm" : 35,
+            "sceneCaptureType" : 0,
+            "exposureMode" : 0,
+            "resolutionUnit" : 2,
+            "make" : "Apple",
+            "software" : "8.4",
+            "assetUrl" : "assets-library:\/\/asset\/asset.JPG?id=1CC6032C-EE68-4AAD-A977-EC4AAE52EA62&ext=JPG",
+            "isoSpeed" : 500,
+            "exposureTime" : 0.06666667,
+            "shutterSpeed" : 3.906905,
+            "depth" : 8,
+            "latitude" : 0,
+            "fNumber" : 2.4,
+            "sensingMode" : 2,
+            "uniqueIdentifier" : "F6FAECF6-C693-4983-B237-C8C2A867BA4C",
+            "longitude" : 0,
+            "apertureValue" : 2.526069,
+            "focalLength" : 4.28,
+            "model" : "iPhone 4S",
+            "altitude" : 0,
+            "exposureProgram" : 2,
+            "pixelWidth" : 3264,
+            "dateTime" : "2015-07-27T12:47:36-0600",
+            "flash" : 16,
+            "orientation" : 6,
+            "pixelHeight" : 2448,
+            "whiteBalance" : 0
+          },
+          {
+            "brightnessValue" : 1.323794,
+            "meteringMode" : 5,
+            "focalLengthIn35mm" : 35,
+            "sceneCaptureType" : 0,
+            "exposureMode" : 0,
+            "resolutionUnit" : 2,
+            "make" : "Apple",
+            "software" : "8.4",
+            "assetUrl" : "assets-library:\/\/asset\/asset.JPG?id=CD39C0EC-6E13-4145-AD90-F092EF086A76&ext=JPG",
+            "isoSpeed" : 160,
+            "exposureTime" : 0.05,
+            "shutterSpeed" : 4.321929,
+            "depth" : 8,
+            "latitude" : 0,
+            "fNumber" : 2.4,
+            "sensingMode" : 2,
+            "uniqueIdentifier" : "ACAE4137-746C-47E9-A640-04689240F307",
+            "longitude" : 0,
+            "apertureValue" : 2.526069,
+            "focalLength" : 4.28,
+            "model" : "iPhone 4S",
+            "altitude" : 0,
+            "exposureProgram" : 2,
+            "pixelWidth" : 3264,
+            "dateTime" : "2015-07-27T10:48:42-0600",
+            "flash" : 16,
+            "orientation" : 6,
+            "pixelHeight" : 2448,
+            "whiteBalance" : 0
+          }
+        ],
+        "uniqueIdentifier" : "A4D6A591-2E28-4FF7-9702-5A26720919B3"
+      },
+      "sectionIdentifier" : "1-2015-7-28",
+      "uniqueIdentifier" : "CC8E8C4C-8AC7-421D-BF22-327A2E98D287",
+      "connection" : 0,
+      "background" : 0,
+      "draft" : 0,
+      "weather" : {
+        "windMPH" : 0,
+        "windDirection" : "North",
+        "tempF" : 50,
+        "windGustKPH" : 4.8,
+        "feelslikeC" : 10,
+        "visibilityMi" : 10,
+        "feelslikeF" : 50,
+        "windGustMPH" : 3,
+        "latitude" : 46.89423,
+        "stationID" : "MC4884",
+        "pressureIn" : 30.18,
+        "pressureMb" : 1022,
+        "relativeHumidity" : "93%",
+        "uniqueIdentifier" : "CEF72012-6C84-468E-BFAB-5958E431C57C",
+        "longitude" : -113.96154,
+        "windKPH" : 0,
+        "windDegrees" : 360,
+        "tempC" : 10,
+        "weather" : "Overcast",
+        "uv" : 0,
+        "dewpointC" : 9,
+        "visibilityKM" : 16.1
+      },
+      "date" : "2015-07-28T00:15:43-0600",
+      "responses" : [
+        {
+          "questionPrompt" : "What did you learn today?",
+          "textResponses" : [
+            {
+              "text" : "Missoula has great food",
+              "uniqueIdentifier" : "064826A6-F2DF-42AB-A983-9718A99DFF14"
+            }
+          ],
+          "uniqueIdentifier" : "719314A8-60DD-4B65-90CE-733375D8292D"
+        }
+      ]
+    },
+    {
+      "battery" : 0.85,
+      "location" : {
+        "altitude" : 979.785888671875,
+        "timestamp" : "2015-07-28T09:43:54-0600",
+        "verticalAccuracy" : 10,
+        "longitude" : -113.9844783287161,
+        "latitude" : 46.86985800825099,
+        "course" : 0,
+        "uniqueIdentifier" : "1A621145-E227-4D4A-B8C5-D8C1AA1AD910",
+        "placemark" : {
+          "thoroughfare" : "E Broadway St",
+          "postalCode" : "59802",
+          "subAdministrativeArea" : "Missoula",
+          "subLocality" : "Heart of Missoula",
+          "subThoroughfare" : "720",
+          "region" : "<+46.86988140,-113.98459305> radius 64.14",
+          "uniqueIdentifier" : "DF0502FD-7BDE-4FF4-8452-D3CFAE0940D6",
+          "locality" : "Missoula",
+          "name" : "720 E Broadway St",
+          "country" : "United States",
+          "administrativeArea" : "MT"
+        },
+        "horizontalAccuracy" : 65,
+        "speed" : -1
+      },
+      "altitude" : {
+        "gpsRawAltitude" : 979.785888671875,
+        "gpsAltitudeFromLocation" : 977.02063,
+        "uniqueIdentifier" : "38234F0F-BB0E-4C54-98E1-2C906AE924AA"
+      },
+      "reportImpetus" : 4,
+      "steps" : -1,
+      "audio" : {
+        "avg" : -55.49324,
+        "uniqueIdentifier" : "A0344447-CC7D-428C-AA26-31A43C9D2CC5",
+        "peak" : -34.14998
+      },
+      "sectionIdentifier" : "1-2015-7-28",
+      "uniqueIdentifier" : "EFE054C0-893C-43EF-97A3-BB36739A4504",
+      "connection" : 0,
+      "background" : 0,
+      "draft" : 0,
+      "weather" : {
+        "windMPH" : 0,
+        "windDirection" : "North",
+        "tempF" : 54,
+        "windGustKPH" : 0,
+        "feelslikeC" : 12.2,
+        "visibilityMi" : 10,
+        "feelslikeF" : 54,
+        "windGustMPH" : 0,
+        "latitude" : 46.89423,
+        "stationID" : "MC4884",
+        "pressureIn" : 30.27,
+        "pressureMb" : 1025,
+        "relativeHumidity" : "86%",
+        "uniqueIdentifier" : "E0E30042-D88D-412D-BCAE-E31EC6579E24",
+        "longitude" : -113.96154,
+        "windKPH" : 0,
+        "windDegrees" : 355,
+        "tempC" : 12.2,
+        "weather" : "Overcast",
+        "uv" : 1,
+        "dewpointC" : 10,
+        "visibilityKM" : 16.1
+      },
+      "date" : "2015-07-28T09:43:50-0600",
+      "responses" : [
+        {
+          "questionPrompt" : "How did you sleep?",
+          "answeredOptions" : [
+            "Ok"
+          ],
+          "uniqueIdentifier" : "1A535087-99FA-44BE-BA98-15525F30E63F"
+        }
+      ]
+    },
+    {
+      "battery" : 0.64,
+      "location" : {
+        "altitude" : 1161,
+        "timestamp" : "2015-07-28T13:08:01-0600",
+        "verticalAccuracy" : 24,
+        "longitude" : -113.9896116313655,
+        "latitude" : 46.89039145135031,
+        "course" : 0,
+        "uniqueIdentifier" : "9F355769-4F56-4034-883B-452707743C2E",
+        "placemark" : {
+          "thoroughfare" : "Brahms Way",
+          "postalCode" : "59802",
+          "subAdministrativeArea" : "Missoula",
+          "subLocality" : "Northside",
+          "subThoroughfare" : "3400–3498",
+          "region" : "<+46.89626379,-113.98532150> radius 141.65",
+          "uniqueIdentifier" : "457F029D-EEC1-4F5D-875D-42BE049D393A",
+          "locality" : "Missoula",
+          "name" : "3400–3498 Brahms Way",
+          "country" : "United States",
+          "administrativeArea" : "MT"
+        },
+        "horizontalAccuracy" : 10,
+        "speed" : -1
+      },
+      "altitude" : {
+        "gpsRawAltitude" : 1161,
+        "gpsAltitudeFromLocation" : 1174.974731,
+        "uniqueIdentifier" : "00AE748F-44EA-4A9C-8921-EECAFD3A2B3B"
+      },
+      "reportImpetus" : 0,
+      "steps" : -1,
+      "audio" : {
+        "avg" : -47.39336,
+        "uniqueIdentifier" : "B76BA8AA-035D-418C-8403-B8618D8BBEA1",
+        "peak" : -29.89557
+      },
+      "photoSet" : {
+        "photos" : [
+          {
+            "brightnessValue" : 11.21633,
+            "meteringMode" : 5,
+            "focalLengthIn35mm" : 35,
+            "sceneCaptureType" : 0,
+            "exposureMode" : 0,
+            "resolutionUnit" : 2,
+            "make" : "Apple",
+            "software" : "8.4",
+            "assetUrl" : "assets-library:\/\/asset\/asset.JPG?id=5633B0ED-CAEC-4599-A7CF-BDAACC06D7E3&ext=JPG",
+            "isoSpeed" : 50,
+            "exposureTime" : 0.0002529724,
+            "shutterSpeed" : 11.94858,
+            "depth" : 8,
+            "latitude" : 0,
+            "fNumber" : 2.4,
+            "sensingMode" : 2,
+            "uniqueIdentifier" : "C15AE54E-2568-4443-B001-AAF51316C86B",
+            "longitude" : 0,
+            "apertureValue" : 2.526069,
+            "focalLength" : 4.28,
+            "model" : "iPhone 4S",
+            "altitude" : 0,
+            "exposureProgram" : 2,
+            "pixelWidth" : 3264,
+            "dateTime" : "2015-07-28T13:05:23-0600",
+            "flash" : 16,
+            "orientation" : 6,
+            "pixelHeight" : 2448,
+            "whiteBalance" : 0
+          },
+          {
+            "brightnessValue" : 9.864618,
+            "meteringMode" : 5,
+            "focalLengthIn35mm" : 35,
+            "sceneCaptureType" : 0,
+            "exposureMode" : 0,
+            "resolutionUnit" : 2,
+            "make" : "Apple",
+            "software" : "8.4",
+            "assetUrl" : "assets-library:\/\/asset\/asset.JPG?id=3A40FB58-6D61-4D0B-B945-5451A9C52CB2&ext=JPG",
+            "isoSpeed" : 50,
+            "exposureTime" : 0.0004159734,
+            "shutterSpeed" : 11.23113,
+            "depth" : 8,
+            "latitude" : 0,
+            "fNumber" : 2.4,
+            "sensingMode" : 2,
+            "uniqueIdentifier" : "242A7627-7794-4482-A564-80357F5A1358",
+            "longitude" : 0,
+            "apertureValue" : 2.526069,
+            "focalLength" : 4.28,
+            "model" : "iPhone 4S",
+            "altitude" : 0,
+            "exposureProgram" : 2,
+            "pixelWidth" : 3264,
+            "dateTime" : "2015-07-28T13:05:12-0600",
+            "flash" : 16,
+            "orientation" : 1,
+            "pixelHeight" : 2448,
+            "whiteBalance" : 0
+          },
+          {
+            "brightnessValue" : 9.91786,
+            "meteringMode" : 5,
+            "focalLengthIn35mm" : 35,
+            "sceneCaptureType" : 0,
+            "exposureMode" : 0,
+            "resolutionUnit" : 2,
+            "make" : "Apple",
+            "software" : "8.4",
+            "assetUrl" : "assets-library:\/\/asset\/asset.JPG?id=253C38AC-6F76-4C34-A379-04C8648944F6&ext=JPG",
+            "isoSpeed" : 50,
+            "exposureTime" : 0.0004159734,
+            "shutterSpeed" : 11.23113,
+            "depth" : 8,
+            "latitude" : 0,
+            "fNumber" : 2.4,
+            "sensingMode" : 2,
+            "uniqueIdentifier" : "51E9415D-6498-4F3D-8835-52DDE9DA6418",
+            "longitude" : 0,
+            "apertureValue" : 2.526069,
+            "focalLength" : 4.28,
+            "model" : "iPhone 4S",
+            "altitude" : 0,
+            "exposureProgram" : 2,
+            "pixelWidth" : 3264,
+            "dateTime" : "2015-07-28T13:05:15-0600",
+            "flash" : 16,
+            "orientation" : 1,
+            "pixelHeight" : 2448,
+            "whiteBalance" : 0
+          },
+          {
+            "brightnessValue" : 10.45986,
+            "meteringMode" : 5,
+            "focalLengthIn35mm" : 35,
+            "sceneCaptureType" : 0,
+            "exposureMode" : 0,
+            "resolutionUnit" : 2,
+            "make" : "Apple",
+            "software" : "8.4",
+            "assetUrl" : "assets-library:\/\/asset\/asset.JPG?id=D71AF190-B0BD-49B5-9A73-7E17337E0521&ext=JPG",
+            "isoSpeed" : 50,
+            "exposureTime" : 0.0003439972,
+            "shutterSpeed" : 11.5053,
+            "depth" : 8,
+            "latitude" : 0,
+            "fNumber" : 2.4,
+            "sensingMode" : 2,
+            "uniqueIdentifier" : "909DF990-D586-4E4A-A157-58E0DAB1AF5E",
+            "longitude" : 0,
+            "apertureValue" : 2.526069,
+            "focalLength" : 4.28,
+            "model" : "iPhone 4S",
+            "altitude" : 0,
+            "exposureProgram" : 2,
+            "pixelWidth" : 3264,
+            "dateTime" : "2015-07-28T12:27:14-0600",
+            "flash" : 16,
+            "orientation" : 1,
+            "pixelHeight" : 2448,
+            "whiteBalance" : 0
+          },
+          {
+            "brightnessValue" : 10.92965,
+            "meteringMode" : 5,
+            "focalLengthIn35mm" : 35,
+            "sceneCaptureType" : 0,
+            "exposureMode" : 0,
+            "resolutionUnit" : 2,
+            "make" : "Apple",
+            "software" : "8.4",
+            "assetUrl" : "assets-library:\/\/asset\/asset.JPG?id=F776E45D-681E-4AD5-8ED3-35B1A72A20B0&ext=JPG",
+            "isoSpeed" : 50,
+            "exposureTime" : 0.0003079766,
+            "shutterSpeed" : 11.66478,
+            "depth" : 8,
+            "latitude" : 0,
+            "fNumber" : 2.4,
+            "sensingMode" : 2,
+            "uniqueIdentifier" : "327AA5FB-43ED-4CAC-8AD8-0523B7082C0C",
+            "longitude" : 0,
+            "apertureValue" : 2.526069,
+            "focalLength" : 4.28,
+            "model" : "iPhone 4S",
+            "altitude" : 0,
+            "exposureProgram" : 2,
+            "pixelWidth" : 3264,
+            "dateTime" : "2015-07-28T13:05:27-0600",
+            "flash" : 16,
+            "orientation" : 1,
+            "pixelHeight" : 2448,
+            "whiteBalance" : 0
+          },
+          {
+            "brightnessValue" : 11.21402,
+            "meteringMode" : 5,
+            "focalLengthIn35mm" : 35,
+            "sceneCaptureType" : 0,
+            "exposureMode" : 0,
+            "resolutionUnit" : 2,
+            "make" : "Apple",
+            "software" : "8.4",
+            "assetUrl" : "assets-library:\/\/asset\/asset.JPG?id=5A849361-4BCC-4D25-A934-0676E278538B&ext=JPG",
+            "isoSpeed" : 50,
+            "exposureTime" : 0.000199005,
+            "shutterSpeed" : 12.29494,
+            "depth" : 8,
+            "latitude" : 0,
+            "fNumber" : 2.4,
+            "sensingMode" : 2,
+            "uniqueIdentifier" : "9080604B-41DA-41D7-845B-584635562B94",
+            "longitude" : 0,
+            "apertureValue" : 2.526069,
+            "focalLength" : 4.28,
+            "model" : "iPhone 4S",
+            "altitude" : 0,
+            "exposureProgram" : 2,
+            "pixelWidth" : 3264,
+            "dateTime" : "2015-07-28T13:05:08-0600",
+            "flash" : 16,
+            "orientation" : 1,
+            "pixelHeight" : 2448,
+            "whiteBalance" : 0
+          },
+          {
+            "brightnessValue" : 10.70751,
+            "meteringMode" : 5,
+            "focalLengthIn35mm" : 35,
+            "sceneCaptureType" : 0,
+            "exposureMode" : 0,
+            "resolutionUnit" : 2,
+            "make" : "Apple",
+            "software" : "8.4",
+            "assetUrl" : "assets-library:\/\/asset\/asset.JPG?id=3515A8AD-031C-46E3-93AA-28B02C6F433F&ext=JPG",
+            "isoSpeed" : 50,
+            "exposureTime" : 0.0003620565,
+            "shutterSpeed" : 11.43172,
+            "depth" : 8,
+            "latitude" : 0,
+            "fNumber" : 2.4,
+            "sensingMode" : 2,
+            "uniqueIdentifier" : "ED124E6C-ED41-4CDF-BEDA-1591D18756D5",
+            "longitude" : 0,
+            "apertureValue" : 2.526069,
+            "focalLength" : 4.28,
+            "model" : "iPhone 4S",
+            "altitude" : 0,
+            "exposureProgram" : 2,
+            "pixelWidth" : 3264,
+            "dateTime" : "2015-07-28T12:27:17-0600",
+            "flash" : 16,
+            "orientation" : 1,
+            "pixelHeight" : 2448,
+            "whiteBalance" : 0
+          },
+          {
+            "brightnessValue" : 8.426213,
+            "meteringMode" : 5,
+            "focalLengthIn35mm" : 35,
+            "sceneCaptureType" : 0,
+            "exposureMode" : 0,
+            "resolutionUnit" : 2,
+            "make" : "Apple",
+            "software" : "8.4",
+            "assetUrl" : "assets-library:\/\/asset\/asset.JPG?id=D048BC48-3F7A-48DF-AD13-B0D95128EBC5&ext=JPG",
+            "isoSpeed" : 160,
+            "exposureTime" : 0.000691085,
+            "shutterSpeed" : 10.49903,
+            "depth" : 8,
+            "latitude" : 0,
+            "fNumber" : 2.4,
+            "sensingMode" : 2,
+            "uniqueIdentifier" : "FBE64CDA-D9E6-4C57-A106-141E852745AA",
+            "longitude" : 0,
+            "apertureValue" : 2.526069,
+            "focalLength" : 1.85,
+            "model" : "iPhone 4S",
+            "altitude" : 0,
+            "exposureProgram" : 2,
+            "pixelWidth" : 640,
+            "dateTime" : "2015-07-28T12:27:43-0600",
+            "flash" : 32,
+            "orientation" : 1,
+            "pixelHeight" : 480,
+            "whiteBalance" : 0
+          }
+        ],
+        "uniqueIdentifier" : "4604074B-1783-4325-A4D8-6715DBAFAB2D"
+      },
+      "sectionIdentifier" : "1-2015-7-28",
+      "uniqueIdentifier" : "86DF6D15-7751-45FD-8E41-289B411CCDAE",
+      "connection" : 0,
+      "background" : 0,
+      "draft" : 0,
+      "weather" : {
+        "windMPH" : 0,
+        "windDirection" : "SW",
+        "tempF" : 66,
+        "windGustKPH" : 3.2,
+        "feelslikeC" : 18.9,
+        "visibilityMi" : 10,
+        "feelslikeF" : 66,
+        "windGustMPH" : 2,
+        "latitude" : 46.89423,
+        "stationID" : "MC4884",
+        "pressureIn" : 30.23,
+        "pressureMb" : 1024,
+        "relativeHumidity" : "53%",
+        "uniqueIdentifier" : "6004F8E3-18FD-4C94-AED6-99C791E1EB0E",
+        "longitude" : -113.96154,
+        "windKPH" : 0,
+        "windDegrees" : 219,
+        "tempC" : 18.9,
+        "weather" : "Clear",
+        "uv" : 10,
+        "dewpointC" : 9,
+        "visibilityKM" : 16.1
+      },
+      "date" : "2015-07-28T13:07:57-0600",
+      "responses" : [
+        {
+          "questionPrompt" : "Are you working?",
+          "answeredOptions" : [
+            "No"
+          ],
+          "uniqueIdentifier" : "5F875A65-F62E-4A4B-91F2-A44CABD800DA"
+        },
+        {
+          "questionPrompt" : "What is the weather like?",
+          "tokens" : [
+            {
+              "text" : "Sunny",
+              "uniqueIdentifier" : "BE5C21E8-AA75-4D9D-BE9F-E0C590970D1B"
+            }
+          ],
+          "uniqueIdentifier" : "71C32EF2-2963-49A3-86A6-00A20E046DC6"
+        },
+        {
+          "questionPrompt" : "What are you doing?",
+          "tokens" : [
+            {
+              "text" : "Day off",
+              "uniqueIdentifier" : "83D2BE81-BEF1-4725-86A5-EA78ECD3B6AA"
+            }
+          ],
+          "uniqueIdentifier" : "0553343B-EBE9-4373-8DC0-F0C317D6486B"
+        },
+        {
+          "questionPrompt" : "Where are you?",
+          "locationResponse" : {
+            "uniqueIdentifier" : "AFBE50B4-2157-45C9-B581-22C399D5F3CC",
+            "text" : "Missoula, MT",
+            "location" : {
+              "altitude" : 0,
+              "timestamp" : "2015-07-28T13:08:28-0600",
+              "verticalAccuracy" : -1,
+              "longitude" : -113.9940655231476,
+              "latitude" : 46.87211830858811,
+              "course" : 0,
+              "uniqueIdentifier" : "27277E9E-12FD-44E7-9301-1E58E876D212",
+              "horizontalAccuracy" : 0,
+              "speed" : -1
+            },
+            "foursquareVenueId" : "4beeac8f2c082d7f77ad3042"
+          },
+          "uniqueIdentifier" : "FEE799B1-A7E2-44A8-A6E2-2BAF32F3601E"
+        },
+        {
+          "questionPrompt" : "Who are you with?",
+          "tokens" : [
+            {
+              "text" : "ANDERS",
+              "uniqueIdentifier" : "E22A8A8A-F495-42E9-B4AF-1D8776FBD6A9"
+            },
+            {
+              "text" : "Pat",
+              "uniqueIdentifier" : "39B0A487-F6D0-48EF-B736-25E7DEF518E4"
+            },
+            {
+              "text" : "Mark Clevland",
+              "uniqueIdentifier" : "43B81DEC-FD26-4BA8-ADDB-27A80875FC87"
+            },
+            {
+              "text" : "DAD",
+              "uniqueIdentifier" : "6EF834B9-C0DA-4BD3-94C9-B44ED828B4D5"
+            }
+          ],
+          "uniqueIdentifier" : "DD55AE77-86B6-4899-B608-D235EC72E8BE"
+        },
+        {
+          "questionPrompt" : "Have you seen an animal?",
+          "tokens" : [
+            {
+              "text" : "Dog",
+              "uniqueIdentifier" : "4F987BE5-A043-40DD-80D3-A944A2AEAC89"
+            }
+          ],
+          "uniqueIdentifier" : "21437D6F-9B26-4373-B549-352DE9954FAD"
+        }
+      ]
+    },
+    {
+      "battery" : 0.85,
+      "location" : {
+        "altitude" : 976,
+        "timestamp" : "2015-07-28T23:08:46-0600",
+        "verticalAccuracy" : 4,
+        "longitude" : -113.9840149507988,
+        "latitude" : 46.87002363619103,
+        "course" : 0,
+        "uniqueIdentifier" : "B1E2FC62-FF72-4D1D-B134-D2E44F218D1E",
+        "placemark" : {
+          "thoroughfare" : "E Broadway St",
+          "postalCode" : "59802",
+          "subAdministrativeArea" : "Missoula",
+          "subLocality" : "Heart of Missoula",
+          "subThoroughfare" : "744",
+          "region" : "<+46.87014535,-113.98422500> radius 100.73",
+          "uniqueIdentifier" : "130F0B14-C5A2-48F6-99FE-48C64196934C",
+          "locality" : "Missoula",
+          "name" : "744 E Broadway St",
+          "country" : "United States",
+          "administrativeArea" : "MT"
+        },
+        "horizontalAccuracy" : 5,
+        "speed" : 0
+      },
+      "altitude" : {
+        "gpsRawAltitude" : 976,
+        "gpsAltitudeFromLocation" : 977.74469,
+        "uniqueIdentifier" : "95475E5B-EB5E-41E6-A435-9327E45E5E46"
+      },
+      "reportImpetus" : 3,
+      "steps" : -1,
+      "audio" : {
+        "avg" : -52.29132,
+        "uniqueIdentifier" : "1E48496F-D487-4719-B716-574585E3A4A9",
+        "peak" : -38.21819
+      },
+      "photoSet" : {
+        "photos" : [
+          {
+            "brightnessValue" : 0,
+            "meteringMode" : 0,
+            "focalLengthIn35mm" : 0,
+            "sceneCaptureType" : 0,
+            "exposureMode" : 0,
+            "resolutionUnit" : 0,
+            "assetUrl" : "assets-library:\/\/asset\/asset.PNG?id=67235863-B54A-4886-9C3A-39660703C85B&ext=PNG",
+            "isoSpeed" : 0,
+            "exposureTime" : 0,
+            "shutterSpeed" : 0,
+            "depth" : 8,
+            "latitude" : 0,
+            "fNumber" : 0,
+            "sensingMode" : 0,
+            "uniqueIdentifier" : "7D23FEAB-38C8-404C-A9CC-F5C3F3D10846",
+            "longitude" : 0,
+            "apertureValue" : 0,
+            "focalLength" : 0,
+            "altitude" : 0,
+            "exposureProgram" : 0,
+            "pixelWidth" : 640,
+            "dateTime" : "2015-07-28T18:43:01-0600",
+            "flash" : 0,
+            "pixelHeight" : 960,
+            "whiteBalance" : 0
+          }
+        ],
+        "uniqueIdentifier" : "928AAAA6-C057-49A4-906F-E6E365DEA30A"
+      },
+      "sectionIdentifier" : "1-2015-7-28",
+      "uniqueIdentifier" : "68AF978B-DDC1-488F-8A59-5D237DAE266D",
+      "connection" : 0,
+      "background" : 0,
+      "draft" : 0,
+      "weather" : {
+        "windMPH" : 0,
+        "windDirection" : "South",
+        "tempF" : 57,
+        "windGustKPH" : 0,
+        "feelslikeC" : 13.9,
+        "visibilityMi" : 10,
+        "feelslikeF" : 57,
+        "windGustMPH" : 0,
+        "latitude" : 46.89423,
+        "stationID" : "MC4884",
+        "pressureIn" : 30.24,
+        "pressureMb" : 1024,
+        "relativeHumidity" : "70%",
+        "uniqueIdentifier" : "BCFB325A-A5D0-45FE-9029-E2372DEBF855",
+        "longitude" : -113.96154,
+        "windKPH" : 0,
+        "windDegrees" : 180,
+        "tempC" : 13.9,
+        "weather" : "Clear",
+        "uv" : 0,
+        "dewpointC" : 8,
+        "visibilityKM" : 16.1
+      },
+      "date" : "2015-07-28T23:08:42-0600",
+      "responses" : [
+        {
+          "questionPrompt" : "What did you learn today?",
+          "textResponses" : [
+            {
+              "text" : "Breakfast sandwiches with figs",
+              "uniqueIdentifier" : "FBD744C4-550D-4D4D-A7EC-A546638D3033"
+            }
+          ],
+          "uniqueIdentifier" : "F619BB4D-04B8-4B2B-8919-9BB262ABBE32"
+        }
+      ]
+    }
+  ],
+  "questions" : [
+    {
+      "prompt" : "How did you sleep?",
+      "questionType" : 1,
+      "uniqueIdentifier" : "default-question-1"
+    },
+    {
+      "prompt" : "Are you working?",
+      "questionType" : 2,
+      "uniqueIdentifier" : "default-question-2"
+    },
+    {
+      "prompt" : "How many coffees did you have today?",
+      "questionType" : 5,
+      "uniqueIdentifier" : "default-question-6"
+    },
+    {
+      "prompt" : "What are you doing?",
+      "questionType" : 0,
+      "uniqueIdentifier" : "default-question-3"
+    },
+    {
+      "prompt" : "Who are you with?",
+      "questionType" : 4,
+      "uniqueIdentifier" : "default-question-5",
+      "placeholderString" : "No one"
+    },
+    {
+      "prompt" : "Where are you?",
+      "questionType" : 3,
+      "uniqueIdentifier" : "default-question-4"
+    },
+    {
+      "prompt" : "What did you learn today?",
+      "questionType" : 6,
+      "uniqueIdentifier" : "default-question-7"
+    },
+    {
+      "prompt" : "What is the weather like?",
+      "questionType" : 0,
+      "uniqueIdentifier" : "C6D94168-5AB1-4EFC-9247-DEDD4126FF80"
+    },
+    {
+      "prompt" : "Have you seen an animal?",
+      "questionType" : 0,
+      "uniqueIdentifier" : "8A43B95E-2E90-45B9-8EA8-3B9539F90B00"
+    }
+  ]
+}

@@ -1,0 +1,733 @@
+{
+  "snapshots" : [
+    {
+      "battery" : 1,
+      "location" : {
+        "altitude" : 253.1517486572266,
+        "timestamp" : "2015-06-27T08:55:46-0500",
+        "verticalAccuracy" : 13.5672762147278,
+        "longitude" : -94.00274340924356,
+        "latitude" : 44.167485027582,
+        "course" : 0,
+        "uniqueIdentifier" : "4062EB62-23DE-4B3A-BD17-85EB7843B74C",
+        "placemark" : {
+          "thoroughfare" : "E Main St",
+          "postalCode" : "56001",
+          "subAdministrativeArea" : "Blue Earth",
+          "subThoroughfare" : "101–141",
+          "region" : "<+44.16746889,-94.00275200> radius 141.67",
+          "uniqueIdentifier" : "14DA1376-17FE-4438-9422-11A7B5CA0871",
+          "locality" : "Mankato",
+          "name" : "101–141 E Main St",
+          "country" : "United States",
+          "administrativeArea" : "MN"
+        },
+        "horizontalAccuracy" : 65,
+        "speed" : -1
+      },
+      "altitude" : {
+        "gpsRawAltitude" : 253.1517486572266,
+        "gpsAltitudeFromLocation" : 237.519897,
+        "uniqueIdentifier" : "4CF9E073-122C-4788-BA55-141AFA062B67"
+      },
+      "reportImpetus" : 4,
+      "steps" : -1,
+      "audio" : {
+        "avg" : -57.85439,
+        "uniqueIdentifier" : "F58C66C1-39A6-4224-A928-DFF506BBC061",
+        "peak" : -52.46886
+      },
+      "sectionIdentifier" : "1-2015-6-27",
+      "uniqueIdentifier" : "3FCCB56D-1566-4E98-B2D9-8078C6D8355B",
+      "connection" : 1,
+      "background" : 0,
+      "draft" : 0,
+      "weather" : {
+        "windMPH" : 0,
+        "windDirection" : "North",
+        "tempF" : 68.8,
+        "precipTodayIn" : 0,
+        "windGustKPH" : 1.6,
+        "feelslikeC" : 20.4,
+        "visibilityMi" : 10,
+        "feelslikeF" : 68.8,
+        "stationID" : "KMNMANKA6",
+        "latitude" : 44.148003,
+        "windGustMPH" : 1,
+        "pressureIn" : 30.1,
+        "pressureMb" : 1019,
+        "relativeHumidity" : "70%",
+        "uniqueIdentifier" : "D33FB76D-7A90-466F-AED3-0264D72379B6",
+        "longitude" : -93.996925,
+        "precipTodayMetric" : 0,
+        "windKPH" : 0,
+        "windDegrees" : 352,
+        "tempC" : 20.4,
+        "weather" : "Clear",
+        "uv" : 3,
+        "dewpointC" : 15,
+        "visibilityKM" : 16.1
+      },
+      "date" : "2015-06-27T08:55:40-0500",
+      "responses" : [
+        {
+          "questionPrompt" : "How did you sleep?",
+          "answeredOptions" : [
+            "Great"
+          ],
+          "uniqueIdentifier" : "54AEA129-A3A9-459C-9AB9-946A9EA919F7"
+        }
+      ]
+    },
+    {
+      "battery" : 0.97,
+      "location" : {
+        "altitude" : 252.1587524414062,
+        "timestamp" : "2015-06-27T10:10:06-0500",
+        "verticalAccuracy" : 10,
+        "longitude" : -94.00224042429222,
+        "latitude" : 44.16573522753894,
+        "course" : 0,
+        "uniqueIdentifier" : "A060712D-8F0A-43C4-9FE8-07FB63A6842E",
+        "placemark" : {
+          "thoroughfare" : "E Walnut St",
+          "postalCode" : "56001",
+          "subAdministrativeArea" : "Blue Earth",
+          "subThoroughfare" : "119–213",
+          "region" : "<+44.16582169,-94.00219780> radius 141.67",
+          "uniqueIdentifier" : "31AB8143-C236-4CF4-8558-12DB3E9B2A47",
+          "locality" : "Mankato",
+          "name" : "119–213 E Walnut St",
+          "country" : "United States",
+          "administrativeArea" : "MN"
+        },
+        "horizontalAccuracy" : 65,
+        "speed" : -1
+      },
+      "altitude" : {
+        "gpsRawAltitude" : 252.1587524414062,
+        "gpsAltitudeFromLocation" : 239.382172,
+        "uniqueIdentifier" : "5DA0587C-7856-437B-A3D4-D6F2E3737390"
+      },
+      "reportImpetus" : 0,
+      "steps" : -1,
+      "audio" : {
+        "avg" : -41.77063,
+        "uniqueIdentifier" : "B35A54ED-612A-4DA5-9286-B93290DB7C91",
+        "peak" : -27.52752
+      },
+      "sectionIdentifier" : "1-2015-6-27",
+      "uniqueIdentifier" : "5C3359E5-6AD5-4210-B05D-D45B5B56C573",
+      "connection" : 0,
+      "background" : 0,
+      "draft" : 0,
+      "weather" : {
+        "windMPH" : 0,
+        "windDirection" : "North",
+        "tempF" : 70.59999999999999,
+        "precipTodayIn" : 0,
+        "windGustKPH" : 1.6,
+        "feelslikeC" : 21.4,
+        "visibilityMi" : 10,
+        "feelslikeF" : 70.59999999999999,
+        "stationID" : "KMNMANKA6",
+        "latitude" : 44.148003,
+        "windGustMPH" : 1,
+        "pressureIn" : 30.11,
+        "pressureMb" : 1020,
+        "relativeHumidity" : "67%",
+        "uniqueIdentifier" : "06CE2578-7170-495C-A1FA-3CE67B3B7E01",
+        "longitude" : -93.996925,
+        "precipTodayMetric" : 0,
+        "windKPH" : 0,
+        "windDegrees" : 352,
+        "tempC" : 21.4,
+        "weather" : "Clear",
+        "uv" : 6,
+        "dewpointC" : 15,
+        "visibilityKM" : 16.1
+      },
+      "date" : "2015-06-27T10:10:04-0500",
+      "responses" : [
+        {
+          "questionPrompt" : "What are you doing?",
+          "tokens" : [
+            {
+              "text" : "Breakfast",
+              "uniqueIdentifier" : "27D89947-BFD9-4CE1-9BEF-DB6D12513314"
+            }
+          ],
+          "uniqueIdentifier" : "C1D79669-2959-4333-BF44-8FF5241CE4C6"
+        },
+        {
+          "questionPrompt" : "Where are you?",
+          "locationResponse" : {
+            "uniqueIdentifier" : "9FA6AE52-A539-4FF4-88FE-4B3A63C3FED2",
+            "text" : "Tandem Bagels",
+            "location" : {
+              "altitude" : 0,
+              "timestamp" : "2015-06-27T10:10:28-0500",
+              "verticalAccuracy" : -1,
+              "longitude" : -94.00214284172425,
+              "latitude" : 44.16582740027454,
+              "course" : 0,
+              "uniqueIdentifier" : "F915FDE0-ED01-4281-B54E-1F746CC7F776",
+              "horizontalAccuracy" : 0,
+              "speed" : -1
+            },
+            "foursquareVenueId" : "4f27e423e4b0b50174577b09"
+          },
+          "uniqueIdentifier" : "5EDF3ACC-D750-4541-97E8-5D5E9072635D"
+        },
+        {
+          "questionPrompt" : "Have you seen an animal?",
+          "tokens" : [
+            {
+              "text" : "Dog",
+              "uniqueIdentifier" : "4F987BE5-A043-40DD-80D3-A944A2AEAC89"
+            }
+          ],
+          "uniqueIdentifier" : "21437D6F-9B26-4373-B549-352DE9954FAD"
+        },
+        {
+          "questionPrompt" : "What is the weather like?",
+          "tokens" : [
+            {
+              "text" : "Sunny",
+              "uniqueIdentifier" : "BE5C21E8-AA75-4D9D-BE9F-E0C590970D1B"
+            }
+          ],
+          "uniqueIdentifier" : "71C32EF2-2963-49A3-86A6-00A20E046DC6"
+        },
+        {
+          "questionPrompt" : "Who are you with?",
+          "tokens" : [
+            {
+              "text" : "DAD",
+              "uniqueIdentifier" : "6EF834B9-C0DA-4BD3-94C9-B44ED828B4D5"
+            }
+          ],
+          "uniqueIdentifier" : "ED6EA188-3297-43D6-9131-46C4D82875D9"
+        },
+        {
+          "questionPrompt" : "Are you working?",
+          "answeredOptions" : [
+            "No"
+          ],
+          "uniqueIdentifier" : "5F875A65-F62E-4A4B-91F2-A44CABD800DA"
+        }
+      ]
+    },
+    {
+      "battery" : 0.92,
+      "location" : {
+        "altitude" : 257.0670776367188,
+        "timestamp" : "2015-06-27T12:23:17-0500",
+        "verticalAccuracy" : 16.01254448270314,
+        "longitude" : -94.00248814882292,
+        "latitude" : 44.1672719112514,
+        "course" : 0,
+        "uniqueIdentifier" : "80AA983F-0EB1-4397-96FE-5A874F010EF4",
+        "placemark" : {
+          "thoroughfare" : "E Main St",
+          "postalCode" : "56001",
+          "subAdministrativeArea" : "Blue Earth",
+          "subThoroughfare" : "101",
+          "region" : "<+44.16718530,-94.00294320> radius 70.84",
+          "uniqueIdentifier" : "2BEC7977-2236-45B8-9D6D-69302C789472",
+          "locality" : "Mankato",
+          "name" : "101 E Main St",
+          "country" : "United States",
+          "administrativeArea" : "MN"
+        },
+        "horizontalAccuracy" : 72.72329067801502,
+        "speed" : -1
+      },
+      "altitude" : {
+        "gpsRawAltitude" : 257.0670776367188,
+        "gpsAltitudeFromLocation" : 237.70311,
+        "uniqueIdentifier" : "F1DA9606-67C5-4880-B8BF-30399AC8B769"
+      },
+      "reportImpetus" : 0,
+      "steps" : -1,
+      "audio" : {
+        "avg" : -52.22795,
+        "uniqueIdentifier" : "01CECCF3-20A3-4D6B-B495-B3B267C30391",
+        "peak" : -34.53027
+      },
+      "sectionIdentifier" : "1-2015-6-27",
+      "uniqueIdentifier" : "2140C33E-E741-4115-9AD0-E5D799FC7587",
+      "connection" : 0,
+      "background" : 0,
+      "draft" : 0,
+      "weather" : {
+        "windMPH" : 0,
+        "windDirection" : "SW",
+        "tempF" : 76.09999999999999,
+        "precipTodayIn" : 0,
+        "windGustKPH" : 8,
+        "feelslikeC" : 26,
+        "visibilityMi" : 10,
+        "feelslikeF" : 76.09999999999999,
+        "stationID" : "KMNMANKA6",
+        "latitude" : 44.148003,
+        "windGustMPH" : 5,
+        "pressureIn" : 30.09,
+        "pressureMb" : 1019,
+        "relativeHumidity" : "52%",
+        "uniqueIdentifier" : "8304AC78-682E-434B-A097-C2AED690BB72",
+        "longitude" : -93.996925,
+        "precipTodayMetric" : 0,
+        "windKPH" : 0,
+        "windDegrees" : 224,
+        "tempC" : 24.5,
+        "weather" : "Clear",
+        "uv" : 11,
+        "dewpointC" : 14,
+        "visibilityKM" : 16.1
+      },
+      "date" : "2015-06-27T12:23:11-0500",
+      "responses" : [
+        {
+          "questionPrompt" : "Are you working?",
+          "answeredOptions" : [
+            "No"
+          ],
+          "uniqueIdentifier" : "5F875A65-F62E-4A4B-91F2-A44CABD800DA"
+        },
+        {
+          "questionPrompt" : "What are you doing?",
+          "tokens" : [
+            {
+              "text" : "Work",
+              "uniqueIdentifier" : "B3C87857-6B88-4872-A2EE-4E6CB9B03D01"
+            }
+          ],
+          "uniqueIdentifier" : "7C5AB523-F167-4A28-9CD4-CBB5BFCF8F3B"
+        },
+        {
+          "questionPrompt" : "Have you seen an animal?",
+          "tokens" : [
+            {
+              "text" : "Nope",
+              "uniqueIdentifier" : "4FEAA7D3-34E7-41E5-B9A8-E12D584B8FED"
+            }
+          ],
+          "uniqueIdentifier" : "852E2636-173A-46D4-8415-2328E3B16320"
+        },
+        {
+          "questionPrompt" : "What is the weather like?",
+          "tokens" : [
+            {
+              "text" : "Sunny",
+              "uniqueIdentifier" : "BE5C21E8-AA75-4D9D-BE9F-E0C590970D1B"
+            }
+          ],
+          "uniqueIdentifier" : "71C32EF2-2963-49A3-86A6-00A20E046DC6"
+        },
+        {
+          "questionPrompt" : "Who are you with?",
+          "tokens" : [
+            {
+              "text" : "DAD",
+              "uniqueIdentifier" : "6EF834B9-C0DA-4BD3-94C9-B44ED828B4D5"
+            }
+          ],
+          "uniqueIdentifier" : "ED6EA188-3297-43D6-9131-46C4D82875D9"
+        },
+        {
+          "questionPrompt" : "Where are you?",
+          "locationResponse" : {
+            "uniqueIdentifier" : "6999F9BD-8F22-4D16-9180-8FE8ACE1E492",
+            "text" : "Blue Earth County Library",
+            "location" : {
+              "altitude" : 0,
+              "timestamp" : "2015-06-27T12:23:35-0500",
+              "verticalAccuracy" : -1,
+              "longitude" : -94.0021938085556,
+              "latitude" : 44.167764512937,
+              "course" : 0,
+              "uniqueIdentifier" : "32D5E8AA-5E5E-4311-877A-7C6D4F75F93B",
+              "horizontalAccuracy" : 0,
+              "speed" : -1
+            },
+            "foursquareVenueId" : "4ade3facf964a5204d7421e3"
+          },
+          "uniqueIdentifier" : "80903AC2-71C0-4D78-8C6B-54A2CBF0C62A"
+        }
+      ]
+    },
+    {
+      "battery" : 0.82,
+      "location" : {
+        "altitude" : 254.1580047607422,
+        "timestamp" : "2015-06-27T15:42:44-0500",
+        "verticalAccuracy" : 21.21194605106843,
+        "longitude" : -94.00281628314399,
+        "latitude" : 44.16761300166122,
+        "course" : 0,
+        "uniqueIdentifier" : "BDCC32FA-B2B6-450B-8BA9-406E03F3A521",
+        "placemark" : {
+          "thoroughfare" : "E Main St",
+          "postalCode" : "56001",
+          "subAdministrativeArea" : "Blue Earth",
+          "subThoroughfare" : "100",
+          "region" : "<+44.16776420,-94.00209750> radius 70.84",
+          "uniqueIdentifier" : "773DB892-CF5D-4A94-8917-A9E7B69BB354",
+          "locality" : "Mankato",
+          "name" : "100 E Main St",
+          "country" : "United States",
+          "administrativeArea" : "MN"
+        },
+        "horizontalAccuracy" : 65,
+        "speed" : -1
+      },
+      "altitude" : {
+        "gpsRawAltitude" : 254.1580047607422,
+        "gpsAltitudeFromLocation" : 237.342361,
+        "uniqueIdentifier" : "5710704D-6E54-45E5-BB31-624CA9F47D42"
+      },
+      "reportImpetus" : 0,
+      "steps" : -1,
+      "audio" : {
+        "avg" : -46.22704,
+        "uniqueIdentifier" : "5AB44E0F-F888-4ECE-B22C-7B5E517C2323",
+        "peak" : -33.54065
+      },
+      "photoSet" : {
+        "photos" : [
+          {
+            "brightnessValue" : 3.982531,
+            "meteringMode" : 5,
+            "focalLengthIn35mm" : 35,
+            "sceneCaptureType" : 0,
+            "exposureMode" : 0,
+            "resolutionUnit" : 2,
+            "make" : "Apple",
+            "software" : "8.3",
+            "assetUrl" : "assets-library:\/\/asset\/asset.JPG?id=1BEA2B66-F052-44BB-A63D-3A719CE5586C&ext=JPG",
+            "isoSpeed" : 50,
+            "exposureTime" : 0.025,
+            "shutterSpeed" : 5.321929,
+            "depth" : 8,
+            "latitude" : 0,
+            "fNumber" : 2.4,
+            "sensingMode" : 2,
+            "uniqueIdentifier" : "5C5D9C05-42BB-4707-85D4-0D8E51963125",
+            "longitude" : 0,
+            "apertureValue" : 2.526069,
+            "focalLength" : 4.28,
+            "model" : "iPhone 4S",
+            "altitude" : 0,
+            "exposureProgram" : 2,
+            "pixelWidth" : 3264,
+            "dateTime" : "2015-06-27T14:18:03-0500",
+            "flash" : 16,
+            "orientation" : 6,
+            "pixelHeight" : 2448,
+            "whiteBalance" : 0
+          }
+        ],
+        "uniqueIdentifier" : "65DAE0BE-8A7B-4EC2-B1D2-9D5210B09112"
+      },
+      "sectionIdentifier" : "1-2015-6-27",
+      "uniqueIdentifier" : "9D9C2801-9F4F-4D6D-95F4-002D319CCA9B",
+      "connection" : 1,
+      "background" : 0,
+      "draft" : 0,
+      "weather" : {
+        "windMPH" : 0,
+        "windDirection" : "West",
+        "tempF" : 80.3,
+        "precipTodayIn" : 0,
+        "windGustKPH" : 9.699999999999999,
+        "feelslikeC" : 27,
+        "visibilityMi" : 10,
+        "feelslikeF" : 80.3,
+        "stationID" : "KMNMANKA6",
+        "latitude" : 44.148003,
+        "windGustMPH" : 6,
+        "pressureIn" : 30.03,
+        "pressureMb" : 1017,
+        "relativeHumidity" : "41%",
+        "uniqueIdentifier" : "5E954D0A-AB68-4850-82BF-CE80D3D4B661",
+        "longitude" : -93.996925,
+        "precipTodayMetric" : 0,
+        "windKPH" : 0,
+        "windDegrees" : 267,
+        "tempC" : 26.8,
+        "weather" : "Clear",
+        "uv" : 9,
+        "dewpointC" : 12,
+        "visibilityKM" : 16.1
+      },
+      "date" : "2015-06-27T15:42:41-0500",
+      "responses" : [
+        {
+          "questionPrompt" : "Are you working?",
+          "answeredOptions" : [
+            "No"
+          ],
+          "uniqueIdentifier" : "5F875A65-F62E-4A4B-91F2-A44CABD800DA"
+        },
+        {
+          "questionPrompt" : "Have you seen an animal?",
+          "tokens" : [
+            {
+              "text" : "Nope",
+              "uniqueIdentifier" : "4FEAA7D3-34E7-41E5-B9A8-E12D584B8FED"
+            }
+          ],
+          "uniqueIdentifier" : "852E2636-173A-46D4-8415-2328E3B16320"
+        },
+        {
+          "questionPrompt" : "Where are you?",
+          "locationResponse" : {
+            "uniqueIdentifier" : "6999F9BD-8F22-4D16-9180-8FE8ACE1E492",
+            "text" : "Blue Earth County Library",
+            "location" : {
+              "altitude" : 0,
+              "timestamp" : "2015-06-27T12:23:35-0500",
+              "verticalAccuracy" : -1,
+              "longitude" : -94.0021938085556,
+              "latitude" : 44.167764512937,
+              "course" : 0,
+              "uniqueIdentifier" : "32D5E8AA-5E5E-4311-877A-7C6D4F75F93B",
+              "horizontalAccuracy" : 0,
+              "speed" : -1
+            },
+            "foursquareVenueId" : "4ade3facf964a5204d7421e3"
+          },
+          "uniqueIdentifier" : "80903AC2-71C0-4D78-8C6B-54A2CBF0C62A"
+        },
+        {
+          "questionPrompt" : "What is the weather like?",
+          "tokens" : [
+            {
+              "text" : "Sunny",
+              "uniqueIdentifier" : "BE5C21E8-AA75-4D9D-BE9F-E0C590970D1B"
+            }
+          ],
+          "uniqueIdentifier" : "71C32EF2-2963-49A3-86A6-00A20E046DC6"
+        },
+        {
+          "questionPrompt" : "Who are you with?",
+          "tokens" : [
+            {
+              "text" : "DAD",
+              "uniqueIdentifier" : "6EF834B9-C0DA-4BD3-94C9-B44ED828B4D5"
+            }
+          ],
+          "uniqueIdentifier" : "ED6EA188-3297-43D6-9131-46C4D82875D9"
+        },
+        {
+          "questionPrompt" : "What are you doing?",
+          "tokens" : [
+            {
+              "text" : "Silence",
+              "uniqueIdentifier" : "A49C8A96-FE0E-4092-97B9-9D036109EB2E"
+            }
+          ],
+          "uniqueIdentifier" : "64B7179D-6868-4B26-80CB-1AAB29774254"
+        }
+      ]
+    },
+    {
+      "battery" : 0.31,
+      "location" : {
+        "altitude" : 155,
+        "timestamp" : "2015-06-27T21:26:45-0500",
+        "verticalAccuracy" : 96,
+        "longitude" : -94.03969335378524,
+        "latitude" : 44.16127236098438,
+        "course" : 0,
+        "uniqueIdentifier" : "6662F8E3-2624-4202-B103-CB75F122D09C",
+        "placemark" : {
+          "thoroughfare" : "Amos Owen Ln",
+          "postalCode" : "56055",
+          "subAdministrativeArea" : "Blue Earth",
+          "subThoroughfare" : "491",
+          "region" : "<+44.16089480,-94.03962220> radius 70.84",
+          "uniqueIdentifier" : "7563E67E-9287-414C-B3A6-830155058F31",
+          "locality" : "Mankato",
+          "name" : "491 Amos Owen Ln",
+          "country" : "United States",
+          "administrativeArea" : "MN"
+        },
+        "horizontalAccuracy" : 50,
+        "speed" : 0
+      },
+      "altitude" : {
+        "gpsRawAltitude" : 155,
+        "gpsAltitudeFromLocation" : 236.610977,
+        "uniqueIdentifier" : "AB477169-98F1-4D9C-8A70-4EF3E77400FA"
+      },
+      "reportImpetus" : 3,
+      "steps" : -1,
+      "audio" : {
+        "avg" : -54.22741,
+        "uniqueIdentifier" : "58DFCE16-F257-4DD6-8D41-5D8DF2405712",
+        "peak" : -34.74312
+      },
+      "photoSet" : {
+        "photos" : [
+          {
+            "brightnessValue" : 7.889874,
+            "meteringMode" : 5,
+            "focalLengthIn35mm" : 35,
+            "sceneCaptureType" : 0,
+            "exposureMode" : 0,
+            "resolutionUnit" : 2,
+            "make" : "Apple",
+            "software" : "8.3",
+            "assetUrl" : "assets-library:\/\/asset\/asset.JPG?id=5DA65D66-A59B-4BE9-A8BF-688B129D3714&ext=JPG",
+            "isoSpeed" : 50,
+            "exposureTime" : 0.002192982,
+            "shutterSpeed" : 8.832878,
+            "depth" : 8,
+            "latitude" : 0,
+            "fNumber" : 2.4,
+            "sensingMode" : 2,
+            "uniqueIdentifier" : "682C8B82-DFA2-4F81-8A4D-51D404D035BC",
+            "longitude" : 0,
+            "apertureValue" : 2.526069,
+            "focalLength" : 4.28,
+            "model" : "iPhone 4S",
+            "altitude" : 0,
+            "exposureProgram" : 2,
+            "pixelWidth" : 3264,
+            "dateTime" : "2015-06-27T15:44:12-0500",
+            "flash" : 16,
+            "orientation" : 6,
+            "pixelHeight" : 2448,
+            "whiteBalance" : 0
+          },
+          {
+            "brightnessValue" : 9.055864,
+            "meteringMode" : 5,
+            "focalLengthIn35mm" : 35,
+            "sceneCaptureType" : 0,
+            "exposureMode" : 0,
+            "resolutionUnit" : 2,
+            "make" : "Apple",
+            "software" : "8.3",
+            "assetUrl" : "assets-library:\/\/asset\/asset.JPG?id=8F2C871B-E27F-4207-AD60-0D3FF642D04F&ext=JPG",
+            "isoSpeed" : 50,
+            "exposureTime" : 0.0006518905,
+            "shutterSpeed" : 10.58284,
+            "depth" : 8,
+            "latitude" : 0,
+            "fNumber" : 2.4,
+            "sensingMode" : 2,
+            "uniqueIdentifier" : "5044C157-3B71-4BE3-961A-132D5B095379",
+            "longitude" : 0,
+            "apertureValue" : 2.526069,
+            "focalLength" : 4.28,
+            "model" : "iPhone 4S",
+            "altitude" : 0,
+            "exposureProgram" : 2,
+            "pixelWidth" : 3264,
+            "dateTime" : "2015-06-27T15:44:06-0500",
+            "flash" : 16,
+            "orientation" : 6,
+            "pixelHeight" : 2448,
+            "whiteBalance" : 0
+          }
+        ],
+        "uniqueIdentifier" : "8CE98030-1372-4817-82A9-9597F752FB25"
+      },
+      "sectionIdentifier" : "1-2015-6-27",
+      "uniqueIdentifier" : "1A61C813-7D69-47E8-89F5-1058A3AB8067",
+      "connection" : 0,
+      "background" : 0,
+      "draft" : 0,
+      "weather" : {
+        "windMPH" : 5,
+        "windDirection" : "SSE",
+        "tempF" : 71.90000000000001,
+        "precipTodayIn" : 0,
+        "windGustKPH" : 11.3,
+        "feelslikeC" : 22.2,
+        "visibilityMi" : 10,
+        "feelslikeF" : 71.90000000000001,
+        "stationID" : "KMNLAKEC6",
+        "latitude" : 44.187405,
+        "windGustMPH" : 7,
+        "pressureIn" : 29.91,
+        "pressureMb" : 1013,
+        "relativeHumidity" : "69%",
+        "uniqueIdentifier" : "4FCC8BC4-3492-4784-A856-1463A391FB68",
+        "longitude" : -94.25765199999999,
+        "precipTodayMetric" : 0,
+        "windKPH" : 8,
+        "windDegrees" : 166,
+        "tempC" : 22.2,
+        "weather" : "Clear",
+        "uv" : 0,
+        "dewpointC" : 16,
+        "visibilityKM" : 16.1
+      },
+      "date" : "2015-06-27T21:26:33-0500",
+      "responses" : [
+        {
+          "questionPrompt" : "What did you learn today?",
+          "textResponses" : [
+            {
+              "text" : "Blue sky public librarian knowss",
+              "uniqueIdentifier" : "21E1918C-03DA-4255-93EC-341C88CB5942"
+            }
+          ],
+          "uniqueIdentifier" : "71C4B077-4E69-43E4-9E36-1E6E060FB0FC"
+        }
+      ]
+    }
+  ],
+  "questions" : [
+    {
+      "prompt" : "How did you sleep?",
+      "questionType" : 1,
+      "uniqueIdentifier" : "default-question-1"
+    },
+    {
+      "prompt" : "Are you working?",
+      "questionType" : 2,
+      "uniqueIdentifier" : "default-question-2"
+    },
+    {
+      "prompt" : "How many coffees did you have today?",
+      "questionType" : 5,
+      "uniqueIdentifier" : "default-question-6"
+    },
+    {
+      "prompt" : "What are you doing?",
+      "questionType" : 0,
+      "uniqueIdentifier" : "default-question-3"
+    },
+    {
+      "prompt" : "Who are you with?",
+      "questionType" : 4,
+      "uniqueIdentifier" : "default-question-5",
+      "placeholderString" : "No one"
+    },
+    {
+      "prompt" : "Where are you?",
+      "questionType" : 3,
+      "uniqueIdentifier" : "default-question-4"
+    },
+    {
+      "prompt" : "What did you learn today?",
+      "questionType" : 6,
+      "uniqueIdentifier" : "default-question-7"
+    },
+    {
+      "prompt" : "What is the weather like?",
+      "questionType" : 0,
+      "uniqueIdentifier" : "C6D94168-5AB1-4EFC-9247-DEDD4126FF80"
+    },
+    {
+      "prompt" : "Have you seen an animal?",
+      "questionType" : 0,
+      "uniqueIdentifier" : "8A43B95E-2E90-45B9-8EA8-3B9539F90B00"
+    }
+  ]
+}

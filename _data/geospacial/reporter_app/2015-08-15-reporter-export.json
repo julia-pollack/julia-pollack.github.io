@@ -1,0 +1,130 @@
+{
+  "snapshots" : [
+    {
+      "battery" : 0.12,
+      "location" : {
+        "altitude" : 42,
+        "timestamp" : "2015-08-15T05:54:45-0700",
+        "verticalAccuracy" : 16,
+        "longitude" : -121.1077448354299,
+        "latitude" : 45.64477404583771,
+        "course" : 0,
+        "uniqueIdentifier" : "8C87C8E3-0DF8-444B-A352-E03C9E1FC548",
+        "placemark" : {
+          "thoroughfare" : "Horsethief Lake State Park",
+          "postalCode" : "98617",
+          "subAdministrativeArea" : "Klickitat",
+          "region" : "<+45.64325719,-121.10822520> radius 141.66",
+          "uniqueIdentifier" : "B193AABB-109D-459D-B293-83E327524140",
+          "locality" : "Dallesport",
+          "name" : "Horsethief Lake State Park",
+          "country" : "United States",
+          "administrativeArea" : "WA"
+        },
+        "horizontalAccuracy" : 5,
+        "speed" : -1
+      },
+      "altitude" : {
+        "gpsRawAltitude" : 42,
+        "gpsAltitudeFromLocation" : 57.258896,
+        "uniqueIdentifier" : "FB77AAC6-7BFD-46E5-8898-A3D48284B279"
+      },
+      "reportImpetus" : 4,
+      "steps" : -1,
+      "audio" : {
+        "avg" : -45.69571,
+        "uniqueIdentifier" : "89E52D9E-FE49-4653-9792-FDE330676102",
+        "peak" : -32.4681
+      },
+      "sectionIdentifier" : "1-2015-8-15",
+      "uniqueIdentifier" : "6A26D04A-6D57-4A95-849A-B2CD242CA735",
+      "connection" : 0,
+      "background" : 0,
+      "draft" : 0,
+      "weather" : {
+        "windMPH" : 4,
+        "windDirection" : "West",
+        "tempF" : 64.7,
+        "precipTodayIn" : 0,
+        "windGustKPH" : 6.4,
+        "feelslikeC" : 18.2,
+        "visibilityMi" : 10,
+        "feelslikeF" : 64.7,
+        "stationID" : "KORTHEDA8",
+        "latitude" : 45.601002,
+        "windGustMPH" : 4,
+        "pressureIn" : 30.16,
+        "pressureMb" : 1021,
+        "relativeHumidity" : "68%",
+        "uniqueIdentifier" : "8C6D8972-947D-4D0E-B7B9-344ED3BAE53B",
+        "longitude" : -121.178001,
+        "precipTodayMetric" : 0,
+        "windKPH" : 6.4,
+        "windDegrees" : 274,
+        "tempC" : 18.2,
+        "weather" : "Clear",
+        "uv" : 0,
+        "dewpointC" : 12,
+        "visibilityKM" : 16.1
+      },
+      "date" : "2015-08-15T05:54:41-0700",
+      "responses" : [
+        {
+          "questionPrompt" : "How did you sleep?",
+          "answeredOptions" : [
+            "Ok"
+          ],
+          "uniqueIdentifier" : "1A535087-99FA-44BE-BA98-15525F30E63F"
+        }
+      ]
+    }
+  ],
+  "questions" : [
+    {
+      "prompt" : "How did you sleep?",
+      "questionType" : 1,
+      "uniqueIdentifier" : "default-question-1"
+    },
+    {
+      "prompt" : "Are you working?",
+      "questionType" : 2,
+      "uniqueIdentifier" : "default-question-2"
+    },
+    {
+      "prompt" : "How many coffees did you have today?",
+      "questionType" : 5,
+      "uniqueIdentifier" : "default-question-6"
+    },
+    {
+      "prompt" : "What are you doing?",
+      "questionType" : 0,
+      "uniqueIdentifier" : "default-question-3"
+    },
+    {
+      "prompt" : "Who are you with?",
+      "questionType" : 4,
+      "uniqueIdentifier" : "default-question-5",
+      "placeholderString" : "No one"
+    },
+    {
+      "prompt" : "Where are you?",
+      "questionType" : 3,
+      "uniqueIdentifier" : "default-question-4"
+    },
+    {
+      "prompt" : "What did you learn today?",
+      "questionType" : 6,
+      "uniqueIdentifier" : "default-question-7"
+    },
+    {
+      "prompt" : "What is the weather like?",
+      "questionType" : 0,
+      "uniqueIdentifier" : "C6D94168-5AB1-4EFC-9247-DEDD4126FF80"
+    },
+    {
+      "prompt" : "Have you seen an animal?",
+      "questionType" : 0,
+      "uniqueIdentifier" : "8A43B95E-2E90-45B9-8EA8-3B9539F90B00"
+    }
+  ]
+}

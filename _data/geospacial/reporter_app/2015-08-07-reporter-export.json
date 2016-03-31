@@ -1,0 +1,542 @@
+{
+  "snapshots" : [
+    {
+      "battery" : 0.93,
+      "location" : {
+        "altitude" : 570.2810668945312,
+        "timestamp" : "2015-08-07T07:51:08-0700",
+        "verticalAccuracy" : 10,
+        "longitude" : -117.5920035777654,
+        "latitude" : 46.47390755994993,
+        "course" : 0,
+        "uniqueIdentifier" : "E30758D0-C364-45FE-BF15-15632CD1188A",
+        "placemark" : {
+          "thoroughfare" : "Main St",
+          "postalCode" : "99347",
+          "subAdministrativeArea" : "Garfield",
+          "subThoroughfare" : "1086–1148",
+          "region" : "<+46.47399649,-117.59200260> radius 141.65",
+          "uniqueIdentifier" : "037ACEF9-981F-42A7-A8D9-05D54E65ECF1",
+          "locality" : "Pomeroy",
+          "name" : "1086–1148 Main St",
+          "country" : "United States",
+          "administrativeArea" : "WA"
+        },
+        "horizontalAccuracy" : 65,
+        "speed" : -1
+      },
+      "altitude" : {
+        "gpsRawAltitude" : 570.2810668945312,
+        "gpsAltitudeFromLocation" : 574.4702150000001,
+        "uniqueIdentifier" : "FBD7B8CE-3B76-41FF-932E-1AF08D402CCF"
+      },
+      "reportImpetus" : 4,
+      "steps" : -1,
+      "audio" : {
+        "avg" : -46.58049,
+        "uniqueIdentifier" : "0D44EFF0-50CF-4B21-986E-CB07B4148F78",
+        "peak" : -33.52062
+      },
+      "sectionIdentifier" : "1-2015-8-7",
+      "uniqueIdentifier" : "F4EE0383-D1CA-46F3-B98F-B6EAA51C3CA4",
+      "connection" : 0,
+      "background" : 0,
+      "draft" : 0,
+      "weather" : {
+        "windMPH" : 0,
+        "windDirection" : "SSE",
+        "tempF" : 67.09999999999999,
+        "precipTodayIn" : 0,
+        "windGustKPH" : 0,
+        "feelslikeC" : 19.5,
+        "visibilityMi" : 10,
+        "feelslikeF" : 67.09999999999999,
+        "stationID" : "KWAPOMER1",
+        "latitude" : 46.466923,
+        "windGustMPH" : 0,
+        "pressureIn" : 29.96,
+        "pressureMb" : 1014,
+        "relativeHumidity" : "38%",
+        "uniqueIdentifier" : "4A69A576-F045-404C-B42E-725D28565064",
+        "longitude" : -117.595833,
+        "precipTodayMetric" : 0,
+        "windKPH" : 0,
+        "windDegrees" : 167,
+        "tempC" : 19.5,
+        "weather" : "Clear",
+        "uv" : 1,
+        "dewpointC" : 5,
+        "visibilityKM" : 16.1
+      },
+      "date" : "2015-08-07T07:51:04-0700",
+      "responses" : [
+        {
+          "questionPrompt" : "How did you sleep?",
+          "answeredOptions" : [
+            "Great"
+          ],
+          "uniqueIdentifier" : "54AEA129-A3A9-459C-9AB9-946A9EA919F7"
+        }
+      ]
+    },
+    {
+      "battery" : 0.83,
+      "location" : {
+        "altitude" : 619,
+        "timestamp" : "2015-08-07T10:38:09-0700",
+        "verticalAccuracy" : 16,
+        "longitude" : -117.9367512558754,
+        "latitude" : 46.39179167807697,
+        "course" : 0,
+        "uniqueIdentifier" : "B215A0D3-B014-4648-B73F-393D5AFCEA25",
+        "placemark" : {
+          "thoroughfare" : "Highway 12",
+          "postalCode" : "99328",
+          "subAdministrativeArea" : "Columbia",
+          "subThoroughfare" : "37722–37882",
+          "region" : "<+46.39171919,-117.93667530> radius 141.65",
+          "uniqueIdentifier" : "B80D8ECB-46A7-4DD4-B65A-F063C781EF06",
+          "locality" : "Dayton",
+          "name" : "37722–37882 Highway 12",
+          "country" : "United States",
+          "administrativeArea" : "WA"
+        },
+        "horizontalAccuracy" : 10,
+        "speed" : -1
+      },
+      "altitude" : {
+        "gpsRawAltitude" : 619,
+        "gpsAltitudeFromLocation" : 637.388672,
+        "uniqueIdentifier" : "5C048423-4B94-4561-B6C0-A49B0F625FDA"
+      },
+      "reportImpetus" : 0,
+      "steps" : -1,
+      "audio" : {
+        "avg" : -46.58599,
+        "uniqueIdentifier" : "30E10608-845A-473D-BBE3-9C35C06A100D",
+        "peak" : -33.78319
+      },
+      "sectionIdentifier" : "1-2015-8-7",
+      "uniqueIdentifier" : "49519805-FA8C-4E75-97B9-6D5FDA2280CA",
+      "connection" : 0,
+      "background" : 0,
+      "draft" : 0,
+      "weather" : {
+        "windMPH" : 3.3,
+        "windDirection" : "NW",
+        "tempF" : 76.90000000000001,
+        "precipTodayIn" : 0,
+        "windGustKPH" : 9.699999999999999,
+        "feelslikeC" : 24.9,
+        "visibilityMi" : 10,
+        "feelslikeF" : 76.90000000000001,
+        "stationID" : "KWADAYTO1",
+        "latitude" : 46.316727,
+        "windGustMPH" : 6,
+        "pressureIn" : 29.91,
+        "pressureMb" : 1013,
+        "relativeHumidity" : "24%",
+        "uniqueIdentifier" : "9EA19DCC-5875-4536-9FDE-AFA55E787FF8",
+        "longitude" : -117.974998,
+        "precipTodayMetric" : 0,
+        "windKPH" : 5.3,
+        "windDegrees" : 320,
+        "tempC" : 24.9,
+        "weather" : "Clear",
+        "uv" : 6,
+        "dewpointC" : 3,
+        "visibilityKM" : 16.1
+      },
+      "date" : "2015-08-07T10:38:04-0700",
+      "responses" : [
+        {
+          "questionPrompt" : "Who are you with?",
+          "tokens" : [
+            {
+              "text" : "DAD",
+              "uniqueIdentifier" : "6EF834B9-C0DA-4BD3-94C9-B44ED828B4D5"
+            }
+          ],
+          "uniqueIdentifier" : "ED6EA188-3297-43D6-9131-46C4D82875D9"
+        },
+        {
+          "questionPrompt" : "What are you doing?",
+          "tokens" : [
+            {
+              "text" : "Drink stop",
+              "uniqueIdentifier" : "37C83FE8-1978-410F-AF2B-CA5A0D865DF0"
+            }
+          ],
+          "uniqueIdentifier" : "338D24D2-840E-4E0C-AA0D-9913AE565551"
+        },
+        {
+          "questionPrompt" : "Are you working?",
+          "answeredOptions" : [
+            "No"
+          ],
+          "uniqueIdentifier" : "5F875A65-F62E-4A4B-91F2-A44CABD800DA"
+        },
+        {
+          "questionPrompt" : "Have you seen an animal?",
+          "tokens" : [
+            {
+              "text" : "Hawk",
+              "uniqueIdentifier" : "64500B8C-1B0F-4382-BADB-47FCC9A7C24A"
+            }
+          ],
+          "uniqueIdentifier" : "4C1A7A5D-753B-40B6-BD6A-7C01FFD17FBB"
+        },
+        {
+          "questionPrompt" : "What is the weather like?",
+          "tokens" : [
+            {
+              "text" : "Sunny",
+              "uniqueIdentifier" : "BE5C21E8-AA75-4D9D-BE9F-E0C590970D1B"
+            }
+          ],
+          "uniqueIdentifier" : "71C32EF2-2963-49A3-86A6-00A20E046DC6"
+        },
+        {
+          "questionPrompt" : "Where are you?",
+          "uniqueIdentifier" : "92B150FA-8ABC-4482-AD46-51F2CD299CCC"
+        }
+      ]
+    },
+    {
+      "battery" : 0.67,
+      "location" : {
+        "altitude" : 488.1517944335938,
+        "timestamp" : "2015-08-07T12:40:20-0700",
+        "verticalAccuracy" : 10,
+        "longitude" : -117.9788300133165,
+        "latitude" : 46.32078161650566,
+        "course" : 0,
+        "uniqueIdentifier" : "20E458CE-EB3D-4E4C-B788-ACD453A4C2D0",
+        "placemark" : {
+          "thoroughfare" : "E Main St",
+          "postalCode" : "99328",
+          "subAdministrativeArea" : "Columbia",
+          "subThoroughfare" : "309",
+          "region" : "<+46.32079690,-117.97895550> radius 70.83",
+          "uniqueIdentifier" : "FF71EE86-9C5B-454F-9309-9183B50E32E9",
+          "locality" : "Dayton",
+          "name" : "309 E Main St",
+          "country" : "United States",
+          "administrativeArea" : "WA"
+        },
+        "horizontalAccuracy" : 65,
+        "speed" : -1
+      },
+      "altitude" : {
+        "gpsRawAltitude" : 488.1517944335938,
+        "gpsAltitudeFromLocation" : 490.927429,
+        "uniqueIdentifier" : "94391C02-6C23-4A42-A41A-303CFB150DBB"
+      },
+      "reportImpetus" : 0,
+      "steps" : -1,
+      "audio" : {
+        "avg" : -42.11623,
+        "uniqueIdentifier" : "66404C84-4491-490E-B4F4-CA8B5C07DAA7",
+        "peak" : -30.65714
+      },
+      "photoSet" : {
+        "photos" : [
+          {
+            "brightnessValue" : 4.96059,
+            "meteringMode" : 5,
+            "focalLengthIn35mm" : 35,
+            "sceneCaptureType" : 0,
+            "exposureMode" : 0,
+            "resolutionUnit" : 2,
+            "make" : "Apple",
+            "software" : "8.4",
+            "assetUrl" : "assets-library:\/\/asset\/asset.JPG?id=808CE1F6-84DB-4734-92CD-FBD93F6DEF73&ext=JPG",
+            "isoSpeed" : 80,
+            "exposureTime" : 0.008333334,
+            "shutterSpeed" : 6.906948,
+            "depth" : 8,
+            "latitude" : 0,
+            "fNumber" : 2.4,
+            "sensingMode" : 2,
+            "uniqueIdentifier" : "99031C2D-D757-4F9C-BC7F-C1E51BD0AEF8",
+            "longitude" : 0,
+            "apertureValue" : 2.526069,
+            "focalLength" : 4.28,
+            "model" : "iPhone 4S",
+            "altitude" : 0,
+            "exposureProgram" : 2,
+            "pixelWidth" : 3264,
+            "dateTime" : "2015-08-07T12:17:30-0700",
+            "flash" : 16,
+            "orientation" : 3,
+            "pixelHeight" : 2448,
+            "whiteBalance" : 0
+          },
+          {
+            "brightnessValue" : 4.867383,
+            "meteringMode" : 5,
+            "focalLengthIn35mm" : 35,
+            "sceneCaptureType" : 0,
+            "exposureMode" : 0,
+            "resolutionUnit" : 2,
+            "make" : "Apple",
+            "software" : "8.4",
+            "assetUrl" : "assets-library:\/\/asset\/asset.JPG?id=550D8557-85EA-4045-B6E3-D5D58A51D8CF&ext=JPG",
+            "isoSpeed" : 50,
+            "exposureTime" : 0.01666667,
+            "shutterSpeed" : 5.906948,
+            "depth" : 8,
+            "latitude" : 0,
+            "fNumber" : 2.4,
+            "sensingMode" : 2,
+            "uniqueIdentifier" : "7B849DD1-9523-44C1-8825-A494D43F9900",
+            "longitude" : 0,
+            "apertureValue" : 2.526069,
+            "focalLength" : 4.28,
+            "model" : "iPhone 4S",
+            "altitude" : 0,
+            "exposureProgram" : 2,
+            "pixelWidth" : 3264,
+            "dateTime" : "2015-08-07T12:17:33-0700",
+            "flash" : 16,
+            "orientation" : 3,
+            "pixelHeight" : 2448,
+            "whiteBalance" : 0
+          }
+        ],
+        "uniqueIdentifier" : "F8AA7C2B-BE3F-435E-A8DB-0F8BE1AEB57A"
+      },
+      "sectionIdentifier" : "1-2015-8-7",
+      "uniqueIdentifier" : "031BD583-E90E-4DCE-8BA1-9A3BF97736FA",
+      "connection" : 0,
+      "background" : 0,
+      "draft" : 0,
+      "weather" : {
+        "windMPH" : 5.8,
+        "windDirection" : "WNW",
+        "tempF" : 81.5,
+        "precipTodayIn" : 0,
+        "windGustKPH" : 16.7,
+        "feelslikeC" : 26,
+        "visibilityMi" : 10,
+        "feelslikeF" : 81.5,
+        "stationID" : "KWADAYTO1",
+        "latitude" : 46.316727,
+        "windGustMPH" : 10.4,
+        "pressureIn" : 29.89,
+        "pressureMb" : 1012,
+        "relativeHumidity" : "20%",
+        "uniqueIdentifier" : "6B641723-C32A-4F68-BFF2-1266A96C86F0",
+        "longitude" : -117.974998,
+        "precipTodayMetric" : 0,
+        "windKPH" : 9.300000000000001,
+        "windDegrees" : 284,
+        "tempC" : 27.5,
+        "weather" : "Clear",
+        "uv" : 9,
+        "dewpointC" : 2,
+        "visibilityKM" : 16.1
+      },
+      "date" : "2015-08-07T12:40:19-0700",
+      "responses" : [
+        {
+          "questionPrompt" : "Who are you with?",
+          "tokens" : [
+            {
+              "text" : "DAD",
+              "uniqueIdentifier" : "6EF834B9-C0DA-4BD3-94C9-B44ED828B4D5"
+            }
+          ],
+          "uniqueIdentifier" : "ED6EA188-3297-43D6-9131-46C4D82875D9"
+        },
+        {
+          "questionPrompt" : "Are you working?",
+          "answeredOptions" : [
+            "No"
+          ],
+          "uniqueIdentifier" : "5F875A65-F62E-4A4B-91F2-A44CABD800DA"
+        },
+        {
+          "questionPrompt" : "Have you seen an animal?",
+          "tokens" : [
+            {
+              "text" : "Dog",
+              "uniqueIdentifier" : "4F987BE5-A043-40DD-80D3-A944A2AEAC89"
+            }
+          ],
+          "uniqueIdentifier" : "21437D6F-9B26-4373-B549-352DE9954FAD"
+        },
+        {
+          "questionPrompt" : "Where are you?",
+          "locationResponse" : {
+            "uniqueIdentifier" : "8E710D78-317D-4B09-A0F8-B6C827EDDA34",
+            "text" : "Historic Dayton Train Depot",
+            "location" : {
+              "altitude" : 0,
+              "timestamp" : "2015-08-07T12:40:34-0700",
+              "verticalAccuracy" : -1,
+              "longitude" : -117.980160284237,
+              "latitude" : 46.32052131963658,
+              "course" : 0,
+              "uniqueIdentifier" : "45571D75-9CD0-4E09-8E57-1034E7DB141E",
+              "horizontalAccuracy" : 0,
+              "speed" : -1
+            },
+            "foursquareVenueId" : "4e650e60d164ddd5e6e11cf9"
+          },
+          "uniqueIdentifier" : "9F9FB6F2-397C-4C93-9502-4AE0B0336798"
+        },
+        {
+          "questionPrompt" : "What is the weather like?",
+          "tokens" : [
+            {
+              "text" : "Sunny",
+              "uniqueIdentifier" : "BE5C21E8-AA75-4D9D-BE9F-E0C590970D1B"
+            }
+          ],
+          "uniqueIdentifier" : "71C32EF2-2963-49A3-86A6-00A20E046DC6"
+        },
+        {
+          "questionPrompt" : "What are you doing?",
+          "tokens" : [
+            {
+              "text" : "Drink stop",
+              "uniqueIdentifier" : "37C83FE8-1978-410F-AF2B-CA5A0D865DF0"
+            }
+          ],
+          "uniqueIdentifier" : "338D24D2-840E-4E0C-AA0D-9913AE565551"
+        }
+      ]
+    },
+    {
+      "battery" : 0.73,
+      "location" : {
+        "altitude" : 469,
+        "timestamp" : "2015-08-07T20:17:47-0700",
+        "verticalAccuracy" : 12,
+        "longitude" : -117.9882576317694,
+        "latitude" : 46.31665520839982,
+        "course" : 0,
+        "uniqueIdentifier" : "42927D00-652F-4D89-845A-84326B6B927E",
+        "placemark" : {
+          "thoroughfare" : "W Main St",
+          "postalCode" : "99328",
+          "subAdministrativeArea" : "Columbia",
+          "subThoroughfare" : "414",
+          "region" : "<+46.31641460,-117.98824150> radius 70.83",
+          "uniqueIdentifier" : "49453DD5-9DBA-4C42-A011-AA5355E246BF",
+          "locality" : "Dayton",
+          "name" : "414 W Main St",
+          "country" : "United States",
+          "administrativeArea" : "WA"
+        },
+        "horizontalAccuracy" : 10,
+        "speed" : 0
+      },
+      "altitude" : {
+        "gpsRawAltitude" : 469,
+        "gpsAltitudeFromLocation" : 479.536133,
+        "uniqueIdentifier" : "A08E3D13-4804-4E01-BAB0-F837B60CE7B2"
+      },
+      "reportImpetus" : 3,
+      "steps" : -1,
+      "audio" : {
+        "avg" : -41.53365,
+        "uniqueIdentifier" : "536992E0-E16A-4B6A-9A53-B68571746C45",
+        "peak" : -32.66883
+      },
+      "sectionIdentifier" : "1-2015-8-7",
+      "uniqueIdentifier" : "431CE2DE-9E40-4465-A61C-B56C6384CA90",
+      "connection" : 0,
+      "background" : 0,
+      "draft" : 0,
+      "weather" : {
+        "windMPH" : 1.6,
+        "windDirection" : "NE",
+        "tempF" : 78.3,
+        "precipTodayIn" : 0,
+        "windGustKPH" : 3.7,
+        "feelslikeC" : 25.7,
+        "visibilityMi" : 10,
+        "feelslikeF" : 78.3,
+        "stationID" : "KWADAYTO1",
+        "latitude" : 46.316727,
+        "windGustMPH" : 2.3,
+        "pressureIn" : 29.75,
+        "pressureMb" : 1008,
+        "relativeHumidity" : "21%",
+        "uniqueIdentifier" : "64E69C57-66DA-42B5-8DAA-77809F2D511F",
+        "longitude" : -117.974998,
+        "precipTodayMetric" : 0,
+        "windKPH" : 2.6,
+        "windDegrees" : 45,
+        "tempC" : 25.7,
+        "weather" : "Clear",
+        "uv" : 0,
+        "dewpointC" : 2,
+        "visibilityKM" : 16.1
+      },
+      "date" : "2015-08-07T20:17:46-0700",
+      "responses" : [
+        {
+          "questionPrompt" : "What did you learn today?",
+          "textResponses" : [
+            {
+              "text" : "The cafe in Dayton Washington is awesome",
+              "uniqueIdentifier" : "C0BFD79F-EDED-467C-8948-0514528C2A7E"
+            }
+          ],
+          "uniqueIdentifier" : "7512B6A9-4C7E-4247-861E-D508E8690779"
+        }
+      ]
+    }
+  ],
+  "questions" : [
+    {
+      "prompt" : "How did you sleep?",
+      "questionType" : 1,
+      "uniqueIdentifier" : "default-question-1"
+    },
+    {
+      "prompt" : "Are you working?",
+      "questionType" : 2,
+      "uniqueIdentifier" : "default-question-2"
+    },
+    {
+      "prompt" : "How many coffees did you have today?",
+      "questionType" : 5,
+      "uniqueIdentifier" : "default-question-6"
+    },
+    {
+      "prompt" : "What are you doing?",
+      "questionType" : 0,
+      "uniqueIdentifier" : "default-question-3"
+    },
+    {
+      "prompt" : "Who are you with?",
+      "questionType" : 4,
+      "uniqueIdentifier" : "default-question-5",
+      "placeholderString" : "No one"
+    },
+    {
+      "prompt" : "Where are you?",
+      "questionType" : 3,
+      "uniqueIdentifier" : "default-question-4"
+    },
+    {
+      "prompt" : "What did you learn today?",
+      "questionType" : 6,
+      "uniqueIdentifier" : "default-question-7"
+    },
+    {
+      "prompt" : "What is the weather like?",
+      "questionType" : 0,
+      "uniqueIdentifier" : "C6D94168-5AB1-4EFC-9247-DEDD4126FF80"
+    },
+    {
+      "prompt" : "Have you seen an animal?",
+      "questionType" : 0,
+      "uniqueIdentifier" : "8A43B95E-2E90-45B9-8EA8-3B9539F90B00"
+    }
+  ]
+}

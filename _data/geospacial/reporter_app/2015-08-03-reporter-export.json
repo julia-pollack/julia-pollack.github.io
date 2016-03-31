@@ -1,0 +1,248 @@
+{
+  "snapshots" : [
+    {
+      "battery" : 0.36,
+      "location" : {
+        "altitude" : 360,
+        "timestamp" : "2015-08-03T21:40:31-0700",
+        "verticalAccuracy" : 4,
+        "longitude" : -116.0210968741365,
+        "latitude" : 46.22933782175763,
+        "course" : 0,
+        "uniqueIdentifier" : "42E7E9E5-AA3C-4522-A968-4676BA0833E1",
+        "placemark" : {
+          "thoroughfare" : "3rd St",
+          "postalCode" : "83536",
+          "subAdministrativeArea" : "Lewis",
+          "subThoroughfare" : "110–112",
+          "region" : "<+46.22930479,-116.02108460> radius 141.66",
+          "uniqueIdentifier" : "1DC45F1E-9039-4168-8A23-5B19D287AD1D",
+          "locality" : "Kamiah",
+          "name" : "110–112 3rd St",
+          "country" : "United States",
+          "administrativeArea" : "ID"
+        },
+        "horizontalAccuracy" : 30,
+        "speed" : -1
+      },
+      "altitude" : {
+        "gpsRawAltitude" : 360,
+        "gpsAltitudeFromLocation" : 366.472748,
+        "uniqueIdentifier" : "31BCD1BF-F2E1-41F8-9DDE-51D8D1B233C6"
+      },
+      "reportImpetus" : 4,
+      "steps" : -1,
+      "audio" : {
+        "avg" : -47.31791,
+        "uniqueIdentifier" : "7A2D1865-44EA-45EB-9FE3-6FF49FAC2A58",
+        "peak" : -32.69805
+      },
+      "photoSet" : {
+        "photos" : [
+          {
+            "brightnessValue" : 7.095085,
+            "meteringMode" : 5,
+            "focalLengthIn35mm" : 35,
+            "sceneCaptureType" : 0,
+            "exposureMode" : 0,
+            "resolutionUnit" : 2,
+            "make" : "Apple",
+            "software" : "8.4",
+            "assetUrl" : "assets-library:\/\/asset\/asset.JPG?id=0341D133-D3B7-4E58-A5D2-F5775C2B81FB&ext=JPG",
+            "isoSpeed" : 50,
+            "exposureTime" : 0.003703704,
+            "shutterSpeed" : 8.07943,
+            "depth" : 8,
+            "latitude" : 0,
+            "fNumber" : 2.4,
+            "sensingMode" : 2,
+            "uniqueIdentifier" : "407A4797-61C1-40A6-98FF-5BCDBD393203",
+            "longitude" : 0,
+            "apertureValue" : 2.526069,
+            "focalLength" : 4.28,
+            "model" : "iPhone 4S",
+            "altitude" : 0,
+            "exposureProgram" : 2,
+            "pixelWidth" : 3264,
+            "dateTime" : "2015-08-03T14:15:55-0700",
+            "flash" : 16,
+            "orientation" : 1,
+            "pixelHeight" : 2448,
+            "whiteBalance" : 0
+          }
+        ],
+        "uniqueIdentifier" : "FF9E46E0-C1BD-49EB-AAFC-50C8762187B1"
+      },
+      "sectionIdentifier" : "1-2015-8-3",
+      "uniqueIdentifier" : "4BEBD133-49B8-4EB2-A7F0-562BAC434577",
+      "connection" : 1,
+      "background" : 0,
+      "draft" : 0,
+      "weather" : {
+        "windMPH" : 0,
+        "windDirection" : "SSW",
+        "tempF" : 82.40000000000001,
+        "precipTodayIn" : 0,
+        "windGustKPH" : 0,
+        "feelslikeC" : 27,
+        "visibilityMi" : 10,
+        "feelslikeF" : 82.40000000000001,
+        "stationID" : "KIDKAMIA1",
+        "latitude" : 46.218361,
+        "windGustMPH" : 0,
+        "pressureIn" : 29.81,
+        "pressureMb" : 1009,
+        "relativeHumidity" : "26%",
+        "uniqueIdentifier" : "6946A6EC-C0B0-44A6-8E0E-78C8AE29A501",
+        "longitude" : -116.032997,
+        "precipTodayMetric" : 0,
+        "windKPH" : 0,
+        "windDegrees" : 202,
+        "tempC" : 28,
+        "weather" : "Partly Cloudy",
+        "uv" : 0,
+        "dewpointC" : 7,
+        "visibilityKM" : 16.1
+      },
+      "date" : "2015-08-03T21:40:20-0700",
+      "responses" : [
+        {
+          "questionPrompt" : "How did you sleep?",
+          "answeredOptions" : [
+            "Ok"
+          ],
+          "uniqueIdentifier" : "1A535087-99FA-44BE-BA98-15525F30E63F"
+        }
+      ]
+    },
+    {
+      "battery" : 0.36,
+      "location" : {
+        "altitude" : 360,
+        "timestamp" : "2015-08-03T21:40:38-0700",
+        "verticalAccuracy" : 2,
+        "longitude" : -116.0213327408917,
+        "latitude" : 46.22956170239134,
+        "course" : 0,
+        "uniqueIdentifier" : "208DDD48-025E-4005-B09A-2E3DE38CCE5A",
+        "placemark" : {
+          "thoroughfare" : "Cedar St",
+          "postalCode" : "83536",
+          "subAdministrativeArea" : "Lewis",
+          "region" : "<+46.22956469,-116.02138710> radius 141.66",
+          "uniqueIdentifier" : "1E4B9218-AB1C-491B-BFFD-09CDEDDF062F",
+          "locality" : "Kamiah",
+          "name" : "Cedar St",
+          "country" : "United States",
+          "administrativeArea" : "ID"
+        },
+        "horizontalAccuracy" : 10,
+        "speed" : 0.2101346254348755
+      },
+      "altitude" : {
+        "gpsRawAltitude" : 360,
+        "gpsAltitudeFromLocation" : 365.655457,
+        "uniqueIdentifier" : "749AFF2E-EBD2-4A0F-AFC9-54664070C3F6"
+      },
+      "reportImpetus" : 3,
+      "steps" : -1,
+      "audio" : {
+        "avg" : -42.70303,
+        "uniqueIdentifier" : "0F749FCA-959E-40B1-AA53-31786DA05FA3",
+        "peak" : -33.34784
+      },
+      "sectionIdentifier" : "1-2015-8-3",
+      "uniqueIdentifier" : "C04E7A2F-0CC5-48DA-BE10-7FF86F427639",
+      "connection" : 1,
+      "background" : 0,
+      "draft" : 0,
+      "weather" : {
+        "windMPH" : 0,
+        "windDirection" : "SSW",
+        "tempF" : 82.40000000000001,
+        "precipTodayIn" : 0,
+        "windGustKPH" : 0,
+        "feelslikeC" : 27,
+        "visibilityMi" : 10,
+        "feelslikeF" : 82.40000000000001,
+        "stationID" : "KIDKAMIA1",
+        "latitude" : 46.218361,
+        "windGustMPH" : 0,
+        "pressureIn" : 29.81,
+        "pressureMb" : 1009,
+        "relativeHumidity" : "26%",
+        "uniqueIdentifier" : "EF4C8939-ABDF-4955-B9B8-9E511EE406DD",
+        "longitude" : -116.032997,
+        "precipTodayMetric" : 0,
+        "windKPH" : 0,
+        "windDegrees" : 202,
+        "tempC" : 28,
+        "weather" : "Partly Cloudy",
+        "uv" : 0,
+        "dewpointC" : 7,
+        "visibilityKM" : 16.1
+      },
+      "date" : "2015-08-03T21:40:38-0700",
+      "responses" : [
+        {
+          "questionPrompt" : "What did you learn today?",
+          "textResponses" : [
+            {
+              "text" : "Kahmia public library rules",
+              "uniqueIdentifier" : "97672B96-44D9-40D7-A161-EA7E2547ED12"
+            }
+          ],
+          "uniqueIdentifier" : "BFD0ABAE-6542-41BA-8E4D-50E169BC739D"
+        }
+      ]
+    }
+  ],
+  "questions" : [
+    {
+      "prompt" : "How did you sleep?",
+      "questionType" : 1,
+      "uniqueIdentifier" : "default-question-1"
+    },
+    {
+      "prompt" : "Are you working?",
+      "questionType" : 2,
+      "uniqueIdentifier" : "default-question-2"
+    },
+    {
+      "prompt" : "How many coffees did you have today?",
+      "questionType" : 5,
+      "uniqueIdentifier" : "default-question-6"
+    },
+    {
+      "prompt" : "What are you doing?",
+      "questionType" : 0,
+      "uniqueIdentifier" : "default-question-3"
+    },
+    {
+      "prompt" : "Who are you with?",
+      "questionType" : 4,
+      "uniqueIdentifier" : "default-question-5",
+      "placeholderString" : "No one"
+    },
+    {
+      "prompt" : "Where are you?",
+      "questionType" : 3,
+      "uniqueIdentifier" : "default-question-4"
+    },
+    {
+      "prompt" : "What did you learn today?",
+      "questionType" : 6,
+      "uniqueIdentifier" : "default-question-7"
+    },
+    {
+      "prompt" : "What is the weather like?",
+      "questionType" : 0,
+      "uniqueIdentifier" : "C6D94168-5AB1-4EFC-9247-DEDD4126FF80"
+    },
+    {
+      "prompt" : "Have you seen an animal?",
+      "questionType" : 0,
+      "uniqueIdentifier" : "8A43B95E-2E90-45B9-8EA8-3B9539F90B00"
+    }
+  ]
+}

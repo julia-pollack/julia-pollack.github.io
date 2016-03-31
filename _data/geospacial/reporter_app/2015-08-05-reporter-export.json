@@ -1,0 +1,1032 @@
+{
+  "snapshots" : [
+    {
+      "battery" : 1,
+      "location" : {
+        "altitude" : 1210.483154296875,
+        "timestamp" : "2015-08-05T08:07:31-0700",
+        "verticalAccuracy" : 10,
+        "longitude" : -116.6237591601107,
+        "latitude" : 46.23975762386801,
+        "course" : 0,
+        "uniqueIdentifier" : "2A7DAD94-896A-4731-A237-DD0C60F5A4D6",
+        "placemark" : {
+          "thoroughfare" : "Camas St",
+          "postalCode" : "83555",
+          "subAdministrativeArea" : "Lewis",
+          "region" : "<+46.23946209,-116.62375430> radius 141.66",
+          "uniqueIdentifier" : "BF338B13-7AE2-4880-8C7D-94206ACE6182",
+          "locality" : "Winchester",
+          "name" : "Camas St",
+          "country" : "United States",
+          "administrativeArea" : "ID"
+        },
+        "horizontalAccuracy" : 65,
+        "speed" : -1
+      },
+      "altitude" : {
+        "gpsRawAltitude" : 1210.483154296875,
+        "gpsAltitudeFromLocation" : 1212.780884,
+        "uniqueIdentifier" : "30FC7450-0CB6-410A-B248-C82458179EC5"
+      },
+      "reportImpetus" : 3,
+      "steps" : -1,
+      "audio" : {
+        "avg" : -56.49698,
+        "uniqueIdentifier" : "C93E9F2C-D486-469E-A04D-3023D36DE3F5",
+        "peak" : -35.47027
+      },
+      "sectionIdentifier" : "1-2015-8-5",
+      "uniqueIdentifier" : "231638C5-89C3-4818-BD3A-F3EB8F6EFAE9",
+      "connection" : 1,
+      "background" : 0,
+      "draft" : 0,
+      "weather" : {
+        "windMPH" : 2.3,
+        "windDirection" : "NNW",
+        "tempF" : 59.7,
+        "precipTodayIn" : 0.02,
+        "windGustKPH" : 3.7,
+        "feelslikeC" : 15.4,
+        "visibilityMi" : 10,
+        "feelslikeF" : 59.7,
+        "stationID" : "KIDCRAIG2",
+        "latitude" : 46.244511,
+        "windGustMPH" : 2.3,
+        "pressureIn" : 30,
+        "pressureMb" : 1016,
+        "relativeHumidity" : "49%",
+        "uniqueIdentifier" : "354C5200-506E-48BC-BDEA-262D911C98BA",
+        "longitude" : -116.471939,
+        "precipTodayMetric" : 1,
+        "windKPH" : 3.7,
+        "windDegrees" : 333,
+        "tempC" : 15.4,
+        "weather" : "Mostly Cloudy",
+        "uv" : 1,
+        "dewpointC" : 5,
+        "visibilityKM" : 16.1
+      },
+      "date" : "2015-08-05T08:07:29-0700",
+      "responses" : [
+        {
+          "questionPrompt" : "What did you learn today?",
+          "textResponses" : [
+            {
+              "text" : "Hot western idaho",
+              "uniqueIdentifier" : "1C2816C1-FDD3-444E-9E08-20BA6E321DEE"
+            }
+          ],
+          "uniqueIdentifier" : "B1FF3E70-C7A8-4CA7-8CB2-CB63B8862D83"
+        }
+      ]
+    },
+    {
+      "battery" : 1,
+      "location" : {
+        "altitude" : 1212.406860351562,
+        "timestamp" : "2015-08-05T08:07:49-0700",
+        "verticalAccuracy" : 10,
+        "longitude" : -116.624149679288,
+        "latitude" : 46.23974270671984,
+        "course" : 0,
+        "uniqueIdentifier" : "6A64BFB6-9F70-4AB2-A194-6E644F5F6793",
+        "placemark" : {
+          "thoroughfare" : "Joseph Ave",
+          "postalCode" : "83555",
+          "subAdministrativeArea" : "Lewis",
+          "subThoroughfare" : "317",
+          "region" : "<+46.23987140,-116.62451580> radius 70.83",
+          "uniqueIdentifier" : "39B6FEB8-FD2F-48E4-98FF-690BC760C42D",
+          "locality" : "Winchester",
+          "name" : "317 Joseph Ave",
+          "country" : "United States",
+          "administrativeArea" : "ID"
+        },
+        "horizontalAccuracy" : 69.41320750606599,
+        "speed" : -1
+      },
+      "altitude" : {
+        "gpsRawAltitude" : 1212.406860351562,
+        "gpsAltitudeFromLocation" : 1212.669678,
+        "uniqueIdentifier" : "D3E965B9-F35D-4A9E-A828-43978DBFF7D9"
+      },
+      "reportImpetus" : 4,
+      "steps" : -1,
+      "audio" : {
+        "avg" : -44.98833,
+        "uniqueIdentifier" : "EF476CC8-A12D-4976-BF23-C95FB4B64E0B",
+        "peak" : -34.94754
+      },
+      "sectionIdentifier" : "1-2015-8-5",
+      "uniqueIdentifier" : "E51D8CFF-D3FA-4AAD-ACC2-BADF8FBFBE2F",
+      "connection" : 1,
+      "background" : 0,
+      "draft" : 0,
+      "weather" : {
+        "windMPH" : 2.3,
+        "windDirection" : "NNW",
+        "tempF" : 59.7,
+        "precipTodayIn" : 0.02,
+        "windGustKPH" : 3.7,
+        "feelslikeC" : 15.4,
+        "visibilityMi" : 10,
+        "feelslikeF" : 59.7,
+        "stationID" : "KIDCRAIG2",
+        "latitude" : 46.244511,
+        "windGustMPH" : 2.3,
+        "pressureIn" : 30,
+        "pressureMb" : 1016,
+        "relativeHumidity" : "49%",
+        "uniqueIdentifier" : "00E5F546-0895-4B3B-B302-FDDE3EE54859",
+        "longitude" : -116.471939,
+        "precipTodayMetric" : 1,
+        "windKPH" : 3.7,
+        "windDegrees" : 333,
+        "tempC" : 15.4,
+        "weather" : "Mostly Cloudy",
+        "uv" : 1,
+        "dewpointC" : 5,
+        "visibilityKM" : 16.1
+      },
+      "date" : "2015-08-05T08:07:49-0700",
+      "responses" : [
+        {
+          "questionPrompt" : "How did you sleep?",
+          "answeredOptions" : [
+            "Ok"
+          ],
+          "uniqueIdentifier" : "1A535087-99FA-44BE-BA98-15525F30E63F"
+        }
+      ]
+    },
+    {
+      "battery" : 0.95,
+      "reportImpetus" : 0,
+      "steps" : -1,
+      "audio" : {
+        "avg" : -58.97604,
+        "uniqueIdentifier" : "0F68F645-6F97-4C20-AC46-CEF6BB8A16E6",
+        "peak" : -35.32964
+      },
+      "photoSet" : {
+        "photos" : [
+          {
+            "brightnessValue" : 10.85704,
+            "meteringMode" : 5,
+            "focalLengthIn35mm" : 35,
+            "sceneCaptureType" : 0,
+            "exposureMode" : 0,
+            "resolutionUnit" : 2,
+            "make" : "Apple",
+            "software" : "8.4",
+            "assetUrl" : "assets-library:\/\/asset\/asset.JPG?id=A356808A-A40B-4F71-B676-9A786B0C544A&ext=JPG",
+            "isoSpeed" : 50,
+            "exposureTime" : 0.0003979308,
+            "shutterSpeed" : 11.29494,
+            "depth" : 8,
+            "latitude" : 0,
+            "fNumber" : 2.4,
+            "sensingMode" : 2,
+            "uniqueIdentifier" : "FEF79A03-AF1F-45EA-A5A5-A73FF0DAA5C0",
+            "longitude" : 0,
+            "apertureValue" : 2.526069,
+            "focalLength" : 4.28,
+            "model" : "iPhone 4S",
+            "altitude" : 0,
+            "exposureProgram" : 2,
+            "pixelWidth" : 3264,
+            "dateTime" : "2015-08-05T08:56:31-0700",
+            "flash" : 16,
+            "orientation" : 3,
+            "pixelHeight" : 2448,
+            "whiteBalance" : 0
+          },
+          {
+            "brightnessValue" : 9.629553,
+            "meteringMode" : 5,
+            "focalLengthIn35mm" : 35,
+            "sceneCaptureType" : 0,
+            "exposureMode" : 0,
+            "resolutionUnit" : 2,
+            "make" : "Apple",
+            "software" : "8.4",
+            "assetUrl" : "assets-library:\/\/asset\/asset.JPG?id=8F69A3A1-097D-47C2-A658-C6944030B68E&ext=JPG",
+            "isoSpeed" : 50,
+            "exposureTime" : 0.0006697924,
+            "shutterSpeed" : 10.54355,
+            "depth" : 8,
+            "latitude" : 0,
+            "fNumber" : 2.4,
+            "sensingMode" : 2,
+            "uniqueIdentifier" : "921031D6-26D9-4BE7-8CCA-037B708F6088",
+            "longitude" : 0,
+            "apertureValue" : 2.526069,
+            "focalLength" : 4.28,
+            "model" : "iPhone 4S",
+            "altitude" : 0,
+            "exposureProgram" : 2,
+            "pixelWidth" : 3264,
+            "dateTime" : "2015-08-05T08:50:38-0700",
+            "flash" : 16,
+            "orientation" : 3,
+            "pixelHeight" : 2448,
+            "whiteBalance" : 0
+          },
+          {
+            "brightnessValue" : 10.62755,
+            "meteringMode" : 5,
+            "focalLengthIn35mm" : 35,
+            "sceneCaptureType" : 0,
+            "exposureMode" : 0,
+            "resolutionUnit" : 2,
+            "make" : "Apple",
+            "software" : "8.4",
+            "assetUrl" : "assets-library:\/\/asset\/asset.JPG?id=E42C21F7-6221-423C-9E28-BE05DC38DB52&ext=JPG",
+            "isoSpeed" : 50,
+            "exposureTime" : 0.0005070994,
+            "shutterSpeed" : 10.94573,
+            "depth" : 8,
+            "latitude" : 0,
+            "fNumber" : 2.4,
+            "sensingMode" : 2,
+            "uniqueIdentifier" : "AEC8393E-E593-4001-B820-080ADC0D9E88",
+            "longitude" : 0,
+            "apertureValue" : 2.526069,
+            "focalLength" : 4.28,
+            "model" : "iPhone 4S",
+            "altitude" : 0,
+            "exposureProgram" : 2,
+            "pixelWidth" : 3264,
+            "dateTime" : "2015-08-05T08:45:39-0700",
+            "flash" : 16,
+            "orientation" : 3,
+            "pixelHeight" : 2448,
+            "whiteBalance" : 0
+          },
+          {
+            "brightnessValue" : 10.396,
+            "meteringMode" : 5,
+            "focalLengthIn35mm" : 35,
+            "sceneCaptureType" : 0,
+            "exposureMode" : 0,
+            "resolutionUnit" : 2,
+            "make" : "Apple",
+            "software" : "8.4",
+            "assetUrl" : "assets-library:\/\/asset\/asset.JPG?id=7AB1EF36-2EC9-464C-9EB7-86A454C8CB86&ext=JPG",
+            "isoSpeed" : 50,
+            "exposureTime" : 0.0004159734,
+            "shutterSpeed" : 11.23113,
+            "depth" : 8,
+            "latitude" : 0,
+            "fNumber" : 2.4,
+            "sensingMode" : 2,
+            "uniqueIdentifier" : "81B8749F-4EC3-4611-B4E4-0021B0668FDB",
+            "longitude" : 0,
+            "apertureValue" : 2.526069,
+            "focalLength" : 4.28,
+            "model" : "iPhone 4S",
+            "altitude" : 0,
+            "exposureProgram" : 2,
+            "pixelWidth" : 3264,
+            "dateTime" : "2015-08-05T08:56:36-0700",
+            "flash" : 16,
+            "orientation" : 3,
+            "pixelHeight" : 2448,
+            "whiteBalance" : 0
+          },
+          {
+            "brightnessValue" : 7.894315,
+            "meteringMode" : 5,
+            "focalLengthIn35mm" : 35,
+            "sceneCaptureType" : 0,
+            "exposureMode" : 0,
+            "resolutionUnit" : 2,
+            "make" : "Apple",
+            "software" : "8.4",
+            "assetUrl" : "assets-library:\/\/asset\/asset.JPG?id=73C980C4-6E50-44C9-8941-5802A0EE9FDC&ext=JPG",
+            "isoSpeed" : 50,
+            "exposureTime" : 0.002358491,
+            "shutterSpeed" : 8.729445,
+            "depth" : 8,
+            "latitude" : 0,
+            "fNumber" : 2.4,
+            "sensingMode" : 2,
+            "uniqueIdentifier" : "77918624-72FB-442E-8EC8-8082C835D804",
+            "longitude" : 0,
+            "apertureValue" : 2.526069,
+            "focalLength" : 4.28,
+            "model" : "iPhone 4S",
+            "altitude" : 0,
+            "exposureProgram" : 2,
+            "pixelWidth" : 3264,
+            "dateTime" : "2015-08-05T08:50:41-0700",
+            "flash" : 16,
+            "orientation" : 3,
+            "pixelHeight" : 2448,
+            "whiteBalance" : 0
+          },
+          {
+            "brightnessValue" : 10.82127,
+            "meteringMode" : 5,
+            "focalLengthIn35mm" : 35,
+            "sceneCaptureType" : 0,
+            "exposureMode" : 0,
+            "resolutionUnit" : 2,
+            "make" : "Apple",
+            "software" : "8.4",
+            "assetUrl" : "assets-library:\/\/asset\/asset.JPG?id=E59D1412-5A4A-47BD-ABE9-BE5EBB14E461&ext=JPG",
+            "isoSpeed" : 50,
+            "exposureTime" : 0.0004528986,
+            "shutterSpeed" : 11.1082,
+            "depth" : 8,
+            "latitude" : 0,
+            "fNumber" : 2.4,
+            "sensingMode" : 2,
+            "uniqueIdentifier" : "D280383D-7733-4991-B5B1-3D25618F1E67",
+            "longitude" : 0,
+            "apertureValue" : 2.526069,
+            "focalLength" : 4.28,
+            "model" : "iPhone 4S",
+            "altitude" : 0,
+            "exposureProgram" : 2,
+            "pixelWidth" : 3264,
+            "dateTime" : "2015-08-05T08:50:30-0700",
+            "flash" : 16,
+            "orientation" : 3,
+            "pixelHeight" : 2448,
+            "whiteBalance" : 0
+          },
+          {
+            "brightnessValue" : 10.54146,
+            "meteringMode" : 5,
+            "focalLengthIn35mm" : 35,
+            "sceneCaptureType" : 0,
+            "exposureMode" : 0,
+            "resolutionUnit" : 2,
+            "make" : "Apple",
+            "software" : "8.4",
+            "assetUrl" : "assets-library:\/\/asset\/asset.JPG?id=66E6D4DC-097D-4FA2-BC97-E1E9A5996D0A&ext=JPG",
+            "isoSpeed" : 50,
+            "exposureTime" : 0.0004889976,
+            "shutterSpeed" : 10.99788,
+            "depth" : 8,
+            "latitude" : 0,
+            "fNumber" : 2.4,
+            "sensingMode" : 2,
+            "uniqueIdentifier" : "BF76A5FD-2B73-4176-9057-6AE8AC9A2A11",
+            "longitude" : 0,
+            "apertureValue" : 2.526069,
+            "focalLength" : 4.28,
+            "model" : "iPhone 4S",
+            "altitude" : 0,
+            "exposureProgram" : 2,
+            "pixelWidth" : 3264,
+            "dateTime" : "2015-08-05T08:52:52-0700",
+            "flash" : 16,
+            "orientation" : 3,
+            "pixelHeight" : 2448,
+            "whiteBalance" : 0
+          },
+          {
+            "brightnessValue" : 10.60658,
+            "meteringMode" : 5,
+            "focalLengthIn35mm" : 35,
+            "sceneCaptureType" : 0,
+            "exposureMode" : 0,
+            "resolutionUnit" : 2,
+            "make" : "Apple",
+            "software" : "8.4",
+            "assetUrl" : "assets-library:\/\/asset\/asset.JPG?id=0B589D2B-6363-4350-B2DA-5D6000172D3F&ext=JPG",
+            "isoSpeed" : 50,
+            "exposureTime" : 0.0005070994,
+            "shutterSpeed" : 10.94573,
+            "depth" : 8,
+            "latitude" : 0,
+            "fNumber" : 2.4,
+            "sensingMode" : 2,
+            "uniqueIdentifier" : "275E6283-4C3D-4627-8583-278BD5ACC338",
+            "longitude" : 0,
+            "apertureValue" : 2.526069,
+            "focalLength" : 4.28,
+            "model" : "iPhone 4S",
+            "altitude" : 0,
+            "exposureProgram" : 2,
+            "pixelWidth" : 3264,
+            "dateTime" : "2015-08-05T08:50:32-0700",
+            "flash" : 16,
+            "orientation" : 3,
+            "pixelHeight" : 2448,
+            "whiteBalance" : 0
+          },
+          {
+            "brightnessValue" : 10.76233,
+            "meteringMode" : 5,
+            "focalLengthIn35mm" : 35,
+            "sceneCaptureType" : 0,
+            "exposureMode" : 0,
+            "resolutionUnit" : 2,
+            "make" : "Apple",
+            "software" : "8.4",
+            "assetUrl" : "assets-library:\/\/asset\/asset.JPG?id=4AA05F58-7284-45EA-8069-1856E88F20B4&ext=JPG",
+            "isoSpeed" : 50,
+            "exposureTime" : 0.0004528986,
+            "shutterSpeed" : 11.1082,
+            "depth" : 8,
+            "latitude" : 0,
+            "fNumber" : 2.4,
+            "sensingMode" : 2,
+            "uniqueIdentifier" : "51B76B6F-32C4-41ED-9C52-88162B047D40",
+            "longitude" : 0,
+            "apertureValue" : 2.526069,
+            "focalLength" : 4.28,
+            "model" : "iPhone 4S",
+            "altitude" : 0,
+            "exposureProgram" : 2,
+            "pixelWidth" : 3264,
+            "dateTime" : "2015-08-05T08:50:36-0700",
+            "flash" : 16,
+            "orientation" : 3,
+            "pixelHeight" : 2448,
+            "whiteBalance" : 0
+          },
+          {
+            "brightnessValue" : 10.84251,
+            "meteringMode" : 5,
+            "focalLengthIn35mm" : 35,
+            "sceneCaptureType" : 0,
+            "exposureMode" : 0,
+            "resolutionUnit" : 2,
+            "make" : "Apple",
+            "software" : "8.4",
+            "assetUrl" : "assets-library:\/\/asset\/asset.JPG?id=D1A47227-81A9-45B5-946D-BB06373F2399&ext=JPG",
+            "isoSpeed" : 50,
+            "exposureTime" : 0.0004159734,
+            "shutterSpeed" : 11.23113,
+            "depth" : 8,
+            "latitude" : 0,
+            "fNumber" : 2.4,
+            "sensingMode" : 2,
+            "uniqueIdentifier" : "3DCF5933-B5DA-4FE4-82C9-53CCDB023B76",
+            "longitude" : 0,
+            "apertureValue" : 2.526069,
+            "focalLength" : 4.28,
+            "model" : "iPhone 4S",
+            "altitude" : 0,
+            "exposureProgram" : 2,
+            "pixelWidth" : 3264,
+            "dateTime" : "2015-08-05T08:56:26-0700",
+            "flash" : 16,
+            "orientation" : 3,
+            "pixelHeight" : 2448,
+            "whiteBalance" : 0
+          },
+          {
+            "brightnessValue" : 10.79845,
+            "meteringMode" : 5,
+            "focalLengthIn35mm" : 35,
+            "sceneCaptureType" : 0,
+            "exposureMode" : 0,
+            "resolutionUnit" : 2,
+            "make" : "Apple",
+            "software" : "8.4",
+            "assetUrl" : "assets-library:\/\/asset\/asset.JPG?id=4AE00EE1-FF52-476D-A607-3E36CAAA441B&ext=JPG",
+            "isoSpeed" : 50,
+            "exposureTime" : 0.0004159734,
+            "shutterSpeed" : 11.23113,
+            "depth" : 8,
+            "latitude" : 0,
+            "fNumber" : 2.4,
+            "sensingMode" : 2,
+            "uniqueIdentifier" : "4F167E31-01CD-4476-A879-C0AFDEF97128",
+            "longitude" : 0,
+            "apertureValue" : 2.526069,
+            "focalLength" : 4.28,
+            "model" : "iPhone 4S",
+            "altitude" : 0,
+            "exposureProgram" : 2,
+            "pixelWidth" : 3264,
+            "dateTime" : "2015-08-05T08:56:23-0700",
+            "flash" : 16,
+            "orientation" : 3,
+            "pixelHeight" : 2448,
+            "whiteBalance" : 0
+          }
+        ],
+        "uniqueIdentifier" : "E2BAC00E-0859-4BF0-A4E6-8B70E87BAAE7"
+      },
+      "sectionIdentifier" : "1-2015-8-5",
+      "uniqueIdentifier" : "DF92D8CD-CF46-42C1-879F-A4CAB44A78AA",
+      "connection" : 0,
+      "background" : 0,
+      "draft" : 0,
+      "date" : "2015-08-05T09:11:23-0700",
+      "responses" : [
+        {
+          "questionPrompt" : "Have you seen an animal?",
+          "tokens" : [
+            {
+              "text" : "Cow",
+              "uniqueIdentifier" : "412874ED-B5B1-4613-8313-B267C0CCF387"
+            }
+          ],
+          "uniqueIdentifier" : "AAF0D2B5-B78E-4A27-97AA-D97D3F213E67"
+        },
+        {
+          "questionPrompt" : "What is the weather like?",
+          "tokens" : [
+            {
+              "text" : "Sunny",
+              "uniqueIdentifier" : "BE5C21E8-AA75-4D9D-BE9F-E0C590970D1B"
+            }
+          ],
+          "uniqueIdentifier" : "71C32EF2-2963-49A3-86A6-00A20E046DC6"
+        },
+        {
+          "questionPrompt" : "Where are you?",
+          "locationResponse" : {
+            "text" : "Lewiston ",
+            "location" : {
+              "altitude" : 856,
+              "timestamp" : "2015-08-05T09:12:00-0700",
+              "verticalAccuracy" : 6,
+              "longitude" : -116.6622311622991,
+              "latitude" : 46.34762516715224,
+              "course" : 0,
+              "uniqueIdentifier" : "996CCB58-515B-495D-849D-DFEB2ACD9BF4",
+              "horizontalAccuracy" : 5,
+              "speed" : 0
+            },
+            "uniqueIdentifier" : "3BC0CB7C-585F-4671-8F2C-29AC30FCD4BD"
+          },
+          "uniqueIdentifier" : "5297C966-C425-4C72-8DC5-7FB0AF8BEF49"
+        },
+        {
+          "questionPrompt" : "Who are you with?",
+          "tokens" : [
+            {
+              "text" : "DAD",
+              "uniqueIdentifier" : "6EF834B9-C0DA-4BD3-94C9-B44ED828B4D5"
+            }
+          ],
+          "uniqueIdentifier" : "ED6EA188-3297-43D6-9131-46C4D82875D9"
+        },
+        {
+          "questionPrompt" : "What are you doing?",
+          "tokens" : [
+            {
+              "text" : "Drink stop",
+              "uniqueIdentifier" : "37C83FE8-1978-410F-AF2B-CA5A0D865DF0"
+            }
+          ],
+          "uniqueIdentifier" : "338D24D2-840E-4E0C-AA0D-9913AE565551"
+        },
+        {
+          "questionPrompt" : "Are you working?",
+          "answeredOptions" : [
+            "No"
+          ],
+          "uniqueIdentifier" : "5F875A65-F62E-4A4B-91F2-A44CABD800DA"
+        }
+      ]
+    },
+    {
+      "battery" : 0.8,
+      "reportImpetus" : 0,
+      "steps" : -1,
+      "audio" : {
+        "avg" : -48.24393,
+        "uniqueIdentifier" : "11D6D191-0DB9-4121-AADD-8FC81F904546",
+        "peak" : -34.93659
+      },
+      "photoSet" : {
+        "photos" : [
+          {
+            "brightnessValue" : 1.472332,
+            "meteringMode" : 5,
+            "focalLengthIn35mm" : 35,
+            "sceneCaptureType" : 0,
+            "exposureMode" : 0,
+            "resolutionUnit" : 2,
+            "make" : "Apple",
+            "software" : "8.4",
+            "assetUrl" : "assets-library:\/\/asset\/asset.JPG?id=CD927A35-7799-4F9D-9BFC-7B5BCB03FC6B&ext=JPG",
+            "isoSpeed" : 250,
+            "exposureTime" : 0.05,
+            "shutterSpeed" : 4.321929,
+            "depth" : 8,
+            "latitude" : 0,
+            "fNumber" : 2.4,
+            "sensingMode" : 2,
+            "uniqueIdentifier" : "8C7D36C1-AB78-4FF7-B265-3BB65A2F3E52",
+            "longitude" : 0,
+            "apertureValue" : 2.526069,
+            "focalLength" : 4.28,
+            "model" : "iPhone 4S",
+            "altitude" : 0,
+            "exposureProgram" : 2,
+            "pixelWidth" : 3264,
+            "dateTime" : "2015-08-05T11:51:50-0700",
+            "flash" : 16,
+            "orientation" : 6,
+            "pixelHeight" : 2448,
+            "whiteBalance" : 0
+          },
+          {
+            "brightnessValue" : 1.514095,
+            "meteringMode" : 5,
+            "focalLengthIn35mm" : 35,
+            "sceneCaptureType" : 0,
+            "exposureMode" : 0,
+            "resolutionUnit" : 2,
+            "make" : "Apple",
+            "software" : "8.4",
+            "assetUrl" : "assets-library:\/\/asset\/asset.JPG?id=CB1988D9-B506-4C8E-B597-ABB50B91E85F&ext=JPG",
+            "isoSpeed" : 160,
+            "exposureTime" : 0.05,
+            "shutterSpeed" : 4.321929,
+            "depth" : 8,
+            "latitude" : 0,
+            "fNumber" : 2.4,
+            "sensingMode" : 2,
+            "uniqueIdentifier" : "067ED3BF-32D3-490A-9F89-61EA609277C8",
+            "longitude" : 0,
+            "apertureValue" : 2.526069,
+            "focalLength" : 4.28,
+            "model" : "iPhone 4S",
+            "altitude" : 0,
+            "exposureProgram" : 2,
+            "pixelWidth" : 3264,
+            "dateTime" : "2015-08-05T11:52:51-0700",
+            "flash" : 16,
+            "orientation" : 6,
+            "pixelHeight" : 2448,
+            "whiteBalance" : 0
+          },
+          {
+            "brightnessValue" : -0.5979683,
+            "meteringMode" : 5,
+            "focalLengthIn35mm" : 35,
+            "sceneCaptureType" : 0,
+            "exposureMode" : 0,
+            "resolutionUnit" : 2,
+            "make" : "Apple",
+            "software" : "8.4",
+            "assetUrl" : "assets-library:\/\/asset\/asset.JPG?id=C34A2C0F-C8E7-4C66-B126-364A1C87756F&ext=JPG",
+            "isoSpeed" : 800,
+            "exposureTime" : 0.06666667,
+            "shutterSpeed" : 3.906905,
+            "depth" : 8,
+            "latitude" : 0,
+            "fNumber" : 2.4,
+            "sensingMode" : 2,
+            "uniqueIdentifier" : "7B2863F6-2BFF-4240-B45F-F68604ADB23E",
+            "longitude" : 0,
+            "apertureValue" : 2.526069,
+            "focalLength" : 4.28,
+            "model" : "iPhone 4S",
+            "altitude" : 0,
+            "exposureProgram" : 2,
+            "pixelWidth" : 3264,
+            "dateTime" : "2015-08-05T11:48:36-0700",
+            "flash" : 16,
+            "orientation" : 3,
+            "pixelHeight" : 2448,
+            "whiteBalance" : 0
+          },
+          {
+            "brightnessValue" : 1.423319,
+            "meteringMode" : 5,
+            "focalLengthIn35mm" : 35,
+            "sceneCaptureType" : 0,
+            "exposureMode" : 0,
+            "resolutionUnit" : 2,
+            "make" : "Apple",
+            "software" : "8.4",
+            "assetUrl" : "assets-library:\/\/asset\/asset.JPG?id=EAE27461-3B23-44E2-AE15-685DDA5EE0FC&ext=JPG",
+            "isoSpeed" : 250,
+            "exposureTime" : 0.05,
+            "shutterSpeed" : 4.321929,
+            "depth" : 8,
+            "latitude" : 0,
+            "fNumber" : 2.4,
+            "sensingMode" : 2,
+            "uniqueIdentifier" : "47A572FF-38C7-4A2B-BF45-498251C3BCEE",
+            "longitude" : 0,
+            "apertureValue" : 2.526069,
+            "focalLength" : 4.28,
+            "model" : "iPhone 4S",
+            "altitude" : 0,
+            "exposureProgram" : 2,
+            "pixelWidth" : 3264,
+            "dateTime" : "2015-08-05T11:51:37-0700",
+            "flash" : 16,
+            "orientation" : 6,
+            "pixelHeight" : 2448,
+            "whiteBalance" : 0
+          },
+          {
+            "brightnessValue" : 0.6905839,
+            "meteringMode" : 5,
+            "focalLengthIn35mm" : 35,
+            "sceneCaptureType" : 0,
+            "exposureMode" : 0,
+            "resolutionUnit" : 2,
+            "make" : "Apple",
+            "software" : "8.4",
+            "assetUrl" : "assets-library:\/\/asset\/asset.JPG?id=C911BABF-BBED-42F0-A151-F3F7D2826ED1&ext=JPG",
+            "isoSpeed" : 200,
+            "exposureTime" : 0.05,
+            "shutterSpeed" : 4.321929,
+            "depth" : 8,
+            "latitude" : 0,
+            "fNumber" : 2.4,
+            "sensingMode" : 2,
+            "uniqueIdentifier" : "9D4DEA48-E469-4B24-9954-AD454788A6AB",
+            "longitude" : 0,
+            "apertureValue" : 2.526069,
+            "focalLength" : 4.28,
+            "model" : "iPhone 4S",
+            "altitude" : 0,
+            "exposureProgram" : 2,
+            "pixelWidth" : 3264,
+            "dateTime" : "2015-08-05T11:45:34-0700",
+            "flash" : 16,
+            "orientation" : 6,
+            "pixelHeight" : 2448,
+            "whiteBalance" : 0
+          },
+          {
+            "brightnessValue" : 0.7620222,
+            "meteringMode" : 5,
+            "focalLengthIn35mm" : 35,
+            "sceneCaptureType" : 0,
+            "exposureMode" : 0,
+            "resolutionUnit" : 2,
+            "make" : "Apple",
+            "software" : "8.4",
+            "assetUrl" : "assets-library:\/\/asset\/asset.JPG?id=95E8D92D-E54F-4A9B-90C2-14EE3F158F4B&ext=JPG",
+            "isoSpeed" : 320,
+            "exposureTime" : 0.05,
+            "shutterSpeed" : 4.321929,
+            "depth" : 8,
+            "latitude" : 0,
+            "fNumber" : 2.4,
+            "sensingMode" : 2,
+            "uniqueIdentifier" : "4E5FC002-1E4B-46A8-BBEA-82D0AE43A240",
+            "longitude" : 0,
+            "apertureValue" : 2.526069,
+            "focalLength" : 4.28,
+            "model" : "iPhone 4S",
+            "altitude" : 0,
+            "exposureProgram" : 2,
+            "pixelWidth" : 3264,
+            "dateTime" : "2015-08-05T11:52:42-0700",
+            "flash" : 16,
+            "orientation" : 1,
+            "pixelHeight" : 2448,
+            "whiteBalance" : 0
+          },
+          {
+            "brightnessValue" : 1.055739,
+            "meteringMode" : 5,
+            "focalLengthIn35mm" : 35,
+            "sceneCaptureType" : 0,
+            "exposureMode" : 0,
+            "resolutionUnit" : 2,
+            "make" : "Apple",
+            "software" : "8.4",
+            "assetUrl" : "assets-library:\/\/asset\/asset.JPG?id=7021ED49-22A6-4750-B815-45B298A90325&ext=JPG",
+            "isoSpeed" : 320,
+            "exposureTime" : 0.05,
+            "shutterSpeed" : 4.321929,
+            "depth" : 8,
+            "latitude" : 0,
+            "fNumber" : 2.4,
+            "sensingMode" : 2,
+            "uniqueIdentifier" : "DAB29FB0-3727-4737-B11E-96BA87191527",
+            "longitude" : 0,
+            "apertureValue" : 2.526069,
+            "focalLength" : 4.28,
+            "model" : "iPhone 4S",
+            "altitude" : 0,
+            "exposureProgram" : 2,
+            "pixelWidth" : 3264,
+            "dateTime" : "2015-08-05T11:51:43-0700",
+            "flash" : 16,
+            "orientation" : 1,
+            "pixelHeight" : 2448,
+            "whiteBalance" : 0
+          }
+        ],
+        "uniqueIdentifier" : "7441B9A2-B29E-49C6-BC8D-86E5F6845ECF"
+      },
+      "sectionIdentifier" : "1-2015-8-5",
+      "uniqueIdentifier" : "FDE21157-54F5-4508-A480-162BC9A1E9F2",
+      "connection" : 0,
+      "background" : 0,
+      "draft" : 0,
+      "date" : "2015-08-05T12:07:00-0700",
+      "responses" : [
+        {
+          "questionPrompt" : "Are you working?",
+          "answeredOptions" : [
+            "No"
+          ],
+          "uniqueIdentifier" : "5F875A65-F62E-4A4B-91F2-A44CABD800DA"
+        },
+        {
+          "questionPrompt" : "What is the weather like?",
+          "tokens" : [
+            {
+              "text" : "Sunny",
+              "uniqueIdentifier" : "BE5C21E8-AA75-4D9D-BE9F-E0C590970D1B"
+            }
+          ],
+          "uniqueIdentifier" : "71C32EF2-2963-49A3-86A6-00A20E046DC6"
+        },
+        {
+          "questionPrompt" : "Where are you?",
+          "locationResponse" : {
+            "text" : "Nez perce visitors center",
+            "location" : {
+              "altitude" : 240,
+              "timestamp" : "2015-08-05T12:07:38-0700",
+              "verticalAccuracy" : 4,
+              "longitude" : -116.8229218852863,
+              "latitude" : 46.44752131779347,
+              "course" : 0,
+              "uniqueIdentifier" : "ADECF06D-CB98-45D2-B82E-66DD396F1993",
+              "horizontalAccuracy" : 5,
+              "speed" : 0
+            },
+            "uniqueIdentifier" : "C1FE8CA5-5726-4A2A-9177-3F94616578E9"
+          },
+          "uniqueIdentifier" : "9D09661F-CC00-486F-BB25-F27620323D06"
+        },
+        {
+          "questionPrompt" : "Who are you with?",
+          "tokens" : [
+            {
+              "text" : "DAD",
+              "uniqueIdentifier" : "6EF834B9-C0DA-4BD3-94C9-B44ED828B4D5"
+            }
+          ],
+          "uniqueIdentifier" : "ED6EA188-3297-43D6-9131-46C4D82875D9"
+        },
+        {
+          "questionPrompt" : "What are you doing?",
+          "tokens" : [
+            {
+              "text" : "Drink stop",
+              "uniqueIdentifier" : "37C83FE8-1978-410F-AF2B-CA5A0D865DF0"
+            }
+          ],
+          "uniqueIdentifier" : "338D24D2-840E-4E0C-AA0D-9913AE565551"
+        },
+        {
+          "questionPrompt" : "Have you seen an animal?",
+          "tokens" : [
+            {
+              "text" : "Snake",
+              "uniqueIdentifier" : "17DDCAA6-9392-4991-83AB-8514370AB3F4"
+            },
+            {
+              "text" : "Lama",
+              "uniqueIdentifier" : "7EF8CB4A-3458-485A-9CA6-3791FA33FD2B"
+            }
+          ],
+          "uniqueIdentifier" : "E2D04709-D2CA-4024-8CC4-DBD7D82AF956"
+        }
+      ]
+    },
+    {
+      "battery" : 0.84,
+      "location" : {
+        "altitude" : 243.7354888916016,
+        "timestamp" : "2015-08-05T21:44:23-0700",
+        "verticalAccuracy" : 10,
+        "longitude" : -117.0024185461775,
+        "latitude" : 46.41365952995761,
+        "course" : 0,
+        "uniqueIdentifier" : "ED96BCC2-023D-40C4-9890-D7A14B8A61A4",
+        "placemark" : {
+          "thoroughfare" : "21st St",
+          "postalCode" : "83501",
+          "subAdministrativeArea" : "Nez Perce",
+          "subThoroughfare" : "702",
+          "region" : "<+46.41378490,-117.00223820> radius 43.35",
+          "uniqueIdentifier" : "D7858A95-4943-41CF-BA79-4E68325021C6",
+          "locality" : "Lewiston",
+          "name" : "702 21st St",
+          "country" : "United States",
+          "administrativeArea" : "ID"
+        },
+        "horizontalAccuracy" : 65,
+        "speed" : -1
+      },
+      "altitude" : {
+        "gpsRawAltitude" : 243.7354888916016,
+        "gpsAltitudeFromLocation" : 244.441589,
+        "uniqueIdentifier" : "9483B7C3-5D74-44EF-A2B9-316C0E23A01E"
+      },
+      "reportImpetus" : 3,
+      "steps" : -1,
+      "audio" : {
+        "avg" : -53.94019,
+        "uniqueIdentifier" : "4DCAB2FC-3F7B-42A1-B2A7-2D337C180000",
+        "peak" : -45.17141
+      },
+      "sectionIdentifier" : "1-2015-8-5",
+      "uniqueIdentifier" : "0F86B9A9-9E73-462A-B38B-7D7D4105C888",
+      "connection" : 1,
+      "background" : 0,
+      "draft" : 0,
+      "weather" : {
+        "windMPH" : 0,
+        "windDirection" : "SSE",
+        "tempF" : 72.90000000000001,
+        "windGustKPH" : 0,
+        "feelslikeC" : 22.7,
+        "visibilityMi" : 10,
+        "feelslikeF" : 72.90000000000001,
+        "windGustMPH" : 0,
+        "latitude" : 46.403595,
+        "stationID" : "KIDLEWIS16",
+        "pressureIn" : 29.86,
+        "pressureMb" : 1011,
+        "relativeHumidity" : "19%",
+        "uniqueIdentifier" : "6788E70E-0461-49CB-A224-5458CA22B9F2",
+        "longitude" : -116.934181,
+        "windKPH" : 0,
+        "windDegrees" : 164,
+        "tempC" : 22.7,
+        "weather" : "Clear",
+        "uv" : 0,
+        "dewpointC" : -2,
+        "visibilityKM" : 16.1
+      },
+      "date" : "2015-08-05T21:44:15-0700",
+      "responses" : [
+        {
+          "questionPrompt" : "What did you learn today?",
+          "textResponses" : [
+            {
+              "text" : "I learned about huge golden desert buttes",
+              "uniqueIdentifier" : "2BCAF32A-E4FD-457C-B8F4-F1018284592D"
+            }
+          ],
+          "uniqueIdentifier" : "6CCAAAD2-86CE-4CF8-9114-61ACF0177283"
+        }
+      ]
+    }
+  ],
+  "questions" : [
+    {
+      "prompt" : "How did you sleep?",
+      "questionType" : 1,
+      "uniqueIdentifier" : "default-question-1"
+    },
+    {
+      "prompt" : "Are you working?",
+      "questionType" : 2,
+      "uniqueIdentifier" : "default-question-2"
+    },
+    {
+      "prompt" : "How many coffees did you have today?",
+      "questionType" : 5,
+      "uniqueIdentifier" : "default-question-6"
+    },
+    {
+      "prompt" : "What are you doing?",
+      "questionType" : 0,
+      "uniqueIdentifier" : "default-question-3"
+    },
+    {
+      "prompt" : "Who are you with?",
+      "questionType" : 4,
+      "uniqueIdentifier" : "default-question-5",
+      "placeholderString" : "No one"
+    },
+    {
+      "prompt" : "Where are you?",
+      "questionType" : 3,
+      "uniqueIdentifier" : "default-question-4"
+    },
+    {
+      "prompt" : "What did you learn today?",
+      "questionType" : 6,
+      "uniqueIdentifier" : "default-question-7"
+    },
+    {
+      "prompt" : "What is the weather like?",
+      "questionType" : 0,
+      "uniqueIdentifier" : "C6D94168-5AB1-4EFC-9247-DEDD4126FF80"
+    },
+    {
+      "prompt" : "Have you seen an animal?",
+      "questionType" : 0,
+      "uniqueIdentifier" : "8A43B95E-2E90-45B9-8EA8-3B9539F90B00"
+    }
+  ]
+}

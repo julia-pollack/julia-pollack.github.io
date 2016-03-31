@@ -1,0 +1,1384 @@
+{
+  "snapshots" : [
+    {
+      "battery" : 1,
+      "location" : {
+        "altitude" : 180.8059844970703,
+        "timestamp" : "2015-06-20T06:24:13-0500",
+        "verticalAccuracy" : 19.80829602233856,
+        "longitude" : -87.69320090008,
+        "latitude" : 42.03631595122839,
+        "course" : 0,
+        "uniqueIdentifier" : "5B0B4E3B-CD73-4F64-BC43-277FA3AFCB4A",
+        "placemark" : {
+          "thoroughfare" : "Ashland Ave",
+          "postalCode" : "60202",
+          "subAdministrativeArea" : "Cook",
+          "subLocality" : "Crown Park",
+          "subThoroughfare" : "1012",
+          "region" : "<+42.03633360,-87.69337545> radius 31.22",
+          "uniqueIdentifier" : "7EC46815-56B3-4722-9BC1-CC885EE43382",
+          "locality" : "Evanston",
+          "name" : "1012 Ashland Ave",
+          "country" : "United States",
+          "administrativeArea" : "IL"
+        },
+        "horizontalAccuracy" : 65,
+        "speed" : -1
+      },
+      "altitude" : {
+        "gpsRawAltitude" : 180.8059844970703,
+        "uniqueIdentifier" : "9243978B-1115-4185-A8DF-E843743851EA"
+      },
+      "reportImpetus" : 4,
+      "steps" : -1,
+      "audio" : {
+        "avg" : -53.464,
+        "uniqueIdentifier" : "D87287B1-D90D-4961-8ACA-8C427C5FAA23",
+        "peak" : -34.91792
+      },
+      "sectionIdentifier" : "1-2015-6-20",
+      "uniqueIdentifier" : "D49CFB8D-FD1E-46D9-8413-83C62DD65460",
+      "connection" : 1,
+      "background" : 0,
+      "draft" : 0,
+      "weather" : {
+        "windMPH" : 0,
+        "windDirection" : "East",
+        "tempF" : 56.6,
+        "precipTodayIn" : 0,
+        "windGustKPH" : 0,
+        "feelslikeC" : 13.7,
+        "visibilityMi" : 10,
+        "feelslikeF" : 56.6,
+        "stationID" : "KILEVANS3",
+        "latitude" : 42.027893,
+        "windGustMPH" : 0,
+        "pressureIn" : 29.89,
+        "pressureMb" : 1012,
+        "relativeHumidity" : "94%",
+        "uniqueIdentifier" : "C981D058-07BF-49B0-A7C8-2B2A091C80C0",
+        "longitude" : -87.682823,
+        "precipTodayMetric" : 0,
+        "windKPH" : 0,
+        "windDegrees" : 80,
+        "tempC" : 13.7,
+        "weather" : "Partly Cloudy",
+        "uv" : 0,
+        "dewpointC" : 13,
+        "visibilityKM" : 16.1
+      },
+      "date" : "2015-06-20T06:24:11-0500",
+      "responses" : [
+        {
+          "questionPrompt" : "How did you sleep?",
+          "answeredOptions" : [
+            "Great"
+          ],
+          "uniqueIdentifier" : "54AEA129-A3A9-459C-9AB9-946A9EA919F7"
+        }
+      ]
+    },
+    {
+      "battery" : 0.93,
+      "location" : {
+        "altitude" : 212.1773223876953,
+        "timestamp" : "2015-06-20T08:55:58-0500",
+        "verticalAccuracy" : 10,
+        "longitude" : -87.82039545301394,
+        "latitude" : 42.21689402305488,
+        "course" : 0,
+        "uniqueIdentifier" : "9A6F6B25-2C7B-4F2F-AED3-43D4E1D8FE5B",
+        "placemark" : {
+          "thoroughfare" : "Sheridan Rd",
+          "postalCode" : "60040",
+          "subAdministrativeArea" : "Lake",
+          "subLocality" : "Fort Sheridan",
+          "subThoroughfare" : "950",
+          "region" : "<+42.21700400,-87.82014340> radius 70.84",
+          "uniqueIdentifier" : "2BF8F53F-7C81-4FA3-B18C-AE2B843C155A",
+          "locality" : "Highwood",
+          "name" : "950 Sheridan Rd",
+          "country" : "United States",
+          "administrativeArea" : "IL"
+        },
+        "horizontalAccuracy" : 65,
+        "speed" : -1
+      },
+      "altitude" : {
+        "gpsRawAltitude" : 212.1773223876953,
+        "uniqueIdentifier" : "9BE7520B-9EEC-47EE-BDE1-7CBD5E9879FB"
+      },
+      "reportImpetus" : 0,
+      "steps" : -1,
+      "audio" : {
+        "avg" : -36.40039,
+        "uniqueIdentifier" : "E6DF9D8A-BF65-4EB5-8A0E-3A7D74F00ECA",
+        "peak" : -24.64325
+      },
+      "sectionIdentifier" : "1-2015-6-20",
+      "uniqueIdentifier" : "CE0629EE-2BE8-4AF0-A7CB-991F7EE954AB",
+      "connection" : 0,
+      "background" : 0,
+      "draft" : 0,
+      "weather" : {
+        "windMPH" : 4.5,
+        "windDirection" : "North",
+        "tempF" : 59.2,
+        "precipTodayIn" : 0,
+        "windGustKPH" : 7.2,
+        "feelslikeC" : 15.1,
+        "visibilityMi" : 10,
+        "feelslikeF" : 59.2,
+        "stationID" : "KILHIGHL11",
+        "latitude" : 42.204159,
+        "windGustMPH" : 4.5,
+        "pressureIn" : 29.92,
+        "pressureMb" : 1013,
+        "relativeHumidity" : "88%",
+        "uniqueIdentifier" : "70331F6C-D577-42EF-839F-7581CDC574CC",
+        "longitude" : -87.79911800000001,
+        "precipTodayMetric" : 0,
+        "windKPH" : 7.2,
+        "windDegrees" : 0,
+        "tempC" : 15.1,
+        "weather" : "Mostly Cloudy",
+        "uv" : 1,
+        "dewpointC" : 13,
+        "visibilityKM" : 16.1
+      },
+      "date" : "2015-06-20T08:55:54-0500",
+      "responses" : [
+        {
+          "questionPrompt" : "Where are you?",
+          "locationResponse" : {
+            "uniqueIdentifier" : "C06108E8-5038-407F-B40B-F51F7D870171",
+            "text" : "Mobil",
+            "location" : {
+              "altitude" : 0,
+              "timestamp" : "2015-06-20T08:56:19-0500",
+              "verticalAccuracy" : -1,
+              "longitude" : -87.82059360640901,
+              "latitude" : 42.21762313360342,
+              "course" : 0,
+              "uniqueIdentifier" : "BA6E18B4-D55F-4F98-89F0-8CA8C9B76927",
+              "horizontalAccuracy" : 0,
+              "speed" : -1
+            },
+            "foursquareVenueId" : "4bb145ddf964a520bf883ce3"
+          },
+          "uniqueIdentifier" : "C663A04A-F4C8-4FF8-A0D8-5F01B33083C5"
+        },
+        {
+          "questionPrompt" : "What are you doing?",
+          "tokens" : [
+            {
+              "text" : "Drink stop",
+              "uniqueIdentifier" : "37C83FE8-1978-410F-AF2B-CA5A0D865DF0"
+            }
+          ],
+          "uniqueIdentifier" : "338D24D2-840E-4E0C-AA0D-9913AE565551"
+        },
+        {
+          "questionPrompt" : "Have you seen an animal?",
+          "tokens" : [
+            {
+              "text" : "Dog",
+              "uniqueIdentifier" : "4F987BE5-A043-40DD-80D3-A944A2AEAC89"
+            }
+          ],
+          "uniqueIdentifier" : "21437D6F-9B26-4373-B549-352DE9954FAD"
+        },
+        {
+          "questionPrompt" : "What is the weather like?",
+          "tokens" : [
+            {
+              "text" : "Cloudy",
+              "uniqueIdentifier" : "85544233-3D5C-43DF-8E0F-25D6650B26BD"
+            }
+          ],
+          "uniqueIdentifier" : "37833D68-3864-43FF-8DED-F7DBEA7A7E0C"
+        },
+        {
+          "questionPrompt" : "Are you working?",
+          "answeredOptions" : [
+            "No"
+          ],
+          "uniqueIdentifier" : "5F875A65-F62E-4A4B-91F2-A44CABD800DA"
+        },
+        {
+          "questionPrompt" : "Who are you with?",
+          "tokens" : [
+            {
+              "text" : "Dad Quincy Adrian",
+              "uniqueIdentifier" : "1DB472EB-8D54-4B74-B056-C304F930F775"
+            }
+          ],
+          "uniqueIdentifier" : "68973387-47FE-4EB7-A60D-A40CF0EC8AB0"
+        }
+      ]
+    },
+    {
+      "battery" : 0.9,
+      "location" : {
+        "altitude" : 215.8308715820312,
+        "timestamp" : "2015-06-20T09:23:01-0500",
+        "verticalAccuracy" : 10,
+        "longitude" : -87.83983997390241,
+        "latitude" : 42.25151408562638,
+        "course" : 0,
+        "uniqueIdentifier" : "3DB71B21-E0C2-4289-96D8-BCC7211FE9AB",
+        "placemark" : {
+          "thoroughfare" : "N Western Ave",
+          "postalCode" : "60045",
+          "subAdministrativeArea" : "Lake",
+          "subLocality" : "Downtown",
+          "subThoroughfare" : "626–690",
+          "region" : "<+42.25154019,-87.83975180> radius 141.69",
+          "uniqueIdentifier" : "B66537A6-0685-4D25-A1E3-4CCF4C384E31",
+          "locality" : "Lake Forest",
+          "name" : "626–690 N Western Ave",
+          "country" : "United States",
+          "administrativeArea" : "IL"
+        },
+        "horizontalAccuracy" : 65,
+        "speed" : -1
+      },
+      "altitude" : {
+        "gpsRawAltitude" : 215.8308715820312,
+        "uniqueIdentifier" : "BA7AE281-D85D-4B73-BE1D-90176532FE11"
+      },
+      "reportImpetus" : 0,
+      "steps" : -1,
+      "audio" : {
+        "avg" : -41.27501,
+        "uniqueIdentifier" : "D99329A6-B960-4733-BFF0-ABAB769DCF95",
+        "peak" : -30.19874
+      },
+      "photoSet" : {
+        "photos" : [
+          {
+            "brightnessValue" : 7.858724,
+            "meteringMode" : 5,
+            "focalLengthIn35mm" : 35,
+            "sceneCaptureType" : 0,
+            "exposureMode" : 0,
+            "resolutionUnit" : 2,
+            "make" : "Apple",
+            "software" : "8.3",
+            "assetUrl" : "assets-library:\/\/asset\/asset.JPG?id=54A90D57-2433-4C51-8661-B50AA1B86985&ext=JPG",
+            "isoSpeed" : 50,
+            "exposureTime" : 0.001976285,
+            "shutterSpeed" : 8.983931,
+            "depth" : 8,
+            "latitude" : 0,
+            "fNumber" : 2.4,
+            "sensingMode" : 2,
+            "uniqueIdentifier" : "9A1313AE-414E-48CC-A528-669914AC8DDA",
+            "longitude" : 0,
+            "apertureValue" : 2.526069,
+            "focalLength" : 4.28,
+            "model" : "iPhone 4S",
+            "altitude" : 0,
+            "exposureProgram" : 2,
+            "pixelWidth" : 3264,
+            "dateTime" : "2015-06-20T09:12:32-0500",
+            "flash" : 16,
+            "orientation" : 6,
+            "pixelHeight" : 2448,
+            "whiteBalance" : 0
+          },
+          {
+            "brightnessValue" : 8.29033,
+            "meteringMode" : 5,
+            "focalLengthIn35mm" : 35,
+            "sceneCaptureType" : 0,
+            "exposureMode" : 0,
+            "resolutionUnit" : 2,
+            "make" : "Apple",
+            "software" : "8.3",
+            "assetUrl" : "assets-library:\/\/asset\/asset.JPG?id=BC2EFF96-C9EE-477A-B473-60F66F3315C8&ext=JPG",
+            "isoSpeed" : 50,
+            "exposureTime" : 0.001303781,
+            "shutterSpeed" : 9.58284,
+            "depth" : 8,
+            "latitude" : 0,
+            "fNumber" : 2.4,
+            "sensingMode" : 2,
+            "uniqueIdentifier" : "D70FBDA8-4A34-4F89-9683-82DE1B51ECED",
+            "longitude" : 0,
+            "apertureValue" : 2.526069,
+            "focalLength" : 4.28,
+            "model" : "iPhone 4S",
+            "altitude" : 0,
+            "exposureProgram" : 2,
+            "pixelWidth" : 3264,
+            "dateTime" : "2015-06-20T09:12:31-0500",
+            "flash" : 16,
+            "orientation" : 6,
+            "pixelHeight" : 2448,
+            "whiteBalance" : 0
+          }
+        ],
+        "uniqueIdentifier" : "41AB64E4-DE54-4F7F-A062-CDD3D38A842C"
+      },
+      "sectionIdentifier" : "1-2015-6-20",
+      "uniqueIdentifier" : "C3112F1F-4498-420F-8A6E-52A33EEDC1B9",
+      "connection" : 0,
+      "background" : 0,
+      "draft" : 0,
+      "weather" : {
+        "windMPH" : 0,
+        "windDirection" : "North",
+        "tempF" : 66.40000000000001,
+        "precipTodayIn" : 0,
+        "windGustKPH" : 0,
+        "feelslikeC" : 19.1,
+        "visibilityMi" : 10,
+        "feelslikeF" : 66.40000000000001,
+        "stationID" : "KILLAKEF2",
+        "latitude" : 42.255966,
+        "windGustMPH" : 0,
+        "pressureIn" : 29.94,
+        "pressureMb" : 1014,
+        "relativeHumidity" : "83%",
+        "uniqueIdentifier" : "8AB22216-1BF2-4FE1-92B4-57A03BE0CC49",
+        "longitude" : -87.898743,
+        "precipTodayMetric" : 0,
+        "windKPH" : 0,
+        "windDegrees" : 360,
+        "tempC" : 19.1,
+        "weather" : "Mostly Cloudy",
+        "uv" : 1,
+        "dewpointC" : 16,
+        "visibilityKM" : 16.1
+      },
+      "date" : "2015-06-20T09:22:55-0500",
+      "responses" : [
+        {
+          "questionPrompt" : "What is the weather like?",
+          "tokens" : [
+            {
+              "text" : "Cloudy",
+              "uniqueIdentifier" : "85544233-3D5C-43DF-8E0F-25D6650B26BD"
+            }
+          ],
+          "uniqueIdentifier" : "37833D68-3864-43FF-8DED-F7DBEA7A7E0C"
+        },
+        {
+          "questionPrompt" : "Are you working?",
+          "answeredOptions" : [
+            "No"
+          ],
+          "uniqueIdentifier" : "5F875A65-F62E-4A4B-91F2-A44CABD800DA"
+        },
+        {
+          "questionPrompt" : "Have you seen an animal?",
+          "tokens" : [
+            {
+              "text" : "Chipmunk",
+              "uniqueIdentifier" : "830765F8-5F88-4328-9470-552F8F9BA78E"
+            }
+          ],
+          "uniqueIdentifier" : "B60A9B8D-803D-47A9-A209-1844CE25A3CF"
+        },
+        {
+          "questionPrompt" : "Where are you?",
+          "locationResponse" : {
+            "uniqueIdentifier" : "BFA19E80-7655-4EAA-888C-26FE82D57722",
+            "text" : "Metra - Lake Forest",
+            "location" : {
+              "altitude" : 0,
+              "timestamp" : "2015-06-20T09:23:26-0500",
+              "verticalAccuracy" : -1,
+              "longitude" : -87.83963084220886,
+              "latitude" : 42.25241350800137,
+              "course" : 0,
+              "uniqueIdentifier" : "F83CBE7D-9046-40BD-BD50-D484E416987C",
+              "horizontalAccuracy" : 0,
+              "speed" : -1
+            },
+            "foursquareVenueId" : "4b79abadf964a520f4092fe3"
+          },
+          "uniqueIdentifier" : "9B130498-9501-4024-9231-6C72E53FA407"
+        },
+        {
+          "questionPrompt" : "What are you doing?",
+          "tokens" : [
+            {
+              "text" : "Coffee",
+              "uniqueIdentifier" : "54804AC4-E281-445C-AB28-37B7F5C6FBA7"
+            }
+          ],
+          "uniqueIdentifier" : "2B70E1E2-C8AF-48F3-96F5-4BF9411DAC1B"
+        },
+        {
+          "questionPrompt" : "Who are you with?",
+          "tokens" : [
+            {
+              "text" : "Dad Quincy Adrian",
+              "uniqueIdentifier" : "1DB472EB-8D54-4B74-B056-C304F930F775"
+            }
+          ],
+          "uniqueIdentifier" : "68973387-47FE-4EB7-A60D-A40CF0EC8AB0"
+        }
+      ]
+    },
+    {
+      "battery" : 0.84,
+      "location" : {
+        "altitude" : 129,
+        "timestamp" : "2015-06-20T10:29:35-0500",
+        "verticalAccuracy" : 96,
+        "longitude" : -87.97415242538598,
+        "latitude" : 42.2802551044545,
+        "course" : 0,
+        "uniqueIdentifier" : "2D05C35D-31B0-4AED-86E7-544634D20AE7",
+        "placemark" : {
+          "thoroughfare" : "W Park Ave",
+          "postalCode" : "60048",
+          "subAdministrativeArea" : "Lake",
+          "subThoroughfare" : "1207",
+          "region" : "<+42.28022575,-87.97443600> radius 38.36",
+          "uniqueIdentifier" : "AE144BD0-347A-4E7F-AAD8-5A25AD6BC403",
+          "locality" : "Libertyville",
+          "name" : "1207 W Park Ave",
+          "country" : "United States",
+          "administrativeArea" : "IL"
+        },
+        "horizontalAccuracy" : 50,
+        "speed" : -1
+      },
+      "altitude" : {
+        "gpsRawAltitude" : 129,
+        "uniqueIdentifier" : "E71922CD-FB49-48F8-B490-19F5F081E060"
+      },
+      "reportImpetus" : 0,
+      "steps" : -1,
+      "audio" : {
+        "avg" : -36.07973,
+        "uniqueIdentifier" : "F08031ED-289F-4132-A66A-D6DEC29C1B1E",
+        "peak" : -25.34069
+      },
+      "sectionIdentifier" : "1-2015-6-20",
+      "uniqueIdentifier" : "BBB3DBC4-5465-4011-8D22-B830A5C11046",
+      "connection" : 0,
+      "background" : 0,
+      "draft" : 0,
+      "weather" : {
+        "windMPH" : 0,
+        "windDirection" : "NNW",
+        "tempF" : 65.3,
+        "precipTodayIn" : 0,
+        "windGustKPH" : 0,
+        "feelslikeC" : 18.5,
+        "visibilityMi" : 10,
+        "feelslikeF" : 65.3,
+        "stationID" : "KILLIBER16",
+        "latitude" : 42.280407,
+        "windGustMPH" : 0,
+        "pressureIn" : 29.95,
+        "pressureMb" : 1014,
+        "relativeHumidity" : "82%",
+        "uniqueIdentifier" : "B54EBC1F-3FB7-4973-AE6D-11CD60EBDB21",
+        "longitude" : -87.965935,
+        "precipTodayMetric" : 0,
+        "windKPH" : 0,
+        "windDegrees" : 337,
+        "tempC" : 18.5,
+        "weather" : "Mostly Cloudy",
+        "uv" : 4,
+        "dewpointC" : 15,
+        "visibilityKM" : 16.1
+      },
+      "date" : "2015-06-20T10:29:31-0500",
+      "responses" : [
+        {
+          "questionPrompt" : "Have you seen an animal?",
+          "tokens" : [
+            {
+              "text" : "Nope",
+              "uniqueIdentifier" : "4FEAA7D3-34E7-41E5-B9A8-E12D584B8FED"
+            }
+          ],
+          "uniqueIdentifier" : "852E2636-173A-46D4-8415-2328E3B16320"
+        },
+        {
+          "questionPrompt" : "What are you doing?",
+          "tokens" : [
+            {
+              "text" : "Drink stop",
+              "uniqueIdentifier" : "37C83FE8-1978-410F-AF2B-CA5A0D865DF0"
+            }
+          ],
+          "uniqueIdentifier" : "338D24D2-840E-4E0C-AA0D-9913AE565551"
+        },
+        {
+          "questionPrompt" : "Who are you with?",
+          "tokens" : [
+            {
+              "text" : "Dad Quincy Adrian",
+              "uniqueIdentifier" : "1DB472EB-8D54-4B74-B056-C304F930F775"
+            }
+          ],
+          "uniqueIdentifier" : "68973387-47FE-4EB7-A60D-A40CF0EC8AB0"
+        },
+        {
+          "questionPrompt" : "What is the weather like?",
+          "tokens" : [
+            {
+              "text" : "Cloudy",
+              "uniqueIdentifier" : "85544233-3D5C-43DF-8E0F-25D6650B26BD"
+            }
+          ],
+          "uniqueIdentifier" : "37833D68-3864-43FF-8DED-F7DBEA7A7E0C"
+        },
+        {
+          "questionPrompt" : "Are you working?",
+          "answeredOptions" : [
+            "No"
+          ],
+          "uniqueIdentifier" : "5F875A65-F62E-4A4B-91F2-A44CABD800DA"
+        },
+        {
+          "questionPrompt" : "Where are you?",
+          "locationResponse" : {
+            "uniqueIdentifier" : "98668F74-4725-4423-9057-FEDA9A90C888",
+            "text" : "Mobil",
+            "location" : {
+              "altitude" : 0,
+              "timestamp" : "2015-06-20T10:29:51-0500",
+              "verticalAccuracy" : -1,
+              "longitude" : -87.97361793333333,
+              "latitude" : 42.28061020374298,
+              "course" : 0,
+              "uniqueIdentifier" : "A4696ED3-3343-4C0F-9B44-231E7197450B",
+              "horizontalAccuracy" : 0,
+              "speed" : -1
+            },
+            "foursquareVenueId" : "4bd763900b779c74370f05a0"
+          },
+          "uniqueIdentifier" : "BA083625-932D-4EF4-AAA6-F0FB123C6834"
+        }
+      ]
+    },
+    {
+      "battery" : 0.81,
+      "location" : {
+        "altitude" : 268,
+        "timestamp" : "2015-06-20T11:32:20-0500",
+        "verticalAccuracy" : 32,
+        "longitude" : -88.09182261125007,
+        "latitude" : 42.25682835564227,
+        "course" : 0,
+        "uniqueIdentifier" : "2CF347E5-36F4-40B3-8C78-8AC70E6C2737",
+        "placemark" : {
+          "thoroughfare" : "W IL Route 176",
+          "postalCode" : "60060",
+          "subAdministrativeArea" : "Lake",
+          "subThoroughfare" : "23355",
+          "region" : "<+42.25906835,-88.08960220> radius 450.74",
+          "uniqueIdentifier" : "B7B06FB3-45A5-477D-8318-4068978936E2",
+          "locality" : "Wauconda",
+          "name" : "Lakewood Forest Preserve",
+          "country" : "United States",
+          "administrativeArea" : "IL"
+        },
+        "horizontalAccuracy" : 30,
+        "speed" : -1
+      },
+      "altitude" : {
+        "gpsRawAltitude" : 268,
+        "uniqueIdentifier" : "F4DA330A-69C0-4DA2-9685-21EDFFC5E141"
+      },
+      "reportImpetus" : 0,
+      "steps" : -1,
+      "audio" : {
+        "avg" : -53.60259,
+        "uniqueIdentifier" : "BB4A7F27-1EE8-458D-8218-05DA5D5D7BC6",
+        "peak" : -33.84545
+      },
+      "photoSet" : {
+        "photos" : [
+          {
+            "brightnessValue" : 8.230561,
+            "meteringMode" : 5,
+            "focalLengthIn35mm" : 35,
+            "sceneCaptureType" : 0,
+            "exposureMode" : 0,
+            "resolutionUnit" : 2,
+            "make" : "Apple",
+            "software" : "8.3",
+            "assetUrl" : "assets-library:\/\/asset\/asset.JPG?id=6FDDF602-210F-42F1-9908-EEA0B4897C43&ext=JPG",
+            "isoSpeed" : 50,
+            "exposureTime" : 0.001158749,
+            "shutterSpeed" : 9.752904,
+            "depth" : 8,
+            "latitude" : 0,
+            "fNumber" : 2.4,
+            "sensingMode" : 2,
+            "uniqueIdentifier" : "63DD8BD6-B735-4DEC-9EE2-5D36E434FB48",
+            "longitude" : 0,
+            "apertureValue" : 2.526069,
+            "focalLength" : 4.28,
+            "model" : "iPhone 4S",
+            "altitude" : 0,
+            "exposureProgram" : 2,
+            "pixelWidth" : 3264,
+            "dateTime" : "2015-06-20T10:31:35-0500",
+            "flash" : 16,
+            "orientation" : 6,
+            "pixelHeight" : 2448,
+            "whiteBalance" : 0
+          }
+        ],
+        "uniqueIdentifier" : "A4B23C04-4433-4CF8-A4B7-A6D77B5E6F3E"
+      },
+      "sectionIdentifier" : "1-2015-6-20",
+      "uniqueIdentifier" : "BF776698-F358-438E-A551-4073C40B13C7",
+      "connection" : 0,
+      "background" : 0,
+      "draft" : 0,
+      "weather" : {
+        "windMPH" : 4,
+        "windDirection" : "WSW",
+        "tempF" : 72.40000000000001,
+        "precipTodayIn" : 0,
+        "windGustKPH" : 6.4,
+        "feelslikeC" : 22.4,
+        "visibilityMi" : 10,
+        "feelslikeF" : 72.40000000000001,
+        "stationID" : "KILMUNDE4",
+        "latitude" : 42.253887,
+        "windGustMPH" : 4,
+        "pressureIn" : 29.95,
+        "pressureMb" : 1014,
+        "relativeHumidity" : "76%",
+        "uniqueIdentifier" : "DFC49C27-FE55-4FA9-84A1-BEFE13440A0B",
+        "longitude" : -88.04666899999999,
+        "precipTodayMetric" : 0,
+        "windKPH" : 6.4,
+        "windDegrees" : 254,
+        "tempC" : 22.4,
+        "weather" : "Overcast",
+        "uv" : 3,
+        "dewpointC" : 18,
+        "visibilityKM" : 16.1
+      },
+      "date" : "2015-06-20T11:32:13-0500",
+      "responses" : [
+        {
+          "questionPrompt" : "What are you doing?",
+          "tokens" : [
+            {
+              "text" : "Gear malfunction",
+              "uniqueIdentifier" : "C560A558-FE76-4426-9290-B0AA29F70A53"
+            }
+          ],
+          "uniqueIdentifier" : "4FA89E48-71D8-4FBD-84F7-14A88CCCFE41"
+        },
+        {
+          "questionPrompt" : "Who are you with?",
+          "tokens" : [
+            {
+              "text" : "Dad Quincy Adrian",
+              "uniqueIdentifier" : "1DB472EB-8D54-4B74-B056-C304F930F775"
+            }
+          ],
+          "uniqueIdentifier" : "68973387-47FE-4EB7-A60D-A40CF0EC8AB0"
+        },
+        {
+          "questionPrompt" : "What is the weather like?",
+          "tokens" : [
+            {
+              "text" : "Sunny",
+              "uniqueIdentifier" : "BE5C21E8-AA75-4D9D-BE9F-E0C590970D1B"
+            }
+          ],
+          "uniqueIdentifier" : "71C32EF2-2963-49A3-86A6-00A20E046DC6"
+        },
+        {
+          "questionPrompt" : "Have you seen an animal?",
+          "tokens" : [
+            {
+              "text" : "Heron",
+              "uniqueIdentifier" : "2C9A57B4-C2AC-429B-A1D9-C6F43A43DA3D"
+            }
+          ],
+          "uniqueIdentifier" : "589EDB6C-81CA-42DA-B755-F13861E7A455"
+        },
+        {
+          "questionPrompt" : "Are you working?",
+          "answeredOptions" : [
+            "No"
+          ],
+          "uniqueIdentifier" : "5F875A65-F62E-4A4B-91F2-A44CABD800DA"
+        },
+        {
+          "questionPrompt" : "Where are you?",
+          "locationResponse" : {
+            "uniqueIdentifier" : "FBE1E990-2252-4E53-9FFA-93155E5FAA1A",
+            "text" : "Lakewood Forest Preserve",
+            "location" : {
+              "altitude" : 0,
+              "timestamp" : "2015-06-20T11:32:50-0500",
+              "verticalAccuracy" : -1,
+              "longitude" : -88.10914993286133,
+              "latitude" : 42.26193846806108,
+              "course" : 0,
+              "uniqueIdentifier" : "E482A7EE-04F5-4162-92ED-A14DCEC14339",
+              "horizontalAccuracy" : 0,
+              "speed" : -1
+            },
+            "foursquareVenueId" : "4c03ee536c349c74af6e750c"
+          },
+          "uniqueIdentifier" : "61411CB0-D55D-4775-9397-6C6C9568EA01"
+        }
+      ]
+    },
+    {
+      "battery" : 0.75,
+      "location" : {
+        "altitude" : 243,
+        "timestamp" : "2015-06-20T12:44:39-0500",
+        "verticalAccuracy" : 3,
+        "longitude" : -88.14975061462088,
+        "latitude" : 42.27794216018382,
+        "course" : 0,
+        "uniqueIdentifier" : "2A939A18-087A-4A1C-A050-63916BF4DF58",
+        "placemark" : {
+          "thoroughfare" : "N Old Rand Rd",
+          "postalCode" : "60084",
+          "subAdministrativeArea" : "Lake",
+          "subThoroughfare" : "1200",
+          "region" : "<+42.27799925,-88.14939310> radius 72.86",
+          "uniqueIdentifier" : "529FE936-6F7F-42CD-89C0-681E7D02A177",
+          "locality" : "Wauconda",
+          "name" : "1200 N Old Rand Rd",
+          "country" : "United States",
+          "administrativeArea" : "IL"
+        },
+        "horizontalAccuracy" : 30,
+        "speed" : -1
+      },
+      "altitude" : {
+        "gpsRawAltitude" : 243,
+        "uniqueIdentifier" : "49DD02BB-5C20-49A7-AA26-FCC13973E274"
+      },
+      "reportImpetus" : 0,
+      "steps" : -1,
+      "audio" : {
+        "avg" : -37.57503,
+        "uniqueIdentifier" : "FAEF18C0-5A0E-47FA-A0AA-13032F9444F6",
+        "peak" : -28.00386
+      },
+      "sectionIdentifier" : "1-2015-6-20",
+      "uniqueIdentifier" : "94A56B69-3AD0-41E4-B121-D805F2AD91C5",
+      "connection" : 0,
+      "background" : 0,
+      "draft" : 0,
+      "weather" : {
+        "windMPH" : 4.3,
+        "windDirection" : "SSW",
+        "tempF" : 74.5,
+        "precipTodayIn" : 0,
+        "windGustKPH" : 16.9,
+        "feelslikeC" : 23.6,
+        "visibilityMi" : 10,
+        "feelslikeF" : 74.5,
+        "stationID" : "KILWAUCO4",
+        "latitude" : 42.275158,
+        "windGustMPH" : 10.5,
+        "pressureIn" : 29.87,
+        "pressureMb" : 1011,
+        "relativeHumidity" : "73%",
+        "uniqueIdentifier" : "520D4508-E8E8-4827-A7B1-0F179DAED1FF",
+        "longitude" : -88.12799800000001,
+        "precipTodayMetric" : 0,
+        "windKPH" : 6.9,
+        "windDegrees" : 202,
+        "tempC" : 23.6,
+        "weather" : "Partly Cloudy",
+        "uv" : 6,
+        "dewpointC" : 19,
+        "visibilityKM" : 16.1
+      },
+      "date" : "2015-06-20T12:44:31-0500",
+      "responses" : [
+        {
+          "questionPrompt" : "Who are you with?",
+          "tokens" : [
+            {
+              "text" : "Dad Quincy Adrian",
+              "uniqueIdentifier" : "1DB472EB-8D54-4B74-B056-C304F930F775"
+            }
+          ],
+          "uniqueIdentifier" : "68973387-47FE-4EB7-A60D-A40CF0EC8AB0"
+        },
+        {
+          "questionPrompt" : "What is the weather like?",
+          "tokens" : [
+            {
+              "text" : "Sunny",
+              "uniqueIdentifier" : "BE5C21E8-AA75-4D9D-BE9F-E0C590970D1B"
+            }
+          ],
+          "uniqueIdentifier" : "71C32EF2-2963-49A3-86A6-00A20E046DC6"
+        },
+        {
+          "questionPrompt" : "Have you seen an animal?",
+          "tokens" : [
+            {
+              "text" : "Red wing black bird",
+              "uniqueIdentifier" : "50DCD5D4-CA7F-41A0-AE93-E480096EFDA9"
+            }
+          ],
+          "uniqueIdentifier" : "4861F35A-D7FF-41D2-8BEB-9A3C991334B0"
+        },
+        {
+          "questionPrompt" : "Are you working?",
+          "answeredOptions" : [
+            "No"
+          ],
+          "uniqueIdentifier" : "5F875A65-F62E-4A4B-91F2-A44CABD800DA"
+        },
+        {
+          "questionPrompt" : "Where are you?",
+          "locationResponse" : {
+            "uniqueIdentifier" : "689FE83B-34E6-445A-BDD7-2E287F158BE8",
+            "text" : "J.J. Twig's Pizza & Pub",
+            "location" : {
+              "altitude" : 0,
+              "timestamp" : "2015-06-20T12:45:14-0500",
+              "verticalAccuracy" : -1,
+              "longitude" : -88.14943,
+              "latitude" : 42.277915,
+              "course" : 0,
+              "uniqueIdentifier" : "0EDEF8F9-BD45-4DD4-AF67-87C001A2A3F0",
+              "horizontalAccuracy" : 0,
+              "speed" : -1
+            },
+            "foursquareVenueId" : "4b7b71e9f964a520e5632fe3"
+          },
+          "uniqueIdentifier" : "0316003B-814D-436D-9206-00132A5E84A8"
+        },
+        {
+          "questionPrompt" : "What are you doing?",
+          "tokens" : [
+            {
+              "text" : "Lunch",
+              "uniqueIdentifier" : "68145E1F-148C-4D50-B746-9C1F05191A0F"
+            }
+          ],
+          "uniqueIdentifier" : "A0EDEDE2-1B3C-4159-BB62-665ECC0E105B"
+        }
+      ]
+    },
+    {
+      "battery" : 0.57,
+      "location" : {
+        "altitude" : 210,
+        "timestamp" : "2015-06-20T15:26:59-0500",
+        "verticalAccuracy" : 48,
+        "longitude" : -88.30683192246435,
+        "latitude" : 42.42226914506631,
+        "course" : 0,
+        "uniqueIdentifier" : "70D92B27-6B8C-4548-BB18-8D2D7432BE06",
+        "placemark" : {
+          "postalCode" : "60072",
+          "subAdministrativeArea" : "McHenry",
+          "region" : "<+42.42261500,-88.32058100> radius 3076.00",
+          "uniqueIdentifier" : "542576E6-228C-4826-8B84-5399304EC0A4",
+          "locality" : "Ringwood",
+          "name" : "Glacial County Park",
+          "country" : "United States",
+          "administrativeArea" : "IL"
+        },
+        "horizontalAccuracy" : 50,
+        "speed" : -1
+      },
+      "altitude" : {
+        "gpsRawAltitude" : 210,
+        "uniqueIdentifier" : "1B8A6CCC-5229-4B16-B2EE-4E19A878C4D2"
+      },
+      "reportImpetus" : 0,
+      "steps" : -1,
+      "audio" : {
+        "avg" : -29.17314,
+        "uniqueIdentifier" : "7AB3D21D-19EB-40F3-9967-B99AB92C7A15",
+        "peak" : -23.27984
+      },
+      "photoSet" : {
+        "photos" : [
+          {
+            "brightnessValue" : 9.706716,
+            "meteringMode" : 5,
+            "focalLengthIn35mm" : 35,
+            "sceneCaptureType" : 0,
+            "exposureMode" : 0,
+            "resolutionUnit" : 2,
+            "make" : "Apple",
+            "software" : "8.3",
+            "assetUrl" : "assets-library:\/\/asset\/asset.JPG?id=F2C2655C-A516-4D71-A0BB-1344066482E3&ext=JPG",
+            "isoSpeed" : 50,
+            "exposureTime" : 0.0005790388,
+            "shutterSpeed" : 10.75415,
+            "depth" : 8,
+            "latitude" : 0,
+            "fNumber" : 2.4,
+            "sensingMode" : 2,
+            "uniqueIdentifier" : "D8FBB701-3CB7-40B4-A78F-872CA209DCFC",
+            "longitude" : 0,
+            "apertureValue" : 2.526069,
+            "focalLength" : 4.28,
+            "model" : "iPhone 4S",
+            "altitude" : 0,
+            "exposureProgram" : 2,
+            "pixelWidth" : 3264,
+            "dateTime" : "2015-06-20T14:55:10-0500",
+            "flash" : 16,
+            "orientation" : 6,
+            "pixelHeight" : 2448,
+            "whiteBalance" : 0
+          },
+          {
+            "brightnessValue" : 10.17866,
+            "meteringMode" : 5,
+            "focalLengthIn35mm" : 35,
+            "sceneCaptureType" : 0,
+            "exposureMode" : 0,
+            "resolutionUnit" : 2,
+            "make" : "Apple",
+            "software" : "8.3",
+            "assetUrl" : "assets-library:\/\/asset\/asset.JPG?id=F5E8C418-2470-484B-B321-477B0C8200C5&ext=JPG",
+            "isoSpeed" : 50,
+            "exposureTime" : 0.0006161429,
+            "shutterSpeed" : 10.66478,
+            "depth" : 8,
+            "latitude" : 0,
+            "fNumber" : 2.4,
+            "sensingMode" : 2,
+            "uniqueIdentifier" : "FA79806E-E8DA-4888-8FC0-5AF9D0F46DAA",
+            "longitude" : 0,
+            "apertureValue" : 2.526069,
+            "focalLength" : 4.28,
+            "model" : "iPhone 4S",
+            "altitude" : 0,
+            "exposureProgram" : 2,
+            "pixelWidth" : 3264,
+            "dateTime" : "2015-06-20T15:02:23-0500",
+            "flash" : 16,
+            "orientation" : 6,
+            "pixelHeight" : 2448,
+            "whiteBalance" : 0
+          }
+        ],
+        "uniqueIdentifier" : "D270B518-B050-4A77-AED3-0A88E5B96DB1"
+      },
+      "sectionIdentifier" : "1-2015-6-20",
+      "uniqueIdentifier" : "CE097EC3-0407-4166-A966-1195C35E9F00",
+      "connection" : 0,
+      "background" : 0,
+      "draft" : 0,
+      "weather" : {
+        "windMPH" : 7,
+        "windDirection" : "SE",
+        "tempF" : 75,
+        "precipTodayIn" : 0,
+        "windGustKPH" : 12.9,
+        "feelslikeC" : 23.9,
+        "visibilityMi" : 10,
+        "feelslikeF" : 75,
+        "stationID" : "KILRINGW2",
+        "latitude" : 42.417984,
+        "windGustMPH" : 8,
+        "pressureIn" : 29.81,
+        "pressureMb" : 1009,
+        "relativeHumidity" : "76%",
+        "uniqueIdentifier" : "5108A2D6-36BC-41AE-B9EF-A824A172EC29",
+        "longitude" : -88.281982,
+        "precipTodayMetric" : 0,
+        "windKPH" : 11.3,
+        "windDegrees" : 131,
+        "tempC" : 23.9,
+        "weather" : "Mostly Cloudy",
+        "uv" : 2,
+        "dewpointC" : 19,
+        "visibilityKM" : 16.1
+      },
+      "date" : "2015-06-20T15:26:49-0500",
+      "responses" : [
+        {
+          "questionPrompt" : "Where are you?",
+          "locationResponse" : {
+            "uniqueIdentifier" : "BA2133A3-95C0-414F-B483-E4EEDF10AF3F",
+            "text" : "Glacial Park",
+            "location" : {
+              "altitude" : 0,
+              "timestamp" : "2015-06-20T15:27:14-0500",
+              "verticalAccuracy" : -1,
+              "longitude" : -88.30661038339269,
+              "latitude" : 42.42232210768356,
+              "course" : 0,
+              "uniqueIdentifier" : "4EB23B87-0FBE-4FC5-9F40-9CF1580FF92F",
+              "horizontalAccuracy" : 0,
+              "speed" : -1
+            },
+            "foursquareVenueId" : "4e18a4be62e12640d877cdbc"
+          },
+          "uniqueIdentifier" : "AC25FD2E-B972-4BE3-B421-3515B6BD2BF1"
+        },
+        {
+          "questionPrompt" : "What are you doing?",
+          "tokens" : [
+            {
+              "text" : "Drink stop",
+              "uniqueIdentifier" : "37C83FE8-1978-410F-AF2B-CA5A0D865DF0"
+            }
+          ],
+          "uniqueIdentifier" : "338D24D2-840E-4E0C-AA0D-9913AE565551"
+        },
+        {
+          "questionPrompt" : "What is the weather like?",
+          "tokens" : [
+            {
+              "text" : "Cloudy",
+              "uniqueIdentifier" : "85544233-3D5C-43DF-8E0F-25D6650B26BD"
+            }
+          ],
+          "uniqueIdentifier" : "37833D68-3864-43FF-8DED-F7DBEA7A7E0C"
+        },
+        {
+          "questionPrompt" : "Are you working?",
+          "answeredOptions" : [
+            "No"
+          ],
+          "uniqueIdentifier" : "5F875A65-F62E-4A4B-91F2-A44CABD800DA"
+        },
+        {
+          "questionPrompt" : "Have you seen an animal?",
+          "tokens" : [
+            {
+              "text" : "Cow horses",
+              "uniqueIdentifier" : "4404FC29-CA12-482A-978F-459C197858AC"
+            }
+          ],
+          "uniqueIdentifier" : "52F899DF-EDFA-4E15-8B69-A2D52270245D"
+        },
+        {
+          "questionPrompt" : "Who are you with?",
+          "tokens" : [
+            {
+              "text" : "Dad Quincy Adrian",
+              "uniqueIdentifier" : "1DB472EB-8D54-4B74-B056-C304F930F775"
+            }
+          ],
+          "uniqueIdentifier" : "68973387-47FE-4EB7-A60D-A40CF0EC8AB0"
+        }
+      ]
+    },
+    {
+      "battery" : 0.44,
+      "location" : {
+        "altitude" : 289,
+        "timestamp" : "2015-06-20T19:36:39-0500",
+        "verticalAccuracy" : 10,
+        "longitude" : -88.61218437580985,
+        "latitude" : 42.39689753951758,
+        "course" : 0,
+        "uniqueIdentifier" : "263F6F90-880B-4BD5-8DDC-811F38BAD8CB",
+        "placemark" : {
+          "thoroughfare" : "S Division St",
+          "postalCode" : "60033",
+          "subAdministrativeArea" : "McHenry",
+          "subThoroughfare" : "1701",
+          "region" : "<+42.39677265,-88.61210440> radius 85.64",
+          "uniqueIdentifier" : "C1731E3E-FD9C-44CB-9828-9A9428B59C6E",
+          "locality" : "Harvard",
+          "name" : "1701 S Division St",
+          "country" : "United States",
+          "administrativeArea" : "IL"
+        },
+        "horizontalAccuracy" : 65,
+        "speed" : -1
+      },
+      "altitude" : {
+        "gpsRawAltitude" : 289,
+        "uniqueIdentifier" : "AE93A13E-F247-4C4F-BE17-15AD20DEDF9B"
+      },
+      "reportImpetus" : 0,
+      "steps" : -1,
+      "audio" : {
+        "avg" : -39.33853,
+        "uniqueIdentifier" : "0A15C2DF-9018-42B3-A1C1-29EC78F249BF",
+        "peak" : -19.61527
+      },
+      "sectionIdentifier" : "1-2015-6-20",
+      "uniqueIdentifier" : "42D283AD-EBB0-4E80-8B45-344562922967",
+      "connection" : 0,
+      "background" : 0,
+      "draft" : 0,
+      "weather" : {
+        "windMPH" : 0,
+        "windDirection" : "SSW",
+        "tempF" : 65.2,
+        "precipTodayIn" : 0.16,
+        "windGustKPH" : 1.6,
+        "feelslikeC" : 18.4,
+        "visibilityMi" : 10,
+        "feelslikeF" : 65.2,
+        "stationID" : "KILHARVA4",
+        "latitude" : 42.420307,
+        "windGustMPH" : 1,
+        "pressureIn" : 29.8,
+        "pressureMb" : 1009,
+        "relativeHumidity" : "97%",
+        "uniqueIdentifier" : "14C3032E-DAA3-4014-BFCC-6974BD3B7528",
+        "longitude" : -88.608841,
+        "precipTodayMetric" : 4,
+        "windKPH" : 0,
+        "windDegrees" : 206,
+        "tempC" : 18.4,
+        "weather" : "Thunderstorm",
+        "uv" : 1,
+        "dewpointC" : 18,
+        "visibilityKM" : 16.1
+      },
+      "date" : "2015-06-20T19:36:36-0500",
+      "responses" : [
+        {
+          "questionPrompt" : "Where are you?",
+          "locationResponse" : {
+            "uniqueIdentifier" : "36B112C6-A11E-4BC6-BD0F-BED9991496A5",
+            "text" : "Heritage Inn & Suites",
+            "location" : {
+              "altitude" : 0,
+              "timestamp" : "2015-06-20T19:37:04-0500",
+              "verticalAccuracy" : -1,
+              "longitude" : -88.61226499999999,
+              "latitude" : 42.39686,
+              "course" : 0,
+              "uniqueIdentifier" : "244402FA-95D2-4D0F-A016-7B6FE420C409",
+              "horizontalAccuracy" : 0,
+              "speed" : -1
+            },
+            "foursquareVenueId" : "4bc3474cdce4eee15c87719d"
+          },
+          "uniqueIdentifier" : "0FDE09B8-3109-419F-8D7E-231CAE3DE4AE"
+        },
+        {
+          "questionPrompt" : "What is the weather like?",
+          "tokens" : [
+            {
+              "text" : "Rainy",
+              "uniqueIdentifier" : "7E8B4DAC-99EF-46FD-8702-3F2E80E79C7C"
+            }
+          ],
+          "uniqueIdentifier" : "BC9DDB22-C534-4A7A-B487-A81E2E921583"
+        },
+        {
+          "questionPrompt" : "Who are you with?",
+          "tokens" : [
+            {
+              "text" : "Dad Quincy Adrian",
+              "uniqueIdentifier" : "1DB472EB-8D54-4B74-B056-C304F930F775"
+            }
+          ],
+          "uniqueIdentifier" : "68973387-47FE-4EB7-A60D-A40CF0EC8AB0"
+        },
+        {
+          "questionPrompt" : "Are you working?",
+          "answeredOptions" : [
+            "No"
+          ],
+          "uniqueIdentifier" : "5F875A65-F62E-4A4B-91F2-A44CABD800DA"
+        },
+        {
+          "questionPrompt" : "Have you seen an animal?",
+          "tokens" : [
+            {
+              "text" : "Cow horses",
+              "uniqueIdentifier" : "4404FC29-CA12-482A-978F-459C197858AC"
+            }
+          ],
+          "uniqueIdentifier" : "52F899DF-EDFA-4E15-8B69-A2D52270245D"
+        },
+        {
+          "questionPrompt" : "What are you doing?",
+          "tokens" : [
+            {
+              "text" : "Camp",
+              "uniqueIdentifier" : "D96BEA3A-361C-4ABE-8CEE-A6BFB7DB67FB"
+            }
+          ],
+          "uniqueIdentifier" : "F48B4157-581B-43CE-A1C7-6C0F84EB2CF0"
+        }
+      ]
+    },
+    {
+      "battery" : 0.3,
+      "location" : {
+        "altitude" : 288.2683715820312,
+        "timestamp" : "2015-06-20T21:49:07-0500",
+        "verticalAccuracy" : 10,
+        "longitude" : -88.61217789181805,
+        "latitude" : 42.39703693892201,
+        "course" : 0,
+        "uniqueIdentifier" : "F65C81CA-F00B-4B06-A93E-B142ECB664E7",
+        "placemark" : {
+          "thoroughfare" : "S Division St",
+          "postalCode" : "60033",
+          "subAdministrativeArea" : "McHenry",
+          "subThoroughfare" : "1701",
+          "region" : "<+42.39677265,-88.61210440> radius 85.64",
+          "uniqueIdentifier" : "B38D59F3-8C18-4D91-9EE8-7A0B5EE36D85",
+          "locality" : "Harvard",
+          "name" : "1701 S Division St",
+          "country" : "United States",
+          "administrativeArea" : "IL"
+        },
+        "horizontalAccuracy" : 65,
+        "speed" : -1
+      },
+      "altitude" : {
+        "gpsRawAltitude" : 288.2683715820312,
+        "uniqueIdentifier" : "A71DA282-5BDF-46C8-BE82-1A93EC581D58"
+      },
+      "reportImpetus" : 3,
+      "steps" : -1,
+      "audio" : {
+        "avg" : -44.27783,
+        "uniqueIdentifier" : "9E87BA41-6617-49EA-87FF-A2652189DA05",
+        "peak" : -34.6324
+      },
+      "photoSet" : {
+        "photos" : [
+          {
+            "brightnessValue" : -2.283333,
+            "meteringMode" : 3,
+            "focalLengthIn35mm" : 35,
+            "sceneCaptureType" : 0,
+            "exposureMode" : 0,
+            "resolutionUnit" : 2,
+            "make" : "Apple",
+            "software" : "8.3",
+            "assetUrl" : "assets-library:\/\/asset\/asset.JPG?id=77CC8E6D-8E4A-4F8B-A94F-7885FB599FE2&ext=JPG",
+            "isoSpeed" : 800,
+            "exposureTime" : 0.06666667,
+            "shutterSpeed" : 3.906905,
+            "depth" : 8,
+            "latitude" : 0,
+            "fNumber" : 2.4,
+            "sensingMode" : 2,
+            "uniqueIdentifier" : "89CF8120-D035-4A1F-80F9-900FED768A46",
+            "longitude" : 0,
+            "apertureValue" : 2.526069,
+            "focalLength" : 4.28,
+            "model" : "iPhone 4S",
+            "altitude" : 0,
+            "exposureProgram" : 2,
+            "pixelWidth" : 3264,
+            "dateTime" : "2015-06-20T20:17:43-0500",
+            "flash" : 16,
+            "orientation" : 6,
+            "pixelHeight" : 2448,
+            "whiteBalance" : 0
+          }
+        ],
+        "uniqueIdentifier" : "F8143DEF-A4EE-4236-AB4A-6189526AAB69"
+      },
+      "sectionIdentifier" : "1-2015-6-20",
+      "uniqueIdentifier" : "5A215DCB-8C5B-41FB-8345-6F05D18B3120",
+      "connection" : 0,
+      "background" : 0,
+      "draft" : 0,
+      "weather" : {
+        "windMPH" : 0,
+        "windDirection" : "NNE",
+        "tempF" : 65.2,
+        "precipTodayIn" : 0.33,
+        "windGustKPH" : 0,
+        "feelslikeC" : 18.4,
+        "visibilityMi" : 7,
+        "feelslikeF" : 65.2,
+        "stationID" : "KILHARVA4",
+        "latitude" : 42.420307,
+        "windGustMPH" : 0,
+        "pressureIn" : 29.82,
+        "pressureMb" : 1010,
+        "relativeHumidity" : "99%",
+        "uniqueIdentifier" : "C2B826AA-B72C-431C-80E6-08DB6BA1CB9A",
+        "longitude" : -88.608841,
+        "precipTodayMetric" : 8,
+        "windKPH" : 0,
+        "windDegrees" : 15,
+        "tempC" : 18.4,
+        "weather" : "Thunderstorm",
+        "uv" : 0,
+        "dewpointC" : 18,
+        "visibilityKM" : 11.3
+      },
+      "date" : "2015-06-20T21:49:05-0500",
+      "responses" : [
+        {
+          "questionPrompt" : "What did you learn today?",
+          "textResponses" : [
+            {
+              "text" : "I learned about gas lines from Adrian ",
+              "uniqueIdentifier" : "EF4AF274-E867-4E6A-AA77-87EF0F1475AF"
+            }
+          ],
+          "uniqueIdentifier" : "AD97DA69-2903-4EE7-AE0A-F69F7547C10B"
+        }
+      ]
+    }
+  ],
+  "questions" : [
+    {
+      "prompt" : "How did you sleep?",
+      "questionType" : 1,
+      "uniqueIdentifier" : "default-question-1"
+    },
+    {
+      "prompt" : "Are you working?",
+      "questionType" : 2,
+      "uniqueIdentifier" : "default-question-2"
+    },
+    {
+      "prompt" : "How many coffees did you have today?",
+      "questionType" : 5,
+      "uniqueIdentifier" : "default-question-6"
+    },
+    {
+      "prompt" : "What are you doing?",
+      "questionType" : 0,
+      "uniqueIdentifier" : "default-question-3"
+    },
+    {
+      "prompt" : "Who are you with?",
+      "questionType" : 4,
+      "uniqueIdentifier" : "default-question-5",
+      "placeholderString" : "No one"
+    },
+    {
+      "prompt" : "Where are you?",
+      "questionType" : 3,
+      "uniqueIdentifier" : "default-question-4"
+    },
+    {
+      "prompt" : "What did you learn today?",
+      "questionType" : 6,
+      "uniqueIdentifier" : "default-question-7"
+    },
+    {
+      "prompt" : "What is the weather like?",
+      "questionType" : 0,
+      "uniqueIdentifier" : "C6D94168-5AB1-4EFC-9247-DEDD4126FF80"
+    },
+    {
+      "prompt" : "Have you seen an animal?",
+      "questionType" : 0,
+      "uniqueIdentifier" : "8A43B95E-2E90-45B9-8EA8-3B9539F90B00"
+    }
+  ]
+}
