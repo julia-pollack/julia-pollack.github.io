@@ -3,8 +3,8 @@ layout: post
 title: "Abstract"
 date: 2015-06-20
 backgrounds:
-    - http://julia-pollack.github.io/assets/photo/2015-06-22%2015.50.46.jpg
-thumb: http://julia-pollack.github.io/assets/photo/2015-06-22%2015.50.46.jpg
+    - https://dl.dropboxusercontent.com/u/18322837/cdn/Streetwill/desk.jpeg
+thumb: https://dl.dropboxusercontent.com/u/18322837/cdn/Streetwill/thumbs/drum-rudiment.jpeg
 category: music
 tags: relax fun songs playlist
 ---
@@ -13,7 +13,7 @@ Crossing the Great Divide has been a working project for over two years. The pro
 I will use a praxis-based model of Digital Humanities investigation to interrogate my archives of Data. This project will consider the parameters of each data collected and ask the question, what is made apparent in this data and what remains hidden? By closely reading quantitative and qualitative data side by side, I will explore how these forms of information support each other in order to create a more complex Digital Humanities argument. 
 This project is a step into the creative possibilities of firsthand participatory research that will shape new modes of discussion around history, humanities, art and the digital world.
     
-![Sample Image](http://wfiles.brothersoft.com/m/m_s/majestic-mountain-range_6807-480x360.jpg)
+![Sample Image](http://julia-pollack.github.io/assets/photo/2015-06-22%2015.50.46.jpg)
 
 ## What is this site?
 The final product of this thesis will be in the form of an open book. By creating this comparative analysis around humanities data forms in an open digital space, I will allow the model of my argument to design the visual information of my publication. With an open book design, other humanities scholars will be able to access the data in my thesis and utilize its properties to build unique projects of their own.
