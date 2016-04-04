@@ -3,7 +3,7 @@ layout: post
 title: "Abstract"
 date: 2015-06-20
 backgrounds:
-    - https://dl.dropboxusercontent.com/u/18322837/cdn/Streetwill/desk.jpeg
+    - http://julia-pollack.github.io/assets/photo/2015-06-22%2015.50.46.jpg
 thumb: https://dl.dropboxusercontent.com/u/18322837/cdn/Streetwill/thumbs/drum-rudiment.jpeg
 category: music
 tags: relax fun songs playlist
