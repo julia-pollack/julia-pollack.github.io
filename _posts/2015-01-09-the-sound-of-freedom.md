@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "The Sound of Freedom"
+title: "Abstract"
 date: 2015-01-09
 backgrounds:
     - https://dl.dropboxusercontent.com/u/18322837/cdn/Streetwill/desk.jpeg
