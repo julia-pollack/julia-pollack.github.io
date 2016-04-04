@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Back to Work"
+title: "Photography as Evidence"
 date: 2015-02-06
 backgrounds:
     - https://dl.dropboxusercontent.com/u/18322837/cdn/Streetwill/code-screen.jpg

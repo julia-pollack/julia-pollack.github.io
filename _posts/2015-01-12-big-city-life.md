@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Big City Life"
+title: "Geospatial Data as Evidence"
 date: 2015-01-12
 backgrounds:
     - https://dl.dropboxusercontent.com/u/18322837/cdn/Streetwill/vanilla.jpeg
