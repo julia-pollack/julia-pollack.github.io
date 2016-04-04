@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Abstract"
-date: section 1
+date: 2015-06-20
 backgrounds:
     - https://dl.dropboxusercontent.com/u/18322837/cdn/Streetwill/desk.jpeg
 thumb: https://dl.dropboxusercontent.com/u/18322837/cdn/Streetwill/thumbs/drum-rudiment.jpeg
