@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 
-Travelogue is a minimal, single-column Jekyll theme that provides an immersive read experience for your readers.
+This project is... Travelogue is a minimal, single-column Jekyll theme that provides an immersive read experience for your readers.
 
 ![Post](https://dl.dropboxusercontent.com/u/18322837/GitHub/Travelogue/Post.png)
 
