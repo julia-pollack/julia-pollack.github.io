@@ -4,7 +4,9 @@ title: "Geospatial Data as Evidence"
 date: 2015-01-12
 backgrounds:
     - http://julia-pollack.github.io/assets/images/ilustration/altitude_happy_OLS.jpg
-thumb: http://julia-pollack.github.io/assets/images/ilustration/elevation.png
+    - http://julia-pollack.github.io/assets/images/ilustration/altitude_happy_OLS.jpg
+    - http://julia-pollack.github.io/assets/images/ilustration/altitude_happy_OLS.jpg
+thumb: http://julia-pollack.github.io/assets/images/ilustration/ols.JPG
 categories: travel city
 tags: work business metropolis
 ---

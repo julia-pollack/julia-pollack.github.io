@@ -4,6 +4,8 @@ title: "Context"
 date: 2015-06-25
 backgrounds:
     - http://julia-pollack.github.io/assets/images/ilustration/wordcloud_journal.png
+    - http://julia-pollack.github.io/assets/images/ilustration/wordcloud_journal.png
+    - http://julia-pollack.github.io/assets/images/ilustration/wordcloud_journal.png
 
 thumb: http://julia-pollack.github.io/assets/photo/2015-06-28%2012.00.59-1.jpg
 category: photography
