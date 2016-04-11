@@ -6,6 +6,7 @@ backgrounds:
     - http://julia-pollack.github.io/assets/images/ilustration/altitude_happy_OLS.jpg
     - http://julia-pollack.github.io/assets/images/ilustration/altitude_happy_OLS.jpg
     - http://julia-pollack.github.io/assets/images/ilustration/altitude_happy_OLS.jpg
+
 thumb: http://julia-pollack.github.io/assets/images/ilustration/ols.JPG
 categories: travel city
 tags: work business metropolis

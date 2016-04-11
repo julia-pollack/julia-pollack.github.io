@@ -4,8 +4,7 @@ title: "Textual Account as Evidence"
 date: 2015-02-05
 backgrounds:
     - http://julia-pollack.github.io/assets/photo/2015-07-23%2012.33.33.jpg
-    -http://julia-pollack.github.io/assets/photo/2015-07-23%2012.33.41.jpg
-    -http://julia-pollack.github.io/assets/photo/2015-07-23%2012.33.49.jpg
+
 thumb: http://julia-pollack.github.io/assets/images/ilustration/elevation.png
 categories: travel city
 tags: japan winter spring metropolis
