@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Textual Account as Evidence"
-date: 2015-02-05
+date: 2015-06-23
 backgrounds:
     - http://julia-pollack.github.io/assets/photo/2015-07-23%2012.33.33.jpg
 

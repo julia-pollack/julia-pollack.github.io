@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Context"
-date: 2015-06-25
+date: 2015-06-21
 backgrounds:
     - http://julia-pollack.github.io/assets/images/ilustration/wordcloud_journal.png
     - http://julia-pollack.github.io/assets/images/ilustration/wordcloud_journal.png
@@ -21,7 +21,7 @@ All of the raw data discussed in this project is open and available in the Githu
 
 ## Footnotes
 
-1. “Crossing the Great Divide” http://www.crossingthegreatdivide.net/ Web. 6 April 2016.
+1. “Crossing the Great Divide” <a href="http://www.crossingthegreatdivide.net/">http://www.crossingthegreatdivide.net/</a> Web. 6 April 2016.
 2. “Travelogue” http://julia-pollack.github.io/ Web. 6 April 2016.
 3. Gold, Matthew K., ed. 2012. Debates in the Digital Humanities. Minneapolis, MN, USA: University of Minnesota Press. Accessed April 6, 2016. ProQuest ebrary.
 4. Gold, Matthew K., ed. 2012. Debates in the Digital Humanities. Minneapolis, MN, USA: University of Minnesota Press. Accessed April 6, 2016. ProQuest ebrary.
