@@ -14,26 +14,26 @@ At the end of every day of our journey we journaled and recorded personal experi
 I practiced this method through the process of coding and recoding thematic elements of the journal texts. I then created a bank of terms that reoccurred most often throughout the text. I then tallied the occurrence of these words to create a list of terms and their frequency. In Figure 15 the most frequent recurring theme that was coded was “history and emotion.” The term “history and emotion” refers to a time in the journal where we wrote about a historical event that took place in the space we inhabited and then reflected on the way that historical happening affected us today. It was a process of connecting with the past in a physical space and time and then recoding that memory and the feeling around that experience in a textual form. The terms “violence” and “history” go hand in hand with the practice of historical reflection outlined in the term “history and emotion”. The term “violence” outlines a time when we were overcome with the presence of historical violence in a part of the landscape, and “history” refers to a time when we take note of a historical event without specific emotional reflection. On day three of our journey we write, “We pass through Sinsinawa Mounds. This high mounded landscape was eventually turned into a convent after being wrestled away from the native tribes that inhabited the area. This was where Chief Blackhawk had his last stand as he was eventually driven across the Mississippi. We cross the Mississippi at the end of the day today.”1 This reflective moment considers the physical landscape we are experiencing in the present day and attempts to acknowledge the violence that took place in this space and continues to take place in this space when we forget these histories. These occurrences may continue to influence and resonate throughout the environment though we may be unaware of these particular events at any one given moment.
 
 ## Figure 15
-history and emotion, 30
-weather, 25
-violence, 25
-hill or flat, 21
-river, 21
-hot or cold, 20
-landscape, 19
-history, 14
-tree, 14
-worry, 12
-color, 12
-water, 11
-time, 8
-infrastructure, 7
-conversation, 7
-forest, 6
-rain, 5
-space, 5
-elevation, 5
-plant, 5
+>history and emotion 30,
+weather 25,
+violence 25,
+hill or flat 21,
+river 21,
+hot or cold 20,
+landscape 19,
+history 14,
+tree 14,
+worry 12,
+color 12,
+water 11,
+time 8,
+infrastructure 7,
+conversation 7,
+forest 6,
+rain 5,
+space 5,
+elevation 5,
+plant 5,
 
 This practice of reflection is an ongoing theme in our journals and it accompanies a few of the other themes of writing practices. All of our journals have references to the weather: the heat of the day, the cool of the morning, the rain endured, or the wind we fought through. This focus on the weather creates an intensity in the writing when the weather we are facing is specifically harsh. Our day nine journal begins, “Last night’s camp in Mankato saw a severe thunderstorm hit about 2 am. The tents took in water and we had to hold down the poles in the high wind. Everything got soaked so we tried to dry out a bit before we got started.”1 We do not record the sleeping conditions of every day but this particular night was so significant it was important to record in the text. We do to not regularly record weather information in our journals when the weather we are enjoying is mild and accommodating. Travel journals include weather because weather faced far from home and without known shelter is always concerning. When in a landscape moving through spaces not previously travelled there is a persistent awareness of vulnerability that is intensified by the unpredictability of the weather. This vulnerability is made apparent in the term “worry” that comes up throughout the journals.
 
@@ -56,8 +56,6 @@ Voyant noted a frequency of the word landscape with 56 mentions. It noted weathe
 This graph of landscape elevation terms frequency mapped across the text of our journals corresponds to the physical elevation graph represented in Section One, in the mapping of numerical altitude measurements Figure 3. This comparison of a machine reading of our textual evidence and a hand coded thematic reading of our text shows the strength of what is contained in first-hand accounts of textual information as evidence. A journal can capture a complicated experiential emotion that can be read and understood by a reader. The textual work in our project as well as the analytical process in relation to a thematic reading of these texts was inspired by the process of Autoethnography. As defined in the Qualitative Social Research Forum, “Autoethnography is an approach to research writing that seeks to describe and systematically analyze personal experience in order to understand cultural experiences.”1 This process of reflective writing as a form of qualitative research revealed the experience of communicating with strangers in passing conversations and in-depth discussions. The text of our journal explored the low lying concern and worry over the safety of our exposed condition as travelers. 
 
 This process of journaling about a project is an encouraged practice in the Digital Humanities community. In a DH context journaling is a way to reveal the praxis-based research methods involved in the creation of a digital work. For this project the journal text itself was used as a body of data. The original journals in the context are available online at our website (<a href="http://www.crossingthegreatdivide.net/discussion/">http://www.crossingthegreatdivide.net/discussion/</a>). The journals exposed our main purpose for initiating this project, to move through the Western United States and consider the historical traumatic events that occurred in the landscape within the 19th and 21st century. This purpose can be obscured when considering only the geospatial data in Section One. The numerical representations of the journey reveal the quantitative experience of hardship as it relates to measured readings of the weather. The textual evidence represented in Section Two complicates the experience portrayed by the geospatial data in Section One. A look at the spatial numerical data collected does not expose the relationship with history that was continually present as we travelled westward through this country. The numerical data informs the text of the journals, allowing the hardships of the physical travel to be measured across a 2,718 mile journey. By engaging with quantitative and qualitative data side-by-side we see how different forms of data tell the story of this journey in very different ways. 
-
-> quote
 
 ## Footnote
 
