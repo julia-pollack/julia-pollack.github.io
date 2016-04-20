@@ -7,7 +7,7 @@ backgrounds:
 
 thumb: http://julia-pollack.github.io/assets/images/ilustration/elevation.png
 categories: travel city
-tags: japan winter spring metropolis
+tags: text journal data
 ---
 At the end of every day of our journey we journaled and recorded personal experiences. The intent of the journal was to act as a memory device for the events and happenings of the day and to communicate with friends, family and a wider audience of colleagues. Our journaling was recorded live on our WordPress site in order to chronicle our daily activities. The journals lie in the discussion section of our website,1 each week has a set of journal entries and each journal entry is 200-600 words in length, a dense paragraph. To consider the content of these journals, I coded the content of each journal entry. I read each journal and wrote thematic words that corresponded to the content and literary intent of each paragraph. As I read, certain themes appear again, I read back through the journals a second time in order understand and make connections within the terms throughout the text. This process was repeated until the thematically coded list had reached saturation. This process of thematic coding is often used in Social Science research when attempting to analyze qualitative written or verbal responses. Neil Selwyn’s study of distance learners experience with technology in their education used this technique to analyze the written experiences of subjects.2 
 
@@ -33,7 +33,7 @@ forest 6,
 rain 5,
 space 5,
 elevation 5,
-plant 5,
+plant 5
 
 This practice of reflection is an ongoing theme in our journals and it accompanies a few of the other themes of writing practices. All of our journals have references to the weather: the heat of the day, the cool of the morning, the rain endured, or the wind we fought through. This focus on the weather creates an intensity in the writing when the weather we are facing is specifically harsh. Our day nine journal begins, “Last night’s camp in Mankato saw a severe thunderstorm hit about 2 am. The tents took in water and we had to hold down the poles in the high wind. Everything got soaked so we tried to dry out a bit before we got started.”1 We do not record the sleeping conditions of every day but this particular night was so significant it was important to record in the text. We do to not regularly record weather information in our journals when the weather we are enjoying is mild and accommodating. Travel journals include weather because weather faced far from home and without known shelter is always concerning. When in a landscape moving through spaces not previously travelled there is a persistent awareness of vulnerability that is intensified by the unpredictability of the weather. This vulnerability is made apparent in the term “worry” that comes up throughout the journals.
 
