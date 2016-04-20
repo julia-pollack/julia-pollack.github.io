@@ -9,10 +9,12 @@ backgrounds:
 
 thumb: http://julia-pollack.github.io/assets/images/ilustration/ols.JPG
 categories: travel city
-tags: work business metropolis
+tags: numerical geospatial GIS
 ---
 
 The geospatial data for this project was collected using Nicholas Felton’s cell phone application, Reporter.1 The app aggregates the data that a cell phone usually collects for a set number of times a day. Using the application on this 48 day trip across the nation, I tracked our location and weather. The app collects this information and can batch export the days’ report from phone to cloud storage space in a .json file. I then hand culled the types of data that would be most interesting for the consideration of geospatial analysis. Figure 1 shows a simplified .csv file with the data I deemed relevant to this mode of questioning. 
+
+![Sample Image](http://julia-pollack.github.io/assets/images/ilustration/arrayoflandscape.jpg)
 
 There are many other data points ambiently collected via the Reporter application, battery power level, audio level of a given space, number of photos taken as well as technical specs about those photos, their brightness and exposure. While these data may be interesting to consider in future projects I wanted to focus on data that could be spatially analyzed due to the mobile aspect of the project. All of my raw .json files from the time of the journey are available online for download and experimentation (I invite the reader to take my data sets and reinterpret them in new unexpected ways).1 There are many additional questions that could be asked of the data collected on this journey. For this project I had to choose a mode of questioning in order to begin an investigation of my data. As I sifted through the raw data I thought the sound and photo information was interesting but might not have any patterned relationship to my location. As I considered the memories of the trip in the photos and the journals collected, I decided to focus on the weather data. I wanted to see if a real quantitative reading of my weather data could raise some interesting findings about our travels that I may not have been able to extrapolate in other ways. When stepping into GIS analysis it is imperative to consider that “Simple maps may be easy to make and interpret on their face value, but GIS further enables quantitative and statistically-based measurements of the relationships among data sets.”1 A considered quantitative reading of my data would require a statistical comparison.
 
