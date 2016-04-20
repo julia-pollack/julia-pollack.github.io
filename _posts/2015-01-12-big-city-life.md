@@ -87,9 +87,9 @@ This first section of this project allowed me to consider the quantitative data 
 ## Footnotes
 
 6. Felton, Nicholas. “Reporter.” www.reporter-app.com, n.d. Web. 11 May 2015.
-7. Pollack, Julia. “Git Hub.” <a href="https://github.com/julia-pollack/julia-pollack.github.io/tree/master/assets/geospacial/reporter_app">https://github.com/julia-pollack/julia-pollack.github.io/tree/master/assets/geospacial/reporter_app</a> Web. 6 April 2016.
+7. Pollack, Julia. “Git Hub.” <a href="https://github.com/julia-pollack/julia-pollack.github.io/tree/master/assets/geospacial/reporter_app">geospatial data</a> Web. 6 April 2016.
 8. “Teaching Geographic Information Science and Technology in Higher Education” (1). 2011. Hoboken, GB: Wiley. Accessed April 7, 2016. ProQuest ebrary.
 9. Pollack, Julia. “Git Hub.” <a href="https://github.com/julia-pollack/julia-pollack.github.io/blob/master/assets/geospacial/summer2015.csv">https://github.com/julia-pollack/julia-pollack.github.io/blob/master/assets/geospacial/summer2015.csv</a> Web. 6 April 2016.
 10. “ArcMap” Esri, <a href="http://desktop.arcgis.com/en/arcmap/">http://desktop.arcgis.com/en/arcmap/<a/> Web. 6 April 2016.
-11. “How Hot Spot Analysis: Getis-Ord Gi* (Spatial Statistics) works” Esri, http://resources.esri.com/help/9.3/arcgisengine/java/gp_toolref/spatial_statistics_tools/how_hot_spot_analysis_colon_getis_ord_gi_star_spatial_statistics_works.htm Web. 6 April 2016.
+11. <a href="http://resources.esri.com/help/9.3/arcgisengine/java/gp_toolref/spatial_statistics_tools/how_hot_spot_analysis_colon_getis_ord_gi_star_spatial_statistics_works.htm">“How Hot Spot Analysis: Getis-Ord Gi* (Spatial Statistics) works”</a> Esri, Web. 6 April 2016.
 12. “Ordinary Least Squares (OLS)  (Spatial Statistics) (Tool)” Esri, http://pro.arcgis.com/en/pro-app/tool-reference/spatial-statistics/ordinary-least-squares.htm Web. 6 April 2016.
