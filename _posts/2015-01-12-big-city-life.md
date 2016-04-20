@@ -7,18 +7,22 @@ backgrounds:
     - http://julia-pollack.github.io/assets/images/ilustration/altitude_happy_OLS.jpg
     - http://julia-pollack.github.io/assets/images/ilustration/altitude_happy_OLS.jpg
 
-thumb: http://julia-pollack.github.io/assets/images/ilustration/ols.JPG
+thumb: http://julia-pollack.github.io/assets/images/ilustration/data.JPG
 categories: travel city
 tags: numerical geospatial GIS
 ---
 
 The geospatial data for this project was collected using Nicholas Felton’s cell phone application, Reporter.1 The app aggregates the data that a cell phone usually collects for a set number of times a day. Using the application on this 48 day trip across the nation, I tracked our location and weather. The app collects this information and can batch export the days’ report from phone to cloud storage space in a .json file. I then hand culled the types of data that would be most interesting for the consideration of geospatial analysis. Figure 1 shows a simplified .csv file with the data I deemed relevant to this mode of questioning. 
 
-![Sample Image](http://julia-pollack.github.io/assets/images/ilustration/arrayoflandscape.jpg)
+## Figure 1
+![Sample Image](http://julia-pollack.github.io/assets/images/ilustration/Figure1.jpg)
 
 There are many other data points ambiently collected via the Reporter application, battery power level, audio level of a given space, number of photos taken as well as technical specs about those photos, their brightness and exposure. While these data may be interesting to consider in future projects I wanted to focus on data that could be spatially analyzed due to the mobile aspect of the project. All of my raw .json files from the time of the journey are available online for download and experimentation (I invite the reader to take my data sets and reinterpret them in new unexpected ways).1 There are many additional questions that could be asked of the data collected on this journey. For this project I had to choose a mode of questioning in order to begin an investigation of my data. As I sifted through the raw data I thought the sound and photo information was interesting but might not have any patterned relationship to my location. As I considered the memories of the trip in the photos and the journals collected, I decided to focus on the weather data. I wanted to see if a real quantitative reading of my weather data could raise some interesting findings about our travels that I may not have been able to extrapolate in other ways. When stepping into GIS analysis it is imperative to consider that “Simple maps may be easy to make and interpret on their face value, but GIS further enables quantitative and statistically-based measurements of the relationships among data sets.”1 A considered quantitative reading of my data would require a statistical comparison.
 
 I then reformatted the data I would use from my .json file, turned it into a .csv with only the data I intended to consider,1 and worked to make my data readable in ‘ArcMap,’ an ‘ArcGis’ tool made by Esri.2 The program builds maps and provides statistical tools so that the user may interpret their map’s relational data as well as their spatial position. Once the data was compiled and read accurately into ‘ArcMap’ I began to consider how I was going to question the material. I decided to create personal index as a standard of measurement to weigh the weather data against. Using a basic pain index scale pictured in Figure 2, I sifted through all of my daily journals and rated my pain scale for every day of the trip.
+
+## Figure 2
+![Sample Image](http://julia-pollack.github.io/assets/images/ilustration/Figure2.jpg)
 
 The next step was to take a look at the general patterns found in the weather data. I used a ‘HotSpot’ analysis, specifically the “Hot Spot Analysis (Getis-Ord Gi*) (Spatial Statistics) (Tool)”. In ArcMap, “The Hot Spot Analysis tool calculates the Getis-Ord Gi* statistic for each feature in a dataset. The resultant Z score tells you where features with either high or low values cluster spatially.”1 I then made a ‘hot spot’ map for each one of my weather variables. This gave me the ability to see the basic trends in my data. I then used the “Ordinary Least Squares (OLS) (Spatial Statistics) (Tool)”2 to compare each of the weather variables against the happiness index. 
 
