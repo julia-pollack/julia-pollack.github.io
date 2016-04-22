@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Bibliography"
-date: 2016-04-24
+date: 2016-04-21
 backgrounds:
     - http://julia-pollack.github.io/assets/photo/2015-08-18%2020.02.57.jpg
 thumb: http://julia-pollack.github.io/assets/photo/2015-08-18%2020.04.29.jpg
