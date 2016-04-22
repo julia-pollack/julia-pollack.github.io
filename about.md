@@ -25,7 +25,7 @@ The final product of this thesis is in the form of this website. By creating thi
 
 Acknowledgements
 
-Thank you to my Dad, Don Pollack for getting me out on the road and into the saddle. Thank you to my Mom, Amy Pollack for being supportive and inspiring. Thank you to all of the bike riders that came on the road with us. My Heartfelt thanks Dan Menet for fixing my commas.
+Thank you to my Dad, Don Pollack for getting me out on the road and into the saddle. Thank you to my Mom, Amy Pollack for being supportive and inspiring. Thanks to my brother Anders for rebuilding my computer over the phone. Thank you to all of the bike riders that came on the road with us. My Heartfelt thanks Dan Menet for fixing my commas. <3
 
 I would like to acknowledge the careful support of the Bronx Community College Faculty and staff.
 
