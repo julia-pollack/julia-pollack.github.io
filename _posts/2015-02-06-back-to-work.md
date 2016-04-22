@@ -6,7 +6,7 @@ backgrounds:
     - http://julia-pollack.github.io/assets/photo/2015-07-24%2011.58.56.jpg
     - http://julia-pollack.github.io/assets/photo/2015-07-24%2011.59.00.jpg
 thumb: http://julia-pollack.github.io/assets/photo/2015-08-06%2011.02.19.jpg
-categories: development work
+categories: digital humanities
 tags: photo road sky
 ---
 

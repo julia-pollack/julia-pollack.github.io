@@ -1,12 +1,12 @@
 ---
 layout: post
 title: "Conclusion"
-date: 2015-02-08
+date: 2016-04-20
 backgrounds:
     - http://julia-pollack.github.io/assets/photo/2015-07-24%2011.58.56.jpg
     - http://julia-pollack.github.io/assets/photo/2015-07-24%2011.59.00.jpg
 thumb: http://julia-pollack.github.io/assets/photo/2015-08-06%2011.02.19.jpg
-categories: development work
+categories: digital Humanities
 tags: conclusion digital humanities
 ---
 This project was initially inspired as a participatory way to engage with the history of the American West. We sought to find a way to complicate the story of exploration laid down by Lewis and Clark and the mythology of the American landscape. We wanted to keep an open mind as we travelled, knowing that we bring our cultural bias and contextual knowledge with us wherever we move. We wanted to collect and construct a memory of our own westward movement with a conscientious awareness of ourselves as outsiders. With this in mind we chose to collect as many different forms of data and evidence that would could carry with us. Our initial mode of questioning was an attempt to represent a more complex notion of the American West with a first hand experience of the incongruencies of our notions of the land itself. We collected quantitative geospatial data and qualitative data in the form of journals and photographs. Each of these data forms required their own specific model for analysis. In future iterations of this project I would like to consider how different kinds of information can shed light on an experience. How can quantitative and qualitative data collection methods assist each other in representing and event and translating that to an audience?

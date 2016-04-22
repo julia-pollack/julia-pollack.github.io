@@ -8,7 +8,7 @@ backgrounds:
     - http://julia-pollack.github.io/assets/images/ilustration/altitude_happy_OLS.jpg
 
 thumb: http://julia-pollack.github.io/assets/images/ilustration/data.jpg
-categories: travel city
+categories: digital humanities
 tags: numerical geospatial GIS
 ---
 
