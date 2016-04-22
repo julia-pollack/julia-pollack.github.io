@@ -15,9 +15,9 @@ paginate:            8
 paginate_path:       page/:num/
 
 author:
-    name: 'Salvatore Gentile'
+    name: 'Julia Pollack'
     email: ''
-    uri: 'https://github.com/SalGnt'
+    uri: 'https://github.com/julia-pollack'
 
 sass:
     sass_dir: _sass
