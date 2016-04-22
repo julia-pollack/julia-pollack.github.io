@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Geospatial Data as Evidence"
-date: 2015-06-22
+date: 2016-03-23
 backgrounds:
     - http://julia-pollack.github.io/assets/images/ilustration/altitude_happy_OLS.jpg
     - http://julia-pollack.github.io/assets/images/ilustration/altitude_happy_OLS.jpg
